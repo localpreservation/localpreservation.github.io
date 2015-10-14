@@ -20,7 +20,23 @@ We are putting together a reading list along with recommended videos, audio docu
 
 ## Reading List
 
-Nothing here yet! Check back soon.
+- [The Public is Dead, Long Live the Public](http://www.lotfortynine.org/2015/04/the-public-is-dead-long-live-the-public/), 2015 April 17, Sheila A. Brennan, Lot 49.
+- Not much here yet!
+
+## Listening List
+
+Podcasts, interviews, etc.
+
+- [http://urbanaillinois.us/podcast]
+- [http://www.epa.gov/region3/multimedia/playercontents/audio/HistoricPreservation2.html]
+- [http://discussions.mnhs.org/shpo/category/podcasts/]
+- [http://www.preservationnation.org/rosenwald/podcast.html]
+- [http://wunc.org/term/historic-preservation]
+- [http://99percentinvisible.org/episode/penn-station-sucks/]
+
+## Watching
+
+- Nothing here yet!
 
 ## Help make this list better
 
