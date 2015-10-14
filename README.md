@@ -1,5 +1,5 @@
 # Local Preservation School
-Local Preservation School: Tools, resources, and tutorials for saving historic places in your community.
+Local Preservation School: Tools, resources, and tutorials for saving historic places in your community. This repo contains [our project website](http://localpreservation.github.io). We are continuing to develop our [Local Preservation 101 course](https://github.com/localpreservation/course-in-a-box), the [Local Preservation handbook](https://github.com/localpreservation/handbook) and guidelines for contributors.
 
 ## What is the Local Preservation School?
 
