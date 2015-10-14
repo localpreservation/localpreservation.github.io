@@ -6,7 +6,7 @@ permalink: /about/
 
 ## What is the Local Preservation School?
 
-The Local Preservation School is an **open learning environment** where preservation advocates and volunteers share people how to save and sustain historic places in their communities. Our goal is to teach you how to get involved with historic preservation in your community through free online courses, easy-to-use tutorials and fun projects. **Beginners are welcome!**
+The Local Preservation School is an **open learning environment** where preservation advocates and volunteers share with people how to save and sustain historic places in their communities. Our goal is to teach you how to get involved with historic preservation in your community through free online courses, easy-to-use tutorials and fun projects. **Beginners are welcome!**
 
 <a href="{{ site.url }}/2015/09/16/what-is-local-preservation-school.html" class="button">Learn more about the Local Preservation School</a>
 

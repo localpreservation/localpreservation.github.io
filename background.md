@@ -23,7 +23,7 @@ Existing and potential audiences for online preservation education include:
 
 Historic preservation education online and offline takes in a variety of formal and informal approaches to learning and skill-building that address a range of audiences and needs.
 
-To start with a strong understanding of the different options for online education and the benefits and limitations of different approaches, I assembled an initial survey of existing approaches grouped into three categories:
+To start with a strong understanding of the different options for online education and the benefits and limitations of different approaches, we assembled an initial survey of existing approaches grouped into three categories:
 
 - **Online Course/Webinars**
 - **Online Publications**
