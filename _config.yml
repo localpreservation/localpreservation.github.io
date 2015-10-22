@@ -17,6 +17,8 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+ - title: Local Preservation 101
+   url: /local-preservation-101
 
 social:
    github: localpreservation
