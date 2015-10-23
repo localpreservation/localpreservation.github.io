@@ -17,12 +17,14 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
- - title: Local Preservation 101
-   url: /localpreservation-101
-
+ - title: Learn
+   url: /learn
+ - title: Get Involved
+   url: /get-involved
+   
 social:
    github: localpreservation
    twitter: localpast
    email: info@baltimoreheritage.org
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-69200926-1"
