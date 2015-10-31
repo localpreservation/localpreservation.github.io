@@ -4,8 +4,6 @@ title: Background
 permalink: /2016-ncptt-media-grant/
 ---
 
-We are at step 4 in our guide to applying for grants.
-
 ## How to apply for a grant
 
 This guide assumes that you have a project first—which is a good idea. Coming up with a project just for a grant is not always a bad idea but it can cause problems—especially for small organizations. 
@@ -20,7 +18,7 @@ This guide assumes that you have a project first—which is a good idea. Coming 
 3. Read about the organization making the grant (optional). If you are not familiar with the grant-making organization, find and read their mission and core goals. It can sometimes be helpful to read about any listed staff members or board members to better understand what the organization does and who is helping to guide the organization's mission.
 4. Contact a grant program administration by phone or email (optional but recommended). If you are still unsure if your project is suited to this grant opportunity, call or email a grant program administrator to discuss your project and any questions you may have. Grant administrators want to help you shape a competitive application!
 5. Re-read the announcement and any related materials.
-6. Create an outline based on the evaluation criteria for the grant narrative. Expand the outline with short descriptions or lists that explain how the proposed project meeting the requirements.
+6. Create an outline based on the evaluation criteria for the grant narrative. Expand the outline with short descriptions or lists that explain how the proposed project meeting the requirements. **👈This is where we are at right now in preparing our 2016 NCPTT Media Grant application.**
 7. Draft an abstract or project summary.
 8. Revise and expand the outline to fit within the limits on words or pages. Some online submission forms use character counts to limit the length of submissions so make sure you know how much space you are allowed to explain your project.
 9. Share your draft with a friend, colleague or partner (or more than one) to read for feedback and edits. Pay special attention to the clarity of organization, maintaining a direct connection between the narrative and the grant criteria, as well as spelling and grammar. Small mistakes (like mispelling the name of a partner organization) can undermine the credibility of an otherwise compelling proposal.
@@ -29,7 +27,6 @@ This guide assumes that you have a project first—which is a good idea. Coming 
 12. Submit your grant application!
 
 One last step: send thank-you notes to anyone who helped you with the grant application and mark your calendar for the date when you expect you might hear back.
-
 
 
 ## Project Abstract: Tell us about this project in 100 words or less
