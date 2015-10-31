@@ -4,6 +4,8 @@ title: 2016 NCPTT Media Grant
 permalink: /2016-ncptt-media-grant/
 ---
 
+# NCPTT 2016 Media Grant Application
+
 We are writing a grant application and a guide to writing grant applications at the same time! Check out [our blog post for why we are doing this]({{ site.url }}/blog/ncptt-media-grant-application/), read on to see the grant application in progress, then share your comments with [Eli Pousson](http://twitter.com/elipousson). You can also creating issues in this repo or fork this repo to contribute edits directly.
 
 ## How to apply for a grant
@@ -29,8 +31,6 @@ This guide assumes that you have a project first—which is a good idea. Coming 
 12. Submit your grant application!
 
 One last step: send thank-you notes to anyone who helped you with the grant application and mark your calendar for the date when you expect you might hear back.
-
-# NCPTT 2016 Media Grant Application
 
 ## Project Title
 
