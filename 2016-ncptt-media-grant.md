@@ -10,6 +10,8 @@ We are writing a grant application and a guide to writing grant applications at 
 
 Please share your comments on our grant application tutorial or the draft grant application with [Eli Pousson](http://twitter.com/elipousson). You can also creating issues in this repo or fork this repo to contribute edits directly. This grant is due on **Tuesday, November 3, 2015**.
 
+![Banner image - Call for Proposals 2016 Media Grants](https://ncptt.nps.gov/wp-content/uploads/media-banner.jpg)
+
 ## How do you apply for a grant?
 
 This guide assumes that you have a project first—which is a good idea. Coming up with a project just for a grant is not always a bad idea but it can cause problems—especially for small organizations. 
