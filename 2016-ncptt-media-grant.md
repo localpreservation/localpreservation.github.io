@@ -8,7 +8,7 @@ permalink: /2016-ncptt-media-grant/
 
 We are writing a grant application and a guide to writing grant applications at the same time! Check out [our blog post for why we are doing this]({{ site.url }}/blog/ncptt-media-grant-application/), read on to see the grant application in progress, then share your comments with [Eli Pousson](http://twitter.com/elipousson). You can also creating issues in this repo or fork this repo to contribute edits directly.
 
-## How to apply for a grant
+## How do you apply for a grant?
 
 This guide assumes that you have a project first—which is a good idea. Coming up with a project just for a grant is not always a bad idea but it can cause problems—especially for small organizations. 
 
@@ -22,8 +22,8 @@ This guide assumes that you have a project first—which is a good idea. Coming 
 3. Read about the organization making the grant (optional). If you are not familiar with the grant-making organization, find and read their mission and core goals. It can sometimes be helpful to read about any listed staff members or board members to better understand what the organization does and who is helping to guide the organization's mission.
 4. Contact a grant program administration by phone or email (optional but recommended). If you are still unsure if your project is suited to this grant opportunity, call or email a grant program administrator to discuss your project and any questions you may have. Grant administrators want to help you shape a competitive application!
 5. Re-read the announcement and any related materials.
-6. Create an outline based on the evaluation criteria for the grant narrative. Expand the outline with short descriptions or lists that explain how the proposed project meeting the requirements. **👈This is where we are at right now in preparing our 2016 NCPTT Media Grant application.**
-7. Draft an abstract or project summary.
+6. Create an outline based on the evaluation criteria for the grant narrative. Expand the outline with short descriptions or lists that explain how the proposed project meeting the requirements.
+7. Draft a project summary. **:point_left: This is where we are at right now in preparing our 2016 NCPTT Media Grant application.**
 8. Revise and expand the outline to fit within the limits on words or pages. Some online submission forms use character counts to limit the length of submissions so make sure you know how much space you are allowed to explain your project.
 9. Share your draft with a friend, colleague or partner (or more than one) to read for feedback and edits. Pay special attention to the clarity of organization, maintaining a direct connection between the narrative and the grant criteria, as well as spelling and grammar. Small mistakes (like mispelling the name of a partner organization) can undermine the credibility of an otherwise compelling proposal.
 10. Revise the narrative one last time based on the feedback you recieved.
@@ -32,28 +32,23 @@ This guide assumes that you have a project first—which is a good idea. Coming 
 
 One last step: send thank-you notes to anyone who helped you with the grant application and mark your calendar for the date when you expect you might hear back.
 
-## Project Title
-
-Local Preservation School
-
-- Should we give this project a tagline or a longer more descriptive title?
-
-## Project Abstract: Tell us about this project in 100 words or less
+## How should we write the project abstract? Tell us about this project in 100 words or less
 
 Here is what NCPTT says is required for the **abstract**:
 
-> The abstract is a summary of proposed work suitable for dissemination to the public. It is limited to 100 words in length. The project abstract will be a file attachment in the application. Please create the file in Microsoft Word or Word compatible software.   
+> The abstract is a summary of proposed work suitable for dissemination to the public. It is limited to 100 words in length. The project abstract will be a file attachment in the application. Please create the file in Microsoft Word or Word compatible software.
 
-## Project Narrative: Tell us about this project is 10 pages or less  
+## Local Preservation School: Project Abstract
+
+I'm saving the trouble of writing the abstract until the end!
+
+## How should we write the project narrative? Tell us about this project is 10 pages or less  
 
 Here is what NCPTT says is required for the **narrative description**:
 
 > The proposal is a narrative description that should specifically address each of the review criteria (see Section IV). The proposal text must be no longer than 10 pages, no smaller than font size 11, and have 1-inch margins. The 10-page limit includes all text, figures, references, and resumes (Forms SF-424, SF-424A, SF- 424B, project abstract, key contacts, and the statement of indirect charges are not counted as part of the 10 page limit).
 
 I’m estimating that resumes, references and figures will take about 3-4 pages of the total. That leaves us to write (or reuse) around 6-7 pages of description to explain this project. I’m going to start with an outline of the key components of our project and how they fulfill the goals for the grant. It is always good to make this very explicit—don’t assume a grant reviewer will understand why your project is a good fit for a funding opportunity? You _always_ have to tell them.
-
-
-# Grant Narrative Outline
 
 - **Project Title**. 
 - **Discipline**. Include archeology, architecture, engineering, collections, historic landscapes, or materials conservation 
@@ -78,17 +73,23 @@ I’m estimating that resumes, references and figures will take about 3-4 pages 
 - **Qualifications**. Summary of the expertise and project-related experience of the principal investigator (500 words) and of the research team (1000 words). 
 - **Project Income**. If the project is expected to generate income, please indicate the nature and source of the income. How will these funds be used to offset costs for the project? 
 
-## Project Description
+## Local Preservation School: Project Description
 
-Baltimore Heritage proposes to develop and deliver a MOOC (massively open online course) focused on teaching historic preservation tools and practices that can be used at the community level to preserve and enhance historic places. The course is intended for a diverse audience of historic preservation advocates, with a particular focus on underserved and non-professional communities in urban areas. This project will take the form of a set of teaching resources published online as public domain content using the GitHub platform for sharing open-source code and documents.
+### Introduction
 
-**What do we think makes this a compelling project?**
+Local Preservation School is an online open educational resource (OER) designed to teach historic preservation concepts, skills and practices to volunteer and professional preservation advocates. Over the next year, we plan to develop a collection of lessons, exercises, activities illustrated with interactive maps, quizzes, graphics and data visualizations that can be used by a diverse community of preservation advocates around the country as learning resources. Preservation professionals can also use (and customize) these same resources to teach interested individuals in their own communities about how to participate in historic preservation efforts in a variety of ways.
 
-- There are few existing models for collaborative, open-source projects related to historic preservation. This project could help increase the base of preservation professionals using GitHub with potential secondary benefits for other open-source projects in the future.
-- Open education is increasing in importance across the country. The White House also just [announced a major initiative](https://www.whitehouse.gov/blog/2015/10/19/openly-licensed-educational-resources-providing-equitable-access-education-all) to support the “use of open educational resources to provide equitable access to quality education.”
-- Other federal agencies are using and promoting open-source tools, notably 18F, but also the White House, the National Park Service (of which NCPTT is part), etc.
+This proposal continues to explain how the Local Preservation School disseminates innovative technology, addresses a national need, identifies an audience (with a plan to reach them), and clearly justifies project costs. In summary:
+1. This project disseminates a unique model for how GitHub, Jekyll and open-source web technologies can facilitate affordable, effective and collaborative preservation advocacy and education. Our planned educational resources include both lessons on how to use open-source tools for preservation (e.g. Omeka, Open Street Map, and geojson.io) and templates and guidelines for how teachers can create their own lessons with GitHub and Jekyll.
+2. This project addresses a wide range of needs with a collaborative approach for content development—including professionals/volunteers from different cities and regions who have experience with wide variety of cultural resources. We seek to balance this broad and inclusive scope by envisioning a design and user experience that can allow any individual to customize their learning experience—matching beginners to introductory lessons or experienced advocates to advanced tutorials.
+3. After a detailed review of existing online educational resources, we identified volunteer historic preservation advocates as the primary audience for the Local Preservation School resources—an audience we believe to be underserved by existing resources. We identified early to mid-career professionals working in fields related to historic preservation (tourism, community and economic development, urban planning, etc.) as a secondary audience—recognizing their role as frequent collaborators with volunteer and professional preservation advocates. Early to mid-career professionals working in historic preservation are a final audience for the project, serving as collaborators, contributors and advisors as we develop the course content and guidelines for teaching and collaboration.
+4. The project funding requested under this grant proposal would support the addition of key partners to the project team, including an instructional designer with experience in online education and a web developer with open-source project management experience.
 
-## Innovation
+To illustrate the enormous potential of the innovative open-source technology that supports the Local Preservation School we have used GitHub to publish this grant application and engage a broader community of partners in the development of the proposal through our Jekyll-based website at: [localpreservation.github.io/2016-ncptt-media-grant](localpreservation.github.io/2016-ncptt-media-grant).
+
+The remaining section of the proposal provides additional background on how the Local Preservation School uses and disseminates technology, what preservation needs and audiences it addresses and explains the project costs. The description is followed by 
+
+### Technology and Dissemination Strategy
 
 **Does the proposal offer a media product for disseminating innovative technology to the preservation community?**
 
@@ -125,7 +126,7 @@ Examples:
 
 Our proposed product differs with an open license, web-based interactive features (no PDFs, no proprietary LMS, no PPT, etc.)
 
-## National Need
+### Preservation Needs and Audiences
 
 **How does this project address a wide range of preservation needs?**
 
@@ -140,8 +141,6 @@ Our educational resources will be developed with consideration for regional vari
 - Strategies for vacant and abandoned properties
 - Strategies for public art/monuments
 - Documentation and designation of diverse resources (intangible resources,  underrepresented resources, LGBTQ, African American, women’s rights, Latino, Asian American/Pacific Islander, etc.)
-
-## Audience
 
 **Who is the target audience for the product?**
 
@@ -184,7 +183,7 @@ Indirect strategies for distribution:
 
 - Encouraging social media promotion by contributors, collaborators and learners
 
-## Costs
+### Costs
 
 **How do the benefits of the project relate to the proposed budget? **
 
@@ -200,7 +199,9 @@ Additional project funding:
 - Open Source Community Manager
 - Content Marketing
 
-## Schedule
+## Local Preservation School: Schedule
+
+We've been meaning to put together an updated schedule anyway! A grant application can be a great opportunity for project planning even if an application is not successful in winning funding. A project schedule can sometimes start or end before or after a grant begins to illustrate the broader context when a grant is supporting an existing initiative. 
 
 - Fall 2015
 - Winter 2015/2016
@@ -209,7 +210,7 @@ Additional project funding:
 - Fall 2016
 - Winter 2016/2017
 
-## Deliverables
+## Local Preservation School: Deliverables
 
 We propose to divide the project into four major components:
 
@@ -222,7 +223,7 @@ The fourth component is the largest: an online "school" with multiple short cour
 
 Optionally, sections of the online course could be designed as templates that local partners could "fork" and adapt for the needs of audiences in their own community. Alternate names for the site include School of Saving Places, School of Heritage Conservation, and the School of Community Heritage.
 
-## Qualifications
+## Local Preservation School: Qualifications
 
 What makes Baltimore Heritage a competitive applicant as the project lead?
 
