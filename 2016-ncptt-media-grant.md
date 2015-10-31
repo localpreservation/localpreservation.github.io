@@ -6,7 +6,9 @@ permalink: /2016-ncptt-media-grant/
 
 # NCPTT 2016 Media Grant Application
 
-We are writing a grant application and a guide to writing grant applications at the same time! Check out [our blog post for why we are doing this]({{ site.url }}/blog/ncptt-media-grant-application/), read on to see the grant application in progress, then share your comments with [Eli Pousson](http://twitter.com/elipousson). You can also creating issues in this repo or fork this repo to contribute edits directly.
+We are writing a grant application and a guide to writing grant applications at the same time! Check out [our blog post for why we are doing this]({{ site.url }}/blog/ncptt-media-grant-application/), review our instructions for how to apply for a grant, take a look at the requirements for the NCPTT 2016 Media Grant, or read our grant application in progress.
+
+Please share your comments on our grant application tutorial or the draft grant application with [Eli Pousson](http://twitter.com/elipousson). You can also creating issues in this repo or fork this repo to contribute edits directly. This grant is due on **Tuesday, November 3, 2015**.
 
 ## How do you apply for a grant?
 
@@ -48,7 +50,7 @@ Here is what NCPTT says is required for the **narrative description**:
 
 > The proposal is a narrative description that should specifically address each of the review criteria (see Section IV). The proposal text must be no longer than 10 pages, no smaller than font size 11, and have 1-inch margins. The 10-page limit includes all text, figures, references, and resumes (Forms SF-424, SF-424A, SF- 424B, project abstract, key contacts, and the statement of indirect charges are not counted as part of the 10 page limit).
 
-I’m estimating that resumes, references and figures will take about 3-4 pages of the total. That leaves us to write (or reuse) around 6-7 pages of description to explain this project. I’m going to start with an outline of the key components of our project and how they fulfill the goals for the grant. It is always good to make this very explicit—don’t assume a grant reviewer will understand why your project is a good fit for a funding opportunity? You _always_ have to tell them.
+Here is how NCPTT outlines the required content for the narrative description in  [How to Apply Quick Guide for 2016 NCPTT Media Grants](https://ncptt.nps.gov/download/36252/).
 
 - **Project Title**. 
 - **Discipline**. Include archeology, architecture, engineering, collections, historic landscapes, or materials conservation 
@@ -67,6 +69,8 @@ I’m estimating that resumes, references and figures will take about 3-4 pages 
 	- Provide a distribution plan to reach the target audience. 
 4. **Costs**: Are the costs reasonable for the work to be performed? ￼(Weight 10%)
 	- How do the benefits of the project relate to the proposed budget? 
+
+**Note:** Pay close attention to grant review criteria! It is always good to make this very explicit—don’t assume a grant reviewer will understand why your project is a good fit for a funding opportunity? You _always_ have to tell them.
 
 - **Schedule**. Include schedule and project tasks. (500 words).
 - **Deliverables**. Describe deliverables or products associated with project (500 words). 
