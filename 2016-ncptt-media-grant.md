@@ -219,17 +219,19 @@ We've been meaning to put together an updated schedule anyway! A grant applicati
 - Winter 2016/2017
 
 ## Local Preservation School: Deliverables
+_Length: 403 of 500 words_ 
 
-We propose to divide the project into four major components:
+We plan to create three major deliverables for this project:
 
-- A preservation literacy map
-- A database of OERs (Open Educational Resources) for preservation 
-- A pilot hybrid course for Baltimore participants ([Explore Baltimore Heritage 101](https://github.com/baltimoreheritage/explore-101))
-- An set of lessons for participants around the U.S. – this may take the form of a single course (e.g. [Local Preservation 101](https://github.com/localpreservation/course-in-a-box)) or multiple short courses (e.g. [Local Data and Preservation](https://github.com/localpreservation/localdata-101))
+1. A preservation literacy map
+2. A database of OERs (Open Educational Resources) for preservation 
+3. A set of beginner-focused lessons for participants around the U.S. – this may take the form of a single course (e.g. [Local Preservation 101](https://github.com/localpreservation/course-in-a-box)) or multiple short courses (e.g. [Local Data and Preservation](https://github.com/localpreservation/localdata-101))
 
-The fourth component is the largest: an online "school" with multiple short courses or lessons presented as a national resource with a focus on urban and suburban communities. The school will initially be launched as a facilitated 8-week course with the goal of reaching around 200 participants in cities around the country. Each lesson will include course material, such as suggested resources, activities that can be completed online or in a participant's own community, and some strategy for evaluation, such as a short quiz. 
+The **Preservation Literacy Map** is a detailed outline describing competencies, skills and knowledge that people need to have in order to be effective advocates for historic preservation. The Literacy Map is intended to provide an overarching curriculum for the Local Preservation School, guiding the organization of the resource database and online lessons while connecting people to the most relevant resources for their area of interest. The concept of a “literacy map” as a core guiding document for this project is inspired by the Mozilla Webmaker project’s[ Web Literacy Map](https://webmaker.org/en-US/literacy). The intent of the Web Literacy Map is to help people “build literacy in exploring, building, and sharing the web” by describing “powers like coding, storytelling, protecting your online privacy” and connecting those skills to related links “hands on projects to make and activities for teaching.” As with Mozilla’s project, the Preservation Literacy Map will allow people to determine what skills they have, what skills they lack and how to find resources to improve their confident in those areas.
 
-Optionally, sections of the online course could be designed as templates that local partners could "fork" and adapt for the needs of audiences in their own community. Alternate names for the site include School of Saving Places, School of Heritage Conservation, and the School of Community Heritage.
+The **Preservation Resource Database** is a collection of documents, websites, tools and related material available under open licenses (public domain or Creative Commons). The database enables the presentation of related resources depending on resource type, location, publisher, date, etc. 
+
+The **Local Preservation School** builds on the literacy map and resource database to deliver multiple short courses or focused on a national audience of people interested in historic preservation in urban and suburban communities. We plan to involve 30-50 preservation professionals and volunteers in the collaborative development of the course content and presentation. The school will initially be launched as a facilitated 8-week course with the goal of reaching around 200 participants in cities around the country. Each lesson will include course material, such as suggested resources, activities that can be completed online or in a participant's own community, and some strategy for evaluation, such as a short quiz. We plan to design selected lessons in the form of templates that local partners could "fork" using GitHub to adapt for the needs of audiences in their own community.
 
 ## Local Preservation School: Qualifications
 
