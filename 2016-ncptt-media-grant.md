@@ -208,15 +208,22 @@ Additional project funding:
 - Content Marketing
 
 ## Local Preservation School: Schedule
+_Length: 69 of 500 words_ 
 
-We've been meaning to put together an updated schedule anyway! A grant application can be a great opportunity for project planning even if an application is not successful in winning funding. A project schedule can sometimes start or end before or after a grant begins to illustrate the broader context when a grant is supporting an existing initiative. 
+This is a summary description that needs to be expanded.
 
-- Fall 2015
-- Winter 2015/2016
-- Spring 2016
-- Summer 2016
-- Fall 2016
-- Winter 2016/2017
+We've been meaning to put together an updated schedule anyway! A grant application can be a great opportunity for project planning even if an application is not successful in winning funding. A project schedule can sometimes start or end before or after a grant begins to illustrate the broader context when a grant is supporting an existing initiative.
+
+| Date | Task | Stage |
+|------|------|-------|
+|  December 2015    |  Interviews with key stakeholders; background research    |  Research     |
+|  February 2016    |  Assembling preservation literacy map, resource database    |  Course Development     |
+|  March 2016    |  Creating lessons and exercises    |  Course Development    |
+|  May 2016    |  Testing lessons and exercises with target audience    |  Evaluation     |
+|  July 2016    |   Promoting course through online outreach, presentations   |   Dissemination    |
+|  September 2016    |  Promoting course through academic, nonprofit partners    |  Dissemination     |
+|  December 2016    |  Revising lessons and exercises based on participant feedback    |  Evaluation     |
+
 
 ## Local Preservation School: Deliverables
 _Length: 403 of 500 words_ 
@@ -234,12 +241,19 @@ The **Preservation Resource Database** is a collection of documents, websites, t
 The **Local Preservation School** builds on the literacy map and resource database to deliver multiple short courses or focused on a national audience of people interested in historic preservation in urban and suburban communities. We plan to involve 30-50 preservation professionals and volunteers in the collaborative development of the course content and presentation. The school will initially be launched as a facilitated 8-week course with the goal of reaching around 200 participants in cities around the country. Each lesson will include course material, such as suggested resources, activities that can be completed online or in a participant's own community, and some strategy for evaluation, such as a short quiz. We plan to design selected lessons in the form of templates that local partners could "fork" using GitHub to adapt for the needs of audiences in their own community.
 
 ## Local Preservation School: Qualifications
+_Length: 463 of 500 words_
 
-What makes Baltimore Heritage a competitive applicant as the project lead?
+The development for the Local Preservation School does not follow the model suggested in the application guidelines of a principal investigator and research team. Instead, this project is organized and facilitated by Eli Pousson, Director of Preservation and Outreach for Baltimore Heritage. In this project, Eli Pousson is closely coordinating with Baltimore Heritage Executive Director Johns Hopkins and Barbara Little, Program Manager, Cultural Resources Office of Outreach, Diversity and Inclusion, National Park Service (who initiated the development of this program and provided funding through NCSHPO). 
+Baltimore Heritage is a small nonprofit with a strong track record of successful community outreach and digital history projects with a mix of support from private, state and federal funding. As a long-time participant in the National Trust for Historic Preservation Statewide and Local Partners program, we anticipate drawing significant support for this project through our relationships and past partnerships with preservation professionals and volunteers around the country.
 
-- We are a small organization where even modest investments in funding can make a big difference for our capacity.
-- We now have a track record of successful federal grants thanks to the Baltimore Heritage archaeological dig in Patterson Park in 2014. 
+Beyond this core project team, we plan to solicit participation from 20-30 preservation professional and volunteers from local and state government and private nonprofits. Partners contacted prior to the submission of this application include the Virginia Department of Historic Resources, City Lore (a New York City-based cultural heritage nonprofit), the National Trust for Historic Preservation, San Antonio Conservation Society and others.
 
-What about our broader network of advisors, partners, contacts and friends make this a more competitive project?
+Eli has worked for Baltimore Heritage since 2009. He previously worked for the DC Office of Historic Preservation and completed graduate work in anthropology and historic preservation at the University of Maryland College Park. Recent projects for Baltimore Heritage include:
 
-- This project is based around open communications with professionals and volunteers around the country.
+- Leading the development of Explore Baltimore Heritage: A website and native smartphone app created Curatescape and Omeka that combines accessible interpretive essays with historic images from archives and libraries across the Baltimore region.
+- Coordinating We Dig Hampstead Hill – Searching for the War of 1812 in Patterson Park: A public archaeology dig in a major East Baltimore park that engaged over 70 volunteers and 700 school children in the spring of 2014.
+- Serving as the primary historian on Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement: A NPS Heritage Fund supported project to write a Multiple Property Documentation Form about Civil Rights associated resources for the Maryland Historical Trust.
+
+In addition to his work with Baltimore Heritage, Eli volunteers as a board member of the Friends of Maryland’s Olmsted Parks & Landscapes, a founding member of the Preservation Rightsizing Network, and a founding board member of the Rainbow Heritage Network.
+
+Johns Hopkins has been the executive director of Baltimore Heritage since 2003. Before that, Johns worked for the Maryland Department of Housing and Community Development developing and implementing smart growth and neighborhood revitalization programs. Johns holds degrees from Yale University, George Washington University Law School, and the University of Michigan’s School of Natural Resources and Environment.
