@@ -6,6 +6,8 @@ permalink: /2016-ncptt-media-grant/
 
 # NCPTT 2016 Media Grant Application
 
+**Update—November 3, 2015:** We completed the grant application just in time to submit before the deadline! We switched from GitHub to Google Docs at the end of the process to make sure we had the formatting right for Microsfot Word (the required submission format). 
+
 We are writing a grant application and a guide to writing grant applications at the same time! Check out [our blog post for why we are doing this]({{ site.url }}/blog/ncptt-media-grant-application/), review our instructions for how to apply for a grant, take a look at the requirements for the NCPTT 2016 Media Grant, or read our grant application in progress.
 
 Please share your comments on our grant application tutorial or the draft grant application with [Eli Pousson](http://twitter.com/elipousson). You can also creating issues in this repo or fork this repo to contribute edits directly. This grant is due on **Tuesday, November 3, 2015**.
@@ -27,7 +29,7 @@ This guide assumes that you have a project first—which is a good idea. Coming 
 4. Contact a grant program administration by phone or email (optional but recommended). If you are still unsure if your project is suited to this grant opportunity, call or email a grant program administrator to discuss your project and any questions you may have. Grant administrators want to help you shape a competitive application!
 5. Re-read the announcement and any related materials.
 6. Create an outline based on the evaluation criteria for the grant narrative. Expand the outline with short descriptions or lists that explain how the proposed project meeting the requirements.
-7. Draft a project summary. **:point_left: This is where we are at right now in preparing our 2016 NCPTT Media Grant application.**
+7. Draft a project summary.
 8. Revise and expand the outline to fit within the limits on words or pages. Some online submission forms use character counts to limit the length of submissions so make sure you know how much space you are allowed to explain your project.
 9. Share your draft with a friend, colleague or partner (or more than one) to read for feedback and edits. Pay special attention to the clarity of organization, maintaining a direct connection between the narrative and the grant criteria, as well as spelling and grammar. Small mistakes (like mispelling the name of a partner organization) can undermine the credibility of an otherwise compelling proposal.
 10. Revise the narrative one last time based on the feedback you recieved.
@@ -44,7 +46,7 @@ Here is what NCPTT says is required for the **abstract**:
 
 ## Local Preservation School: Project Abstract
 
-I'm saving the trouble of writing the abstract until the end!
+The Local Preservation School is an online open educational resource (OER) designed to teach historic preservation while demonstrating the potential of open source tools and approaches for preservation practice/education. This project is an innovative model for how open source web technology (GitHub and Jekyll) can support affordable, effective and collaborative preservation education and advocacy. The media products include beginner-friendly online lessons on preservation skills and concepts; tutorials on how to use free open source tools to support preservation efforts; and customizable templates/guidelines for preservation professionals to use open educational resources to teach preservation in their own communities.
 
 ## How should we write the project narrative? Tell us about this project is 10 pages or less  
 
@@ -80,168 +82,117 @@ Here is how NCPTT outlines the required content for the narrative description in
 - **Project Income**. If the project is expected to generate income, please indicate the nature and source of the income. How will these funds be used to offset costs for the project? 
 
 ## Local Preservation School: Project Description
+# Project Description
 
-### Introduction
+## Introduction
 
-Local Preservation School is an online open educational resource (OER) designed to teach historic preservation concepts, skills and practices to volunteer and professional preservation advocates. Over the next year, we plan to develop a collection of lessons, exercises, activities illustrated with interactive maps, quizzes, graphics and data visualizations that can be used by a diverse community of preservation advocates around the country as learning resources. Preservation professionals can also use (and customize) these same resources to teach interested individuals in their own communities about how to participate in historic preservation efforts in a variety of ways.
+The Local Preservation School is an online open educational resource (OER) designed to teach historic preservation concepts, skills and practices. We are using open source tools (GitHub and the static site generator Jekyll) to develop and publish a collection of lessons and exercises illustrated with interactive maps, quizzes, and graphics for an audience of volunteer preservation advocates around the country. Professionals working in preservation (or related fields) can reuse/customize these same products to teach a variety of topics related to preservation in their own communities. We plan to complete much of the initial content development for the Local Preservation School prior to the proposed funding period. We are requesting funds to support the testing, refinement and broad dissemination of the Local Preservation School products as a model how open source technology and approaches can benefit historic preservation.
 
-This proposal continues to explain how the Local Preservation School disseminates innovative technology, addresses a national need, identifies an audience (with a plan to reach them), and clearly justifies project costs. In summary:
+To illustrate the potential that open source approaches for the Local Preservation School (and other preservation projects) we have used Jekyll and GitHub Pages to publish this grant application online: [localpreservation.github.io/2016-ncptt-media-grant](http://localpreservation.github.io/2016-ncptt-media-grant/localpreservation.github.io/2016-ncptt-media-grant).
 
-1. This project disseminates a unique model for how GitHub, Jekyll and open-source web technologies can facilitate affordable, effective and collaborative preservation advocacy and education. Our planned educational resources include both lessons on how to use open-source tools for preservation (e.g. Omeka, Open Street Map, and geojson.io) and templates and guidelines for how teachers can create their own lessons with GitHub and Jekyll.
-2. This project addresses a wide range of needs with a collaborative approach for content development—including professionals/volunteers from different cities and regions who have experience with wide variety of cultural resources. We seek to balance this broad and inclusive scope by envisioning a design and user experience that can allow any individual to customize their learning experience—matching beginners to introductory lessons or experienced advocates to advanced tutorials.
-3. After a detailed review of existing online educational resources, we identified volunteer historic preservation advocates as the primary audience for the Local Preservation School resources—an audience we believe to be underserved by existing resources. We identified early to mid-career professionals working in fields related to historic preservation (tourism, community and economic development, urban planning, etc.) as a secondary audience—recognizing their role as frequent collaborators with volunteer and professional preservation advocates. Early to mid-career professionals working in historic preservation are a final audience for the project, serving as collaborators, contributors and advisors as we develop the course content and guidelines for teaching and collaboration.
-4. The project funding requested under this grant proposal would support the addition of key partners to the project team, including an instructional designer with experience in online education and a web developer with open-source project management experience.
+**_Project Description Summary_**
 
-To illustrate the enormous potential of the innovative open-source technology that supports the Local Preservation School we have used GitHub to publish this grant application and engage a broader community of partners in the development of the proposal through our Jekyll-based website at: [localpreservation.github.io/2016-ncptt-media-grant](localpreservation.github.io/2016-ncptt-media-grant).
+- **Disseminating technology through media products:** This project offers a unique model for how GitHub, Jekyll and open source web technology can facilitate affordable, effective and collaborative preservation education and advocacy. The media products created by the Local Preservation School will include beginner-friendly lessons on preservation; tutorials on how to use free, open source tools for local preservation projects; and customizable templates/guidelines that anyone can reuse or adapt to teach preservation in their own community.
+- **Meeting national preservation needs**: This project addresses a wide range of needs through a collaborative approach involving a network of professionals/volunteers working with a wide variety of cultural resources. These contributors will shape course content by writing lessons and exercises, and contributing material to a shared database of open resources. We also seek to make it easy to for individuals to find resources relevant for them within the course website. This requires a design that lets people customize their learning experience-connecting beginners to introductory lessons or experienced advocates to advanced material.
+- **Identifying and reaching an audience**: After a close review of existing educational resources for preservation, we identified volunteer advocates as the primary audience for the Local Preservation School. Two additional audiences include professionals in preservation and related fields who often work closely with local preservationists. Professionals working in historic preservation are also the key audience for the project templates and guidelines that we will develop to support the collaborative development of course content.
+- **Project costs and benefits**: With current funding committed through the NCSHPO (in partnership with the Cultural Resources Office of Outreach, Diversity and Inclusion, NPS), the Local Preservation School has sufficient support to complete all planned media products. The additional funding requested from NCPTT would help us improve the quality of the products through consulting services and enable us extend the project schedule into 2017 as we test, refine and disseminate the products resulting from this project.
 
-The remaining section of the proposal provides additional background on how the Local Preservation School uses and disseminates technology, what preservation needs and audiences it addresses and explains the project costs. The description is followed by 
+## Disseminating technology through media products
 
-## Technology and Community Outreach
+### Why do open source tools matter for preservation
 
-In this section of the grant narrative, we describe in more details the rationale for using open source technology and how we plan to disseminate this approach through a project community building initiative.
+Using version tracking tools (like GitHub) in combination with open source values is an emerging best practice for a many organizations and disciplines. Although GitHub describes itself as a place to "share code with friends, co-workers, classmates, and complete strangers," it is also an increasingly popular platform for collaboration around scientific papers, databases, maps and educational resources. In a 2015 paper, "[Embracing Participatory Culture in Education](http://alexeyza.com/blog/2015/09/10/embracing-participatory-culture-in-education/)," researcher Alexey Zagalsky describes how GitHub goes beyond replacing the traditional learning management systems (e.g., Blackboard) by creating innovative opportunities for collaboration. GitHub enables a transparent process for writing and revision that explicitly encourages reuse. Educational materials easily be ["forked"](https://guides.github.com/activities/forking/) to modify materials for individual needs or to make improvements that can be integrated back into the original source.
 
-### Why does open source matter for preservation education
+One key tool for us is the Course-in-a-Box template created by Peer 2 Peer University (P2PU) in 2015 to make it easier to create online courses with Jekyll. We are also using the extensive resources on open source project management published by the U.S. General Services Administration 18F program in 2014 and 2015. Given 18F's growing success in promoting open source among federal employees, we anticipate that open resources (like the Local Preservation School) are ideal for promote collaboration between private and public sector partners across the country.
 
-The GitHub, Jekyll and other open source tools and approaches are an emerging best practice for sharing and collaboration for a variety of organizations and disciplines. Although GitHub describes itself primarily as a place to “share code with friends, co-workers, classmates, and complete strangers,” GitHub is also an increasingly popular platform for sharing and collaborating on documents, databases, maps and educational resources. In a recent paper on “[Embracing Participatory Culture in Education](http://alexeyza.com/blog/2015/09/10/embracing-participatory-culture-in-education/),” researcher Alexey Zagalsky how GitHub goes beyond simply replacing the traditional learning management systems (e.g., Blackboard, Moodle), by opening up new opportunities for collaboration. Open source and version tracking enables a transparent and collaborative process of writing, revision and design, and opens up the option of courses or lessons being[ “forked”](https://guides.github.com/activities/forking/) by partners interested in adapting the course for audiences in their local communities.
+### How we plan to disseminate open source tools and approaches
+Our dissemination plan builds on the preexisting importance of community education within historic preservation. For 50 years or more, local and state governments, nonprofits and CRM firms have developed a variety of "Preservation 101"-style courses and workshops. Unfortunately, many such resources rely on proprietary formats (e.g. Adobe PDF, Microsoft PPT, or commercial webinar tools) that require ongoing licensing fees or have serious issues with usability and accessibility online.
 
-One important model for the Local Preservation School is the Course-in-a-Box template created by Peer 2 Peer University (P2PU) (a nonprofit with a strong track record of developing open online courses) to facilitate the process of creating new courses. This project draws additional support from the resources and documentation created by the General Services Administration 18F program. 18F is clearly documenting the process of creating open source projects and illustrating the way in which open source can provide the basis for collaboration between private and public sector partners across the country.
+In contrast, we plan to create our media products with the same free, open source tools that set the standard for modern web publishing. This will make our products easier to find and easier to use. Our strategy for dissemination of the technology (beyond the dissemination of the products) takes two forms:
 
-### Disseminating  open source tools and approaches
+- Engaging people in the process of developing lessons for the Local Preservation School using GitHub and Jekyll
+- Engaging people with tutorials that demonstrate the potential of using a broader range of open source tools (e.g. LocalData, Omeka, EditData.org, geojson.io, Arches) for other aspects of preservation practice beyond education and publication
 
-Preservation organizations already make community outreach and education a core part of their approach. Examples of Preservation 101 courses and workshops can be found in [Minnesota](http://www.mnpreservation.org/resources-page/preservation-guides/), [Oregon](http://www.oregon.gov/oprd/HCD/SHPO/docs/2012OMSConf/MS_4_HP101.pdf), and [New York](http://www.preservationbuffaloniagara.org/files/documents/Preservation_101/Preservation_101_for_Web_SHPO_w_logos.pdf) just to name a few. Unfortunately, many preservationists continue to rely on presentation formats (like PDF documents or proprietary webinar and learning management systems) that have limited effectiveness as online educational resources.
+This project benefits the broader historic preservation community by increasing awareness and accessibility of free tools and resources. The project also creates the opportunity for preservation professionals to apply open source approaches to their own work or by joining open source projects beyond the Local Preservation School.
 
-It disseminates preservation technology in to ways:
-- By engaging professional and experienced volunteers in the process of developing lessons, commenting and contributing to lessons through social media and open-source publishing tools.
-- By connecting interested audiences with resources that demonstrate the potential of these open-source methods for creating effective educational resources.
+## Meeting national preservation needs
 
-Benefits:
-- Increased accessibility of free resources
-- Builds capacity to contribute to other open-source initiatives through familiarity with open-source principals and tools.
-- Project supports related efforts to create a more diverse and participatory culture within preservation practice.
+### Defining needs through a collaborative approach
 
-These tools and approaches are essential to both communication the core content goals of the site and to recruit and empower the collaborators and partners we are hoping to work with.
+Rather than limiting the course content to a single set of needs at the outset, the Local Preservation School is based on the idea that a collaborative approach to content development can provide a democratic framework for defining needs and priorities. In this way, the Local Preservation School fits within the model of a **cMOOC** (a Massively Open Online Course using connectivist learning theory). In comparison to better known xMOOCs (large online courses popularized by Coursera and EdX), cMOOCs reach smaller communities of learners-hundreds rather than thousands-but encourages an approach to learning that respects the ideas and resources many students already have to share. George Siemens and Stepehen Downes, pioneers of the connectivist theory, suggest the potential of "creativity, autonomy and social networked learning." Educational researcher Jonathan Haber described this approach [on his blog](http://degreeoffreedom.org/xmooc-vs-cmooc/) writing, "in a cMOOC environment the participants in the course act as both teachers and students, sharing information and engaging in a joint teaching and learning experience through intense interaction facilitated by technology."
 
-## Preservation Needs and Audiences
+### Design and user experience customized for individuals
 
-### Collaborative approach to content development
+All educational resources created for this project will be tagged to highlight any related regions or localities, related building/landscape types, specific audiences, or areas of thematic interest. This is necessary, in part, to support planned partnerships with preservation organizations that focus on specific preservation needs or audiences. Examples include the Rainbow Heritage Network (focused on the preservation of LGBTQ associated resources) or the Preservation Rightsizing Network (focused on preservation issues in Legacy Cities with shrinking population). Individual lessons will then be packaged and organized around **specific audience needs and goals** to take the form of overlapping collections, courses, or "[learning pathways](http://edglossary.org/learning-pathway/)." Examples of individual lessons and larger collections are listed as part of the planned deliverables.
 
-Meeting a national preservation need will be supported by our plan to use this project to articulate a clear framework defining the relevant areas of expertise within the discipline of historic preservation. The urgent need for such a framework is noted in _Preservation Education: Sharing Best Practices and Finding Common Ground_ (2014), where Jeremy C. Wells and Barry L. Stiefel argue that the short history of preservation education has left a gap in this area of pedagogy and curriculum design:
+### Defining an audience and a plan to reach them
 
-> ”While larger and better known fields such as the sciences, education and English have an abundance of literature on pedagogical techniques and curriculum design, similar resources for heritage conservation simply do not exist and there appears to be little or no evidence of an active discussion on outcomes-based learning in this field, much less pedagogical techniques and curriculum design.”
+The **primary target audience** for the Local Preservation School are **volunteer historic preservation advocates** who make up a base of support for preservation nonprofits, park "friends" groups, and small historic sites around the country. With varying experience and interests, volunteers may engage with preservation as tour guides, researchers, organizers, fundraisers or preservation commissioners. A 2012 study by the National Trust for Historic Preservation identified 15 million active "local preservationists"-a much larger and more diverse audience than preservation professionals alone. Despite its size, we see this audience as critically underserved as a result of the cost and technical sophistication of most existing resources.
 
-The same collaboration that supports the dissemination of the technology is also important to meeting the diverse needs of the target audience for this project. In contrast to educational initiatives or training programs shaped exclusively by the needs of a single organization or individual educator, the plan to collaborate in developing content for the Local Preservation School will encourage feedback and contributions from a wide range of participants. By finding partners and contributors working in New York, Richmond, San Antonio, Cleveland and many other American communities we help to ensure that we can meet our goal of serving a variety of audiences. In addition, the transparency of the project with continuous opportunities for public participation, a commitment to remain responsive to public feedback and the option of any reader to reuse and adapt education materials provide additional assurance of the potential of this project to meet shared national needs for preservation education. 
+There are two **additional** **target audiences** for this project:
 
-In this way the project fits the model of a **cMOOC** - an abbreviation for Massively Open Online Courses based around the connectivist learning theory. In comparison to the better known xMOOCs (the large-scale online courses popularized by Coursera and similar platforms), cMOOCs often reach smaller communities of learners - hundreds or thousands of individuals rather than tens or hundreds of thousands - but encourage a more collaborative approach to learning that respects the ideas and resources many students may have to share.
+- professionals working in historic preservation (local, state, federal government; local, statewide, and regional non-profits; and private businesses in cultural resource management, architecture and conservation)
+- professionals working in related fields (museums, tourism, community and economic development, folklore, urban and regional planning, sustainable transportation advocacy, community organizing, etc.)
 
-This connectivist approach was pioneered by George Siemens  and Stepehen Downes who see open online learning as an opportunity to emphasize “creativity, autonomy and social networked learning.” Educational researcher Jonathan Haber described this approach[ on his blog](http://degreeoffreedom.org/xmooc-vs-cmooc/), Degrees of Freedom, writing:
-> “consider a massive class which is not centered on a single expert (the professor) transferring his or her knowledge to students.  Instead in a cMOOC environment the participants in the course act as both teachers and students, sharing information and engaging in a joint teaching and learning experience through intense interaction facilitated by technology.”
+These audiences may use Local Preservation School media products to educate themselves or as resources to support their own teaching (e.g. leading workshops, training employees or volunteers). Our plan for reaching this audience includes:
 
-### Addressing diverse preservation needs
-**Diverse needs, applicable to more than one resource**
+- Continuing outreach on social media to collaborators and learners
+- Growing an email newsletter to provide regular project updates/related resources
+- Presenting workshops at local/statewide preservation conferences with online resources
 
-The regional variation in contributors also supports the goal of ensuring that our project meets the needs of more than just a single historic resource or a single category of historic resources. We are exploring partnerships with two organizations that highlight this 
+## Project costs and benefits
+As previously mentioned, this project has already received $70,000 in funding through the National Conference of State Historic Preservation Officers (in partnership with the Cultural Resources Office of Outreach, Diversity and Inclusion, National Park Service). This funding enables Baltimore Heritage to devote substantial staff support to project organizing and management in 2015 and 2016.
 
-- Preservation Rightsizing Network
-- Rainbow Heritage Network
+This proposal seeks an additional $10,000 in funding for additional consulting services in 2016 and 2017-extending the original project timeline as we test, refine and disseminate the media products of the Local Preservation School. The requested funds would be matched by the final ⅓ of funding from NCSHPO to total $33,300 within the grant period. Consulting services could include seeking outside expertise for the following roles:
 
-Our educational resources will be developed with consideration for regional variation in public policy and historic resources. We plan to help people who are  using the resources to understand how their interests fit within a typology of building/resource types and broad categories of preservation issues. Topics under development that relate to more than one community include:
+- Instructional Designer (experience with online education, user testing required)
+- Web Development (experience with GitHub, HTML/SASS/Boostrap, jQuery required)
 
-- Strategies for vacant and abandoned properties
-- Strategies for public art/monuments
-- Documentation and designation of diverse resources (intangible resources,  underrepresented resources, LGBTQ, African American, women’s rights, Latino, Asian American/Pacific Islander, etc.)
+# Deliverables
 
-### Design and user experience customized to individuals
+The deliverables/media products created as part of the Local Preservation School include two products scheduled for completion prior to the start of the grant period in June 2016 and two products scheduled for completion prior to the end of the grant period in June 2017. All four are included as the requested grant funds would support the refinement and testing of all four media products during the grant period.
 
-Our resources will also be organized around **specific audience needs and goals**. Different [learning pathways](http://edglossary.org/learning-pathway/) could include:
+## October 2015 - June 2016
+
+**Preservation Literacy Map**: A detailed outline that uses simple, nontechnical language to describe the skills and knowledge people need to be effective advocates for historic preservation. The Literacy Map is intended to provide an overarching "curriculum" for the Local Preservation School, guiding the organization of the resource database and online lessons while connecting people to the most relevant resources for their area of interest. The concept of a "literacy map" as a major deliverable for this project is inspired by the Mozilla Webmaker project's [Web Literacy Map](https://webmaker.org/en-US/literacy). Mozilla's goal of "build literacy in exploring, building, and sharing the web" by creating "hands-on projects to make and activities for teaching" provides an important model. Our literacy map will allow people to determine what skills they have, what skills they don't have and how to find resources to improve their confidence. The urgent need for just such a framework is noted in _Preservation Education: Sharing Best Practices and Finding Common Ground_ (2014), where Jeremy C. Wells and Barry L. Stiefel argue that the short history of preservation education has left a gap in this area of pedagogy and curriculum design.
+
+**Explore Baltimore Heritage 101**: A pilot course designed to teach Baltimore area residents and volunteers how to research and write about historic places. The course builds on the success of two existing Baltimore Heritage projects: Explore Baltimore Heritage (an interpretive website where volunteer research/writing) and Bmore Historic (an unconference and online forum dedicated to local public history and historic preservation efforts). This will enable us to access from an engaged community of learners among Baltimore-area residents and professionals and test the content and approach of the course before expanding the scope to a larger, national audience.
+
+## June 2016 - June 2017
+
+**Preservation Resource Database:** A collection of documents, websites, tools and related material available under open licenses (public domain or Creative Commons). The database enables the presentation of related resources depending on resource type, location, publisher, date, thematic focus, intended audience, original format, etc.
+
+**Local Preservation 101**: A beginner-friendly online course (or collection of online courses) that builds on the literacy map and resource database to deliver multiple short courses or focused on a national audience of people interested in historic preservation in urban and suburban communities. Each lesson will include course material, such as suggested resources, activities that can be completed online or in a participant's own community, and some strategy for evaluation, such as a short quiz. We plan to design selected lessons in the form of templates that local partners could "fork" using GitHub to adapt for the needs of audiences in their own community. Examples of possible lessons include:
 
 - how to research and document historic buildings and neighborhoods
 - how to organize heritage program for neighborhood residents
 - how to plan and execute an advocacy campaign to protect a threatened landmark
 
-### Defining a primary and secondary audience of learners
+# Qualifications
 
-We see the **primary target audience** for this project as:
+The development for the Local Preservation School is organized and facilitated by Eli Pousson, Director of Preservation and Outreach for Baltimore Heritage. In this project, Eli Pousson supervised by Johns Hopkins, Executive Director (Baltimore Heritage) and is closely coordinating the project management with Barbara Little, Program Manager (Cultural Resources Office of Outreach, Diversity and Inclusion, National Park Service). Barbara Little initiated the development of this program and partnered with National Conference of State Historic Preservation Officers to arrange funding.
 
-- volunteer historic preservation advocates
-- early to mid-career professionals working in related fields
+Baltimore Heritage is a small nonprofit with a strong track record of successful community outreach and digital history projects supported by grant funding from a range of public and private sources. As a long-standing participant in the NTHP Statewide and Local Partners program, we anticipate drawing significant support for the Local Preservation School through our relationships and past partnerships with preservation professionals and volunteers around the country. Hired as a Field Officer in 2009, Eli Pousson continues to serve as the Director of Preservation and Outreach. Prior to his work at Baltimore Heritage, Eli worked for the DC Office of Historic Preservation, completed a Master's of Applied Anthropology and Certificate in Historic Preservation at the University of Maryland College Park in December 2008, and a BFA in Industrial Design from Carnegie Mellon University in 2005. Eli also volunteers as a board member of the Friends of Maryland's Olmsted Parks & Landscapes, a founding member of the Preservation Rightsizing Network, and a founding board member of the Rainbow Heritage Network.
 
-We see the **secondary target audience** for this project as:
+Johns Hopkins has worked as the executive director of Baltimore Heritage since 2003. Before that, Johns worked for the Maryland Department of Housing and Community Development developing and implementing smart growth and neighborhood revitalization programs. Johns holds degrees from Yale University, George Washington University Law School, and the University of Michigan's School of Natural Resources and Environment.
+Recent Baltimore Heritage projects directed by Eli Pousson and Johns Hopkins include:
 
-- early to mid-career professionals working in historic preservation
+**Explore Baltimore Heritage (2012-ongoing)**
+_explore.baltimoreheritage.org_
 
-This secondary audience may be using these resources to educate themselves or as a resource to support their own teaching/education efforts, e.g. leading workshops, linking to resources in correspondence with partners, etc. 
+A website and native smartphone app using the Curatescape platform for Omeka to combine interpretive essays with historic images from archives and libraries across the region. Funded by the Maryland Humanities Council, Maryland State Highways Administration, and Baltimore City Department of Transportation.
 
-Our distribution plan for reaching this audience includes
+**We Dig Hampstead Hill! Searching for the War of 1812 in Patterson Park (2014-2015)**
+_baltimoreheritage.org/project/we-dig-hampstead-hill_
 
-- Continuing outreach on social media for the Local Preservation School
-- Growing an email newsletter for Local Preservation School
-- Presenting related workshops at local/statewide preservation conferences
-- Building partnerships with national/statewide/local preservation advocacy organizations and cross-promoting collaboratively built resources
-- Encouraging contributors, collaborators and learners to promote Local Preservation School resources to colleagues and neighbors
+A large-scale public archaeology dig in an urban park engaging over 70 volunteers and 700 school children in the spring of 2014. Funded by the Maryland Heritage Areas Authority and National Park Service American Battlefield Protection Program.
 
-### Costs
+**Baltimore's Civil Rights Heritage - Looking for Landmarks from the Movement (2015-2016)** _baltimoreheritage.github.io/baltimore-civil-rights-heritage_
 
-**How do the benefits of the project relate to the proposed budget? **
+A project to create a Multiple Property Documentation Form for resources in Baltimore associated with African American Civil Rights in partnership with the Maryland Historical Trust and Baltimore City Heritage Area. Funded by Preservation Maryland, PNC Bank and the National Park Service Heritage Fund.
+Beyond our core project team, we plan to solicit participation from at least 30-40 preservation professionals and volunteers from local and state government and private nonprofits. Initial partners contacted prior to the submission of this proposal include the Virginia Department of Historic Resources, City Lore (a New York City-based cultural heritage nonprofit), the National Trust for Historic Preservation, San Antonio Conservation Society and others.
 
-The existing project funding ($70,000) is budgeted for:
+# Project Income
 
-- Travel/conference expenses for project team/collaborators
-- Contract services (writing, editing, instructional design)
-
-Additional project funding:
-
-- Instructional Designer
-- Web Development (requires experience GitHub, open-source projects, HMTL/CSS, Javascript)
-- Open Source Community Manager
-- Content Marketing
-
-## Local Preservation School: Schedule
-_Length: 69 of 500 words_ 
-
-This is a summary description that needs to be expanded.
-
-We've been meaning to put together an updated schedule anyway! A grant application can be a great opportunity for project planning even if an application is not successful in winning funding. A project schedule can sometimes start or end before or after a grant begins to illustrate the broader context when a grant is supporting an existing initiative.
-
-| Date | Task | Stage |
-|------|------|-------|
-|  December 2015    |  Interviews with key stakeholders; background research    |  Research     |
-|  February 2016    |  Assembling preservation literacy map, resource database    |  Course Development     |
-|  March 2016    |  Creating lessons and exercises    |  Course Development    |
-|  May 2016    |  Testing lessons and exercises with target audience    |  Evaluation     |
-|  July 2016    |   Promoting course through online outreach, presentations   |   Dissemination    |
-|  September 2016    |  Promoting course through academic, nonprofit partners    |  Dissemination     |
-|  December 2016    |  Revising lessons and exercises based on participant feedback    |  Evaluation     |
-
-
-## Local Preservation School: Deliverables
-_Length: 403 of 500 words_ 
-
-We plan to create three major deliverables for this project:
-
-1. A preservation literacy map
-2. A database of OERs (Open Educational Resources) for preservation 
-3. A set of beginner-focused lessons for participants around the U.S. – this may take the form of a single course (e.g. [Local Preservation 101](https://github.com/localpreservation/course-in-a-box)) or multiple short courses (e.g. [Local Data and Preservation](https://github.com/localpreservation/localdata-101))
-
-The **Preservation Literacy Map** is a detailed outline describing competencies, skills and knowledge that people need to have in order to be effective advocates for historic preservation. The Literacy Map is intended to provide an overarching curriculum for the Local Preservation School, guiding the organization of the resource database and online lessons while connecting people to the most relevant resources for their area of interest. The concept of a “literacy map” as a core guiding document for this project is inspired by the Mozilla Webmaker project’s[ Web Literacy Map](https://webmaker.org/en-US/literacy). The intent of the Web Literacy Map is to help people “build literacy in exploring, building, and sharing the web” by describing “powers like coding, storytelling, protecting your online privacy” and connecting those skills to related links “hands on projects to make and activities for teaching.” As with Mozilla’s project, the Preservation Literacy Map will allow people to determine what skills they have, what skills they lack and how to find resources to improve their confident in those areas.
-
-The **Preservation Resource Database** is a collection of documents, websites, tools and related material available under open licenses (public domain or Creative Commons). The database enables the presentation of related resources depending on resource type, location, publisher, date, etc. 
-
-The **Local Preservation School** builds on the literacy map and resource database to deliver multiple short courses or focused on a national audience of people interested in historic preservation in urban and suburban communities. We plan to involve 30-50 preservation professionals and volunteers in the collaborative development of the course content and presentation. The school will initially be launched as a facilitated 8-week course with the goal of reaching around 200 participants in cities around the country. Each lesson will include course material, such as suggested resources, activities that can be completed online or in a participant's own community, and some strategy for evaluation, such as a short quiz. We plan to design selected lessons in the form of templates that local partners could "fork" using GitHub to adapt for the needs of audiences in their own community.
-
-## Local Preservation School: Qualifications
-_Length: 463 of 500 words_
-
-The development for the Local Preservation School does not follow the model suggested in the application guidelines of a principal investigator and research team. Instead, this project is organized and facilitated by Eli Pousson, Director of Preservation and Outreach for Baltimore Heritage. In this project, Eli Pousson is closely coordinating with Baltimore Heritage Executive Director Johns Hopkins and Barbara Little, Program Manager, Cultural Resources Office of Outreach, Diversity and Inclusion, National Park Service (who initiated the development of this program and provided funding through NCSHPO). 
-Baltimore Heritage is a small nonprofit with a strong track record of successful community outreach and digital history projects with a mix of support from private, state and federal funding. As a long-time participant in the National Trust for Historic Preservation Statewide and Local Partners program, we anticipate drawing significant support for this project through our relationships and past partnerships with preservation professionals and volunteers around the country.
-
-Beyond this core project team, we plan to solicit participation from 20-30 preservation professional and volunteers from local and state government and private nonprofits. Partners contacted prior to the submission of this application include the Virginia Department of Historic Resources, City Lore (a New York City-based cultural heritage nonprofit), the National Trust for Historic Preservation, San Antonio Conservation Society and others.
-
-Eli has worked for Baltimore Heritage since 2009. He previously worked for the DC Office of Historic Preservation and completed graduate work in anthropology and historic preservation at the University of Maryland College Park. Recent projects for Baltimore Heritage include:
-
-- Leading the development of Explore Baltimore Heritage: A website and native smartphone app created Curatescape and Omeka that combines accessible interpretive essays with historic images from archives and libraries across the Baltimore region.
-- Coordinating We Dig Hampstead Hill – Searching for the War of 1812 in Patterson Park: A public archaeology dig in a major East Baltimore park that engaged over 70 volunteers and 700 school children in the spring of 2014.
-- Serving as the primary historian on Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement: A NPS Heritage Fund supported project to write a Multiple Property Documentation Form about Civil Rights associated resources for the Maryland Historical Trust.
-
-In addition to his work with Baltimore Heritage, Eli volunteers as a board member of the Friends of Maryland’s Olmsted Parks & Landscapes, a founding member of the Preservation Rightsizing Network, and a founding board member of the Rainbow Heritage Network.
-
+At present, we have no plans to try to generate program income based on the Local Preservation School. Many open source projects do solicit financial donations to ensure continued development and improvements, however, given the focus of Baltimore Heritage's core mission on Baltimore City we are instead hoping that the Local Preservation School can find a different path to sustainability by institutionalizing the project within the work of our prospective partner organizations.
 Johns Hopkins has been the executive director of Baltimore Heritage since 2003. Before that, Johns worked for the Maryland Department of Housing and Community Development developing and implementing smart growth and neighborhood revitalization programs. Johns holds degrees from Yale University, George Washington University Law School, and the University of Michigan’s School of Natural Resources and Environment.
