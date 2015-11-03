@@ -106,9 +106,9 @@ The GitHub, Jekyll and other open source tools and approaches are an emerging be
 
 One important model for the Local Preservation School is the Course-in-a-Box template created by Peer 2 Peer University (P2PU) (a nonprofit with a strong track record of developing open online courses) to facilitate the process of creating new courses. This project draws additional support from the resources and documentation created by the General Services Administration 18F program. 18F is clearly documenting the process of creating open source projects and illustrating the way in which open source can provide the basis for collaboration between private and public sector partners across the country.
 
-### Teaching open tools and approaches for collaboration
+### Disseminating  open source tools and approaches
 
-Preservation organizations already make community outreach and education a core part of their approach. Examples of Preservation 101 courses and workshops can be found in [Minnesota](http://www.mnpreservation.org/resources-page/preservation-guides/), [Oregon](http://www.oregon.gov/oprd/HCD/SHPO/docs/2012OMSConf/MS_4_HP101.pdf), and [New York](http://www.preservationbuffaloniagara.org/files/documents/Preservation_101/Preservation_101_for_Web_SHPO_w_logos.pdf) just to name a few. Unfortunately, many preservationists continue to rely on presentation formats (like PDF documents or proprietary webinar and learning management systems) that are increasingly difficult to use as more and more internet users are switching to mobile devices.
+Preservation organizations already make community outreach and education a core part of their approach. Examples of Preservation 101 courses and workshops can be found in [Minnesota](http://www.mnpreservation.org/resources-page/preservation-guides/), [Oregon](http://www.oregon.gov/oprd/HCD/SHPO/docs/2012OMSConf/MS_4_HP101.pdf), and [New York](http://www.preservationbuffaloniagara.org/files/documents/Preservation_101/Preservation_101_for_Web_SHPO_w_logos.pdf) just to name a few. Unfortunately, many preservationists continue to rely on presentation formats (like PDF documents or proprietary webinar and learning management systems) that have limited effectiveness as online educational resources.
 
 It disseminates preservation technology in to ways:
 - By engaging professional and experienced volunteers in the process of developing lessons, commenting and contributing to lessons through social media and open-source publishing tools.
@@ -121,15 +121,28 @@ Benefits:
 
 These tools and approaches are essential to both communication the core content goals of the site and to recruit and empower the collaborators and partners we are hoping to work with.
 
-### Preservation Needs and Audiences
+## Preservation Needs and Audiences
 
-**How does this project address a wide range of preservation needs?**
+### Collaborative approach to content development
 
-- We are planning to recruit and support collaborators and contributors from a variety of locations and backgrounds in creating these resources; with the goal of serving a variety of audiences. 
-- Opportunities for participation, responsiveness to feedback.
-- Ability to fork and adapt materials as needed.
+Meeting a national preservation need will be supported by our plan to use this project to articulate a clear framework defining the relevant areas of expertise within the discipline of historic preservation. The urgent need for such a framework is noted in _Preservation Education: Sharing Best Practices and Finding Common Ground_ (2014), where Jeremy C. Wells and Barry L. Stiefel argue that the short history of preservation education has left a gap in this area of pedagogy and curriculum design:
 
-**How are the project results applicable to more than one cultural resource? **
+> ”While larger and better known fields such as the sciences, education and English have an abundance of literature on pedagogical techniques and curriculum design, similar resources for heritage conservation simply do not exist and there appears to be little or no evidence of an active discussion on outcomes-based learning in this field, much less pedagogical techniques and curriculum design.”
+
+The same collaboration that supports the dissemination of the technology is also important to meeting the diverse needs of the target audience for this project. In contrast to educational initiatives or training programs shaped exclusively by the needs of a single organization or individual educator, the plan to collaborate in developing content for the Local Preservation School will encourage feedback and contributions from a wide range of participants. By finding partners and contributors working in New York, Richmond, San Antonio, Cleveland and many other American communities we help to ensure that we can meet our goal of serving a variety of audiences. In addition, the transparency of the project with continuous opportunities for public participation, a commitment to remain responsive to public feedback and the option of any reader to reuse and adapt education materials provide additional assurance of the potential of this project to meet shared national needs for preservation education. 
+
+In this way the project fits the model of a **cMOOC** - an abbreviation for Massively Open Online Courses based around the connectivist learning theory. In comparison to the better known xMOOCs (the large-scale online courses popularized by Coursera and similar platforms), cMOOCs often reach smaller communities of learners - hundreds or thousands of individuals rather than tens or hundreds of thousands - but encourage a more collaborative approach to learning that respects the ideas and resources many students may have to share.
+
+This connectivist approach was pioneered by George Siemens  and Stepehen Downes who see open online learning as an opportunity to emphasize “creativity, autonomy and social networked learning.” Educational researcher Jonathan Haber described this approach[ on his blog](http://degreeoffreedom.org/xmooc-vs-cmooc/), Degrees of Freedom, writing:
+> “consider a massive class which is not centered on a single expert (the professor) transferring his or her knowledge to students.  Instead in a cMOOC environment the participants in the course act as both teachers and students, sharing information and engaging in a joint teaching and learning experience through intense interaction facilitated by technology.”
+
+### Addressing diverse preservation needs
+**Diverse needs, applicable to more than one resource**
+
+The regional variation in contributors also supports the goal of ensuring that our project meets the needs of more than just a single historic resource or a single category of historic resources. We are exploring partnerships with two organizations that highlight this 
+
+- Preservation Rightsizing Network
+- Rainbow Heritage Network
 
 Our educational resources will be developed with consideration for regional variation in public policy and historic resources. We plan to help people who are  using the resources to understand how their interests fit within a typology of building/resource types and broad categories of preservation issues. Topics under development that relate to more than one community include:
 
@@ -137,16 +150,15 @@ Our educational resources will be developed with consideration for regional vari
 - Strategies for public art/monuments
 - Documentation and designation of diverse resources (intangible resources,  underrepresented resources, LGBTQ, African American, women’s rights, Latino, Asian American/Pacific Islander, etc.)
 
-**Who is the target audience for the product?**
+### Design and user experience customized to individuals
 
-Here are the range of **potential audiences** we are considering:
+Our resources will also be organized around **specific audience needs and goals**. Different [learning pathways](http://edglossary.org/learning-pathway/) could include:
 
-- **middle, high school or college-age students **with an interest in pursuing careers in historic preservation or related fields
-- **early to mid-career professionals working in historic preservation**, including local, state, federal government; local, statewide, and regional non-profits; and private businesses in cultural resource management, architecture and conservation
-- **early to mid-career professionals working in related fields**, including museums, tourism, community and economic development, folklore, urban and regional planning, sustainable transportation advocacy, community organizing, etc.
-- **volunteer historic preservation advocates**, including volunteers with historic sites, advocacy groups, and local preservation commissioners
-- **residents of historic communities **with an interest or concern for issues related to community development (e.g. vacancy, illegal dumping, underutilizing buildings) or particular historic resources (e.g. a historic school or library, a historic church)
-- **owners of historic properties** including religious congregations, fraternal or social clubs, elected officials with local/state government, public employees in capital planning or property management programs, small developers and investors.
+- how to research and document historic buildings and neighborhoods
+- how to organize heritage program for neighborhood residents
+- how to plan and execute an advocacy campaign to protect a threatened landmark
+
+### Defining a primary and secondary audience of learners
 
 We see the **primary target audience** for this project as:
 
@@ -159,24 +171,13 @@ We see the **secondary target audience** for this project as:
 
 This secondary audience may be using these resources to educate themselves or as a resource to support their own teaching/education efforts, e.g. leading workshops, linking to resources in correspondence with partners, etc. 
 
-Our resources will also be organized around **specific audience needs and goals**. Different [learning pathways](http://edglossary.org/learning-pathway/) could include:
+Our distribution plan for reaching this audience includes
 
-- how to research and document historic buildings and neighborhoods
-- how to organize heritage program for neighborhood residents
-- how to plan and execute an advocacy campaign to protect a threatened landmark
-
-**Provide a distribution plan to reach the target audience. **
-
-Direct strategies for distribution:
-
-- Social media for Local Preservation School
-- Email newsletter for Local Preservation School
-- Conference workshops at local/statewide preservation conferences
-- Partnerships with national/statewide/local preservation advocacy organizations
-
-Indirect strategies for distribution:
-
-- Encouraging social media promotion by contributors, collaborators and learners
+- Continuing outreach on social media for the Local Preservation School
+- Growing an email newsletter for Local Preservation School
+- Presenting related workshops at local/statewide preservation conferences
+- Building partnerships with national/statewide/local preservation advocacy organizations and cross-promoting collaboratively built resources
+- Encouraging contributors, collaborators and learners to promote Local Preservation School resources to colleagues and neighbors
 
 ### Costs
 
