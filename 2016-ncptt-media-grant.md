@@ -96,43 +96,30 @@ To illustrate the enormous potential of the innovative open-source technology th
 
 The remaining section of the proposal provides additional background on how the Local Preservation School uses and disseminates technology, what preservation needs and audiences it addresses and explains the project costs. The description is followed by 
 
-### Technology and Dissemination Strategy
+## Technology and Community Outreach
 
-**Does the proposal offer a media product for disseminating innovative technology to the preservation community?**
+In this section of the grant narrative, we describe in more details the rationale for using open source technology and how we plan to disseminate this approach through a project community building initiative.
 
-The media product offered by this project is a collection of tutorials, resources and lessons for preservation advocates (including both professionals and volunteers). This product is a model of how our innovative technology and approach—using open-source and GitHub pages to rely on community-driven 
+### Why does open source matter for preservation education
 
-**How does this product disseminate preservation technology?**
+The GitHub, Jekyll and other open source tools and approaches are an emerging best practice for sharing and collaboration for a variety of organizations and disciplines. Although GitHub describes itself primarily as a place to “share code with friends, co-workers, classmates, and complete strangers,” GitHub is also an increasingly popular platform for sharing and collaborating on documents, databases, maps and educational resources. In a recent paper on “[Embracing Participatory Culture in Education](http://alexeyza.com/blog/2015/09/10/embracing-participatory-culture-in-education/),” researcher Alexey Zagalsky how GitHub goes beyond simply replacing the traditional learning management systems (e.g., Blackboard, Moodle), by opening up new opportunities for collaboration. Open source and version tracking enables a transparent and collaborative process of writing, revision and design, and opens up the option of courses or lessons being[ “forked”](https://guides.github.com/activities/forking/) by partners interested in adapting the course for audiences in their local communities.
+
+One important model for the Local Preservation School is the Course-in-a-Box template created by Peer 2 Peer University (P2PU) (a nonprofit with a strong track record of developing open online courses) to facilitate the process of creating new courses. This project draws additional support from the resources and documentation created by the General Services Administration 18F program. 18F is clearly documenting the process of creating open source projects and illustrating the way in which open source can provide the basis for collaboration between private and public sector partners across the country.
+
+### Teaching open tools and approaches for collaboration
+
+Preservation organizations already make community outreach and education a core part of their approach. Examples of Preservation 101 courses and workshops can be found in [Minnesota](http://www.mnpreservation.org/resources-page/preservation-guides/), [Oregon](http://www.oregon.gov/oprd/HCD/SHPO/docs/2012OMSConf/MS_4_HP101.pdf), and [New York](http://www.preservationbuffaloniagara.org/files/documents/Preservation_101/Preservation_101_for_Web_SHPO_w_logos.pdf) just to name a few. Unfortunately, many preservationists continue to rely on presentation formats (like PDF documents or proprietary webinar and learning management systems) that are increasingly difficult to use as more and more internet users are switching to mobile devices.
 
 It disseminates preservation technology in to ways:
-
 - By engaging professional and experienced volunteers in the process of developing lessons, commenting and contributing to lessons through social media and open-source publishing tools.
 - By connecting interested audiences with resources that demonstrate the potential of these open-source methods for creating effective educational resources.
-
-**How does the preservation community benefit from this product? **
 
 Benefits:
 - Increased accessibility of free resources
 - Builds capacity to contribute to other open-source initiatives through familiarity with open-source principals and tools.
-- Project supports related efforts to create a more diverse and participatory culture within preservation practice.  
+- Project supports related efforts to create a more diverse and participatory culture within preservation practice.
 
-**Why is the choice of media (publication, mobile application, video) the most appropriate way to disseminate the information or gather resource data? **
-
-Examples:
-- P2PU
-- 18F
-
-**Are there similar media products that are currently available to the public? How does the proposed media product differ? **
-
-Examples:
-- Local
-	- Toolkit
-- Statewide
-	- Minnesota [Preservation 101](http://www.mnpreservation.org/resources-page/preservation-guides/)
-	- Oregon [Preservation 101 Slides](http://www.oregon.gov/oprd/HCD/SHPO/docs/2012OMSConf/MS_4_HP101.pdf)
-	- New York [Workshop Syllabus](http://www.preservationbuffaloniagara.org/files/documents/Preservation_101/Preservation_101_for_Web_SHPO_w_logos.pdf)
-
-Our proposed product differs with an open license, web-based interactive features (no PDFs, no proprietary LMS, no PPT, etc.)
+These tools and approaches are essential to both communication the core content goals of the site and to recruit and empower the collaborators and partners we are hoping to work with.
 
 ### Preservation Needs and Audiences
 
