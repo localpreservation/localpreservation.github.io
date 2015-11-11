@@ -8,7 +8,7 @@ permalink: /localpreservation-101/
 
 We are working to sketch out the topics, lessons and activities that we plan to include in the first course we are developing for the Local Preservation School. We want to match our approach to the interests of the volunteers, activists and local preservationists who we hope will use our educational resources. Check out our Local Preservation School 101 Public Trello board to share your ideas.
 
-<a href="https://tinyletter.com/localpreservation" class="button">Share your ideas on Trello!</a>
+<a href="https://trello.com/b/dxqnRFsi/local-preservation-101" class="button">Share your ideas on Trello!</a>
 
 ## What is a Trello board?
 
