@@ -1,7 +1,7 @@
 title: Local Preservation School
 description: Tools, resources, and tutorials on saving historic places in your community
 
-url: http://localpast.school
+url: http://localpreservation.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
