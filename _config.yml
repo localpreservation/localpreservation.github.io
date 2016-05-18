@@ -6,8 +6,9 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
@@ -21,7 +22,7 @@ navigation:
    url: /learn
  - title: Get Involved
    url: /get-involved
-   
+
 social:
    github: localpreservation
    twitter: localpast
