@@ -61,11 +61,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Eli Pousson"
+  name             : ""
   avatar           : "bio-photo.jpg"
   bio              : "..."
-  location         : "Baltimore, Maryland"
-  email            : pousson@baltimoreheritage.org
+  location         : ""
+  email            : info@baltimoreheritage.org
   uri              :
   bitbucket        :
   codepen          :
@@ -73,7 +73,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : elipousson
+  github           : localpreservation
   google_plus      :
   keybase          :
   instagram        :
@@ -84,7 +84,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : elipousson
+  twitter          :
   vine             :
   weibo            :
   xing             :
