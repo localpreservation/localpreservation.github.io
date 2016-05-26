@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Local Preservation School"
 title_separator          : "-"
-name                     : "Eli Pousson"
+name                     : "Local Preservation School"
 description              : "Tools, resources, and tutorials on saving historic places in your community."
 url                      : https://localpreservation.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
