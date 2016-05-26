@@ -1,34 +1,31 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
-<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" <![endif]-->
-<!--[if IE 8]><html class="no-js lt-ie9" <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+---
+layout: compress
+---
 
-{% include head.html %}
+{% include base_path %}
 
-<body>
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-   {% include header.html %}
+  <body>
 
-   <div class="content">
-      <div class="container">
-         {{ content }}
-      </div>
-   </div><!-- end .content -->
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-   {% include footer.html %}
-   {% include scripts.html %}
-   
-   
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/1.3.0/anchor.min.js"></script>
+    {{ content }}
 
-<script>
-anchors.options = {
-  placement: 'left'
-};
-anchors.add('h1,h2,h3');
-</script>
+    <div class="page__footer">
+      <footer>
+        {% include footer.html %}
+      </footer>
+    </div>
 
-</body>
+    {% include scripts.html %}
+    {% include footer/custom.html %}
 
+  </body>
 </html>

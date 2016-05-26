@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: single
 title: How to create open educational resources with Jekyll and GitHub Pages
+date: 2015-10-22
 ---
 
 Over the past few months, we have been learning how to a use a handful of new tools to create open educational resources and publish them online. GitHub, Jekyll and GitHub pages are three of those tools and we used them to create the website you are reading right now.
