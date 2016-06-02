@@ -3,10 +3,9 @@ layout: single
 title: Background
 permalink: /background/
 ---
+{% include toc icon="bell" title="Background" %}
 
-This document is a background overview of historic preservation educational opportunities available online. We have identified some publications and communities as online education are not traditional educational programs but still fulfill some aspects of an educational mission.
-
-# Background
+This document is a background overview of historic preservation educational opportunities available online prepared by Eli Pousson in May 2015. We have identified some publications and communities as online education are not traditional educational programs but still fulfill some aspects of an educational mission.
 
 ## Who is the audience for historic preservation education?
 
@@ -118,11 +117,11 @@ Here are a few general issues to consider about the state of online education fo
 
 ## Online Courses/Webinars
 
-These programs may be well-suited for **students **interested in pursuing a career in historic preservation but may be unaffordable or too intimidating for **volunteers **or **residents**.
+These programs may be well-suited for **students** interested in pursuing a career in historic preservation but may be unaffordable or too intimidating for **volunteers** or **residents**.
 
 ## Online Publications
 
-The NPS web-based publications are a critically important resource for **preservation professionals **or more **experienced volunteers**, in some cases they assume a high level of existing expertise and literacy that may make them difficult for students, residents, and less experienced volunteers. On the other hand, the blog posts on PreservationNation are accessible to a wider range of audiences but may lack the depth or detail that professionals may require to fully implement a new strategy or best practice.
+The NPS web-based publications are a critically important resource for **preservation professionals** or more **experienced volunteers**, in some cases they assume a high level of existing expertise and literacy that may make them difficult for students, residents, and less experienced volunteers. On the other hand, the blog posts on PreservationNation are accessible to a wider range of audiences but may lack the depth or detail that professionals may require to fully implement a new strategy or best practice.
 
 ## Online Communities
 
