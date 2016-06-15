@@ -5,7 +5,19 @@ Local Preservation School: Tools, resources, and tutorials for saving historic p
 
 The Local Preservation School is an **open learning environment** where preservation advocates and volunteers share with people how to save and sustain historic places in their communities. Our goal is to teach you how to get involved with historic preservation in your community through free online courses, easy-to-use tutorials and fun projects. **Beginners are welcome!**
 
-[About the Local Preservation School](http://localpreservation.github.io/about/)
+[Learn more about the Local Preservation School :point_right:](http://localpreservation.github.io/about/)
+
+## How can you contribute?
+
+If any of the following is true, we encourage you to contribute to the Local Preservation School project:
+
+- You have expertise in historic preservation, cultural heritage, public history, or related topics
+- You want share your knowledge as part of a collaborative open source community
+
+This repository describes the project and collects relates resources and lessons into a single site. You can also contribute to a specific course, our [handbook](https://github.com/localpreservation/handbook/), or our [resource repository](https://github.com/localpreservation/resources).
+
+[Read our Contribution Guidelines :point_right:](https://github.com/localpreservation/localpreservation.github.io/blob/master/CONTRIBUTING.md)
+
 
 ## Licensing
 
