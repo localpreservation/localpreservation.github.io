@@ -39,7 +39,7 @@ The Local Preservation School is a work-in-progress. We are seeking partners to 
 
 ## Who is working on the Local Preservation School?
 
-This project is led by [Baltimore Heritage](http://baltimoreheritage.org/) with support from the [National Park Service](https://www.nps.gov/index.htm). The project lead for the Local Preservation School is [Eli Pousson](http://baltimoreheritage.org/about/staff), Director of Preservation & Outreach for Baltimore Heritage.
+This project is led by [Baltimore Heritage](http://baltimoreheritage.org/) with support from the [National Park Service](https://www.nps.gov/index.htm) and [National Conference of State Historic Preservation Officers](http://ncshpo.org/). The lead organizer for the Local Preservation School is [Eli Pousson](http://baltimoreheritage.org/about/staff), Director of Preservation & Outreach for Baltimore Heritage.
 
 ![Desegregation landmark, Little Rock Central High School, Little Rock, Arkansas](/images/12881v.jpg)
 _Photo: Desegregation landmark, Little Rock Central High School, Little Rock, Arkansas, Carol Highsmith. [Library of Congress](http://www.loc.gov/pictures/highsm.12881/resource/)._
