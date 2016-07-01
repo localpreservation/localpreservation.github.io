@@ -23,15 +23,15 @@ You can add issues or contributions to our collection of [related resources](htt
 
 We are planning a series of workshops where we are welcoming preservation professionals, educators, and volunteer advocates to join us in developing new lessons and tutorials.
 
-### New York Preservation School – September 2016 (Details TBA)
+### New York City Study Group – September 9, 2016
+
+_[Registration opens soon!](https://www.eventbrite.com/e/local-preservation-school-new-york-city-study-group-tickets-26380299185)_
 
 [![Casitas in Bronx, New York City, New York by Matt Green, March 20, 2012, CC BY-NC-SA](https://c1.staticflickr.com/7/6034/7001608703_21740ccc57_b.jpg)](https://www.flickr.com/photos/imjustwalkin/7001608703/)
 
 Join the [City Lore Place Matters program](http://placematters.net/) and [Baltimore Heritage](http://baltimoreheritage.org/) for a day of discussion on how communities can document and protect places with architectural and cultural significance. This workshop will focus on adapting the [placeMatters Toolkit](http://placematters.net/node/13) (2011) into a new collection of online lessons and tutorials.
 
-_We are currently planning this workshop for September 2016. If you are interested in participating, please [subscribe to our email list](http://tinyletter.com/localpreservation) for updates._
-
-### Philadelphia Preservation School – October 2016 (Details TBA)
+### Philadelphia Preservation School – October 13, 2016
 
 [![Rowhouse, West Philadelphia, PA by Andrew Wertz, January 5, 2011, CC BY-NC-ND](https://c2.staticflickr.com/6/5208/5339096182_0ab230cef2_b.jpg)](https://www.flickr.com/photos/awertz/5339096182/)
 
