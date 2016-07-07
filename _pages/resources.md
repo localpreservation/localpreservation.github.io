@@ -15,8 +15,7 @@ Our publication directory published as a [Google Sheet](https://docs.google.com/
 <div class="Publication">
 <p><a href="{{ publication.Link }}">
       {{ publication.Title }}
-    </a>
-    <p>
+</a></p>
 <dl>
   <dt>Publication Year</dt>
   <dd class="Topic">{{ publication.Year }}</dd>
