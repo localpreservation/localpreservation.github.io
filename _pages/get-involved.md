@@ -25,16 +25,16 @@ We are planning a series of workshops where we are welcoming preservation profes
 
 ### New York City Study Group – September 9, 2016
 
-_[Registration opens soon!](https://www.eventbrite.com/e/local-preservation-school-new-york-city-study-group-tickets-26380299185)_
+September 9, 8:30am to 2:00pm - [**sign up today!**](https://www.eventbrite.com/e/local-preservation-school-new-york-city-study-group-tickets-26380299185)  
 
 [![Casitas in Bronx, New York City, New York by Matt Green, March 20, 2012, CC BY-NC-SA](https://c1.staticflickr.com/7/6034/7001608703_21740ccc57_b.jpg)](https://www.flickr.com/photos/imjustwalkin/7001608703/)
 
 Join the [City Lore Place Matters program](http://placematters.net/) and [Baltimore Heritage](http://baltimoreheritage.org/) for a day of discussion on how communities can document and protect places with architectural and cultural significance. This workshop will focus on adapting the [placeMatters Toolkit](http://placematters.net/node/13) (2011) into a new collection of online lessons and tutorials.
 
-### Philadelphia Preservation School – October 13, 2016
+### Philadelphia Preservation School – October 7, 2016
+
+October 7, 8:30am to 2:00pm - [sign up today!](https://www.eventbrite.com/e/local-preservation-school-philadelphia-study-group-tickets-27012181161)
 
 [![Rowhouse, West Philadelphia, PA by Andrew Wertz, January 5, 2011, CC BY-NC-ND](https://c2.staticflickr.com/6/5208/5339096182_0ab230cef2_b.jpg)](https://www.flickr.com/photos/awertz/5339096182/)
 
 Join the [Greater Philadelphia Preservation Alliance](http://www.preservationalliance.com/) and [Baltimore Heritage](http://baltimoreheritage.org/) for a day of conversation and collaboration on open education, neighborhoods and historic preservation. We invite neighborhood activists and preservation professionals for a half-day interactive workshop where we will create a collection of online lessons for the Local Preservation School. By sharing our knowledge, we can help communities protect important historic places from demolition and work to promote new infill, development that meets their needs. This workshop will focus on adapting [How to Look at Your Neighborhood: A Guide for Community Organizations](http://www.preservationalliance.com/files/HowToLook_Final2011.pdf) (2011) into a new collection of online lessons and tutorials.
-
-_We are currently planning this workshop for October 2016. If you are interested in participating, please [subscribe to our email list](http://tinyletter.com/localpreservation) for updates._
