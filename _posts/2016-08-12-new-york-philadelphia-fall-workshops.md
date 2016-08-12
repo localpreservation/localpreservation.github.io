@@ -24,7 +24,7 @@ In New York, we are excited to partner with [City Lore's Place Matters program](
 
 ### Philadelphia Study Group
 
-September 9, 8:30am to 2:00pm - [sign up today!](https://www.eventbrite.com/e/local-preservation-school-philadelphia-study-group-tickets-27012181161)
+October 7, 8:30am to 2:00pm - [sign up today!](https://www.eventbrite.com/e/local-preservation-school-philadelphia-study-group-tickets-27012181161)
 
 [![Photo: stand tall, juliarowe/Flickr (CC BY-NC)](/images/2014-06-14-juliarowe-philadelphia-rowhouse.jpg)](https://www.eventbrite.com/e/local-preservation-school-philadelphia-study-group-tickets-27012181161)
 
