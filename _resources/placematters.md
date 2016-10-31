@@ -1,6 +1,8 @@
 ---
 title: "Place Matters Toolkit"
 excerpt: "The Place Matters Toolkit is a guidebook to help you identify, promote, and protect places that you care about. The toolkit was originally created and published by the Place Matters program of City Lore in New York City."
+date: 2011-01-01
+modified: 2016-9-11
 header:
   teaser: 27661222071_d149288f9e_k-square.jpg
   overlay_filter: "0.5"
