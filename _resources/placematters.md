@@ -2,7 +2,8 @@
 title: "Place Matters Toolkit"
 excerpt: "The Place Matters Toolkit is a guidebook to help you identify, promote, and protect places that you care about. The toolkit was originally created and published by the Place Matters program of City Lore in New York City."
 header:
-  overlay_color: "#838383"
+  teaser: 27661222071_d149288f9e_k-square.jpg
+  overlay_filter: "0.5"
   overlay_image: 27661222071_d149288f9e_k-square.jpg
   cta_label: "Try the toolkit"
   cta_url: "https://localpreservation.github.io/placematters/"
