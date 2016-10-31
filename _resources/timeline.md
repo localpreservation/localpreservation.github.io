@@ -5,6 +5,8 @@ date: 2015-10-13
 modified: 2015-10-15
 header:
   teaser: 2016-10-31-localpast-timeline-screenshot.png
+  overlay_image: 4a31635u-1280-square.jpg
+  overlay_filter: .5
 ---
 
 Understanding the history of historic preservation along with related fields including public history,  archaeology, folklore, and community development, helps us understand how local preservation efforts are shaped by the history of the field and the United State of America more broadly.  
