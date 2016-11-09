@@ -1,0 +1,48 @@
+{% include base_path %}
+
+<div class="feature__wrapper">
+
+  {% for external-resource in site.data.external-resources %}
+
+  {% assign license-data = site.data.license[external-resource.license] %}
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        {% if external-resource.image_path %}
+          <div class="archive__item-teaser">
+            <a href="{{ external-resource.url }}">
+              <img src=
+                {% if external-resource.image_path contains "://" %}
+                  "{{ external-resource.image_path }}"
+                {% else %}
+                  "{{ external-resource.image_path | prepend: "/images/" | prepend: base_path }}"
+                {% endif %}
+              alt="{% if external-resource.alt %}{{ external-resource.alt }}{% endif %}">
+            </a>
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          {% if external-resource.name %}
+            <h2 class="archive__item-title" itemprop="headline">{{ external-resource.name }}</h2>
+          {% endif %}
+
+          {% if external-resource.license %}
+            <p class="page__meta"><i class="fa fa-creative-commons" aria-hidden="true"></i> <a href="{{ external-resource.license-url }}">{{ external-resource.license }}</a></p>
+          {% endif %}
+
+          {% if external-resource.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ external-resource.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if external-resource.url %}
+            <p><a href="{{ external-resource.url }}" class="btn {{ external-resource.btn_class }}">{{ external-resource.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>

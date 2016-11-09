@@ -2,24 +2,77 @@
 layout: single
 title: Learn
 permalink: /learn/
+excerpt: 'Learn how to save historic places with courses, tutorials, and educational resources from the Local Preservation School.'
+header:
+  teaser: 30602v.jpg
+  overlay_image: 30602v.jpg
+  overlay_filter: .5
+  caption: "Marine School at Log Cabin Village, Fort Worth, Texas by Carol Highsmith. _Courtesy [Library of Congress](http://www.loc.gov/pictures/item/2015630838/resource/)._"
+resources_feature:
+- image_path: 27661222071_d149288f9e_k-square.jpg
+  alt: "placeholder image 2"
+  title: "Place Matters Toolkit"
+  excerpt: "Your guide to learn how to identify, promote, and protect places that you care about."
+  url: "/resources/placematters/"
+  btn_label: "Read More"
+  btn_class: "btn--inverse"
+- image_path: 8848280443_e721e4b7f8_o-square.jpg
+  alt: "Map with pins"
+  title: "Historic Neighborhoods 101"
+  excerpt: "Learn to look at your neighborhood like a preservation advocate."
+  url: "/resources/neighborhoods/"
+  btn_label: "Read More"
+  btn_class: "btn--inverse"
+- image_path: 12160u-1280-square.jpg
+  title: "Explore Baltimore Heritage 101"
+  excerpt: "Learn how to research, write, create visuals, and do outreach around historic places in Baltimore."
+  url: "/resources/explore-101/"
+  btn_label: "Read More"
+  btn_class: "btn--inverse"
 ---
 
-### Subscribe for updates when we publish new lessons!
-<form style="border:0px solid #ccc;padding:3px;text-align:left;" action="https://tinyletter.com/localpreservation" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/localpreservation', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed" /><input type="submit" value="Subscribe"  class="btn btn--large" /></form>
+You can learn how to preserve historic places in your community using our guides, lessons, and tutorials from [Local Preservation School resource directory](/resources/). Our open educational resources are created by our project team or adapted from publications donated to the project by our partner organizations.
 
-## Take a course online
+If you'd like to donate educational resources that you created to the Local Preservation School, please [get in touch](http://baltimoreheritage.org/contact/)! Subscribe for updates as we continue to expand the Local Preservation School.
 
-We are developing a series of short courses and workshops where you can learn skills and concepts related to historic preservation.
+<form style="border:0px solid #ccc;padding:3px;text-align:left;" action="https://tinyletter.com/localpreservation" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/localpreservation', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" size="40" name="email" id="tlemail" /> <input type="hidden" value="1" name="embed" /><input type="submit" value="Subscribe"  class="btn" /></form>
 
-<p><a href="/courses/" class="btn btn--large">Explore our courses</a></p>
+---
 
-## Attend a class or workshop
+# Explore our featured resources
 
-Our first class takes place in Baltimore in June and July 2016. We are also planning workshops for New York in September 2016 and Philadelphia in October 2016. Stay tuned for more details soon!
+{% include feature_row id="resources_feature" type="left" %}
 
-## Read our handbook
+## What are open educational resources?
 
-We are also compiling a variety of resources using Google Sheets and GitHub. We plan to compile these resources into a "handbook" that can serve as a reference for anyone taking our courses. Check our our [handbook](https://github.com/localpreservation/handbook) and [resources](https://github.com/localpreservation/resources) repositories on GitHub for more information.
+All the resources we publish are **open**. There are many different definitions for open educational resources (often abbreviated as OERs). All of our resources:
 
-![Classroom of the Marine School at Log Cabin Village, a house museum consisting of saved rural cabins moved to a central site in Fort Worth, Texas](/images/30602v.jpg)
-_Photo: Classroom of the Marine School at Log Cabin Village, a house museum consisting of saved rural cabins moved to a central site in Fort Worth, Texas, Carol Highsmith. [Library of Congress](http://www.loc.gov/pictures/item/2015630838/resource/)._
+- are available at **no cost** to educators and learners
+- can be **modified** by educators and learners
+- can be **redistributed** by educators who have made changes to the original work
+
+Learn more about OERs from [An Introduction to Open Education Resources](http://b7jl.org/oer/) or [read our guide](/open-education/) to creating open educational resources.
+
+## How can you use these resources?
+
+If you are new to historic preservation, you can use our resources as self-guided courses to learn more about a range of topics including research and writing, organizing and advocacy, and neighborhood preservation planning.
+
+<!-- TODO: We need to add a suggested list of tutorials for beginning preservationists. -->
+
+If you are an experienced volunteer or a preservation professional, you can use our resources as a foundation to create your own workshops or trainings for board members, fellow volunteers, or other residents within your community.
+
+<!-- TODO: We need to add a suggested list of resources that are useful to people who want to teach rather than learn. -->
+
+## How can you improve these resources?
+
+We need your help to continue improving and expanding our collection of educational resources. This site and all of our resources are published using [GitHub](https://github.com/) and [GitHub Pages](https://pages.github.com/). These tools are used to make it easy for people to work together on open source software projects but can also be used to work together to build websites like our educational resources.
+
+Please submit your questions, suggestions, and corrections [as issues on our primary repository](https://github.com/localpreservation/localpreservation.github.io/issues). You can also fork any of the [repositories created by the Local Preservation School](https://github.com/localpreservation/), make changes, and then submit a pull request. Learn more about [issues](https://guides.github.com/features/issues/) and [pull requests](https://help.github.com/articles/using-pull-requests) on GitHub.
+
+For more information on contributing to the Local Preservation School, please [read our contribution guidelines](https://github.com/localpreservation/localpreservation.github.io/blob/master/CONTRIBUTING.md).
+
+# Discover more open educational resources
+
+Explore our collection of educational resources on topics including American history, activism, digital tools, transportation design and policy.
+
+{% include external-resources.html type="left" %}

@@ -1,0 +1,79 @@
+# External educational resources (displayed with external-resources.html include)
+
+- name: "The American Yawp"
+  url: http://www.americanyawp.com/
+  license: "CC BY-SA 4.0"
+  license-url: https://creativecommons.org/licenses/by-sa/4.0/
+  image_path: the-american-yawp.png
+  excerpt: "The American Yawp is a free and online, collaboratively built, open American history textbook designed for college-level history courses."
+
+- name: "Beautiful Trouble: A Toolbox for Revolution"
+  url: http://beautifultrouble.org/
+  license: "CC BY-NC-SA 3.0"
+  license-url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+  image_path: beautiful-trouble.png
+  excerpt: "Beautiful Trouble is a book, web toolbox and international network of artist-activist trainers whose mission is to make grassroots movements more creative and more effective."
+
+- name: "Community Tool Box"
+  url: http://ctb.ku.edu/en
+  license: "CC BY-NC-SA 3.0"
+  license-url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+  image_path: community-tool-box.png
+  excerpt: "The Community Tool Box is a free, online resource for those working to build healthier communities and bring about social change."
+  publisher:
+    - Work Group for Community Health and Development at the University of Kansas
+
+- name: "Culture in Transit Toolkit"
+  url: https://mnylc.github.io/cit-toolkit/
+  license: "CC0 1.0"
+  license-url: https://creativecommons.org/publicdomain/zero/1.0/deed.en
+  repository: "mnylc/cit-toolkit"
+  image_path:  culture-in-transit-toolkit.png
+  excerpt: "The Culture in Transit Toolkit is a resource for libraries and small cultural heritage institutions interested in initiating mobile digitization services."
+  publisher:
+    - Metropolitan New York Library Council (METRO)
+    - Brooklyn Public Library
+    - Queens Library
+
+- name: "Maptime: Lessons and Resources"
+  url: https://maptime.io/lessons-resources/
+  license:
+  repository: "maptime/maptime.github.io"
+  image_path: maptime-lessons-resources.png
+  excerpt: "A collection of tutorials and slides on making web maps presented by various Maptime chapters as well as external resources for learning."
+
+- name: "The Programming Historian"
+  url: http://programminghistorian.org/
+  license: "CC-BY-2.0"
+  license-url: https://creativecommons.org/licenses/by/2.0/
+  image_path: the-programming-historian.png
+  repository: "programminghistorian/jekyll"
+  excerpt: "The Programming Historian offers novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research."
+  publisher:
+    - Editorial Board of the Programming Historian
+
+- name: "School of Data: Online Courses"
+  url: http://schoolofdata.org/courses/
+  license: "CC0 1.0"
+  license-url: https://creativecommons.org/publicdomain/zero/1.0/deed.en
+  repository: "school-of-data/courses"
+  image_path: school-of-data.png
+  excerpt: "A collection of independent learning modules curated into a series of courses - with a focus on data basics as well as specific skills."
+  publisher:
+    - Open Knowledge International
+
+- name: "Streetfilms"
+  url: http://www.streetfilms.org/
+  license: "CC BY-NC-ND-3.0 US"
+  license-url: https://creativecommons.org/licenses/by-nc-nd/3.0/us/
+  image_path: streetfilms.png
+  excerpt: "Streetfilms produces short films showing how smart transportation design and policy can result in better places to live, work and play."
+
+- name: "Teachinghistory.org"
+  url: http://teachinghistory.org/
+  license: "CC BY-NC-SA 3.0"
+  license-url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+  image_path: teachinghistory.png
+  excerpt: "Teachinghistory.org is designed to help K–12 history teachers access resources and materials to improve U.S. history education in the classroom."
+  publisher:
+    - Roy Rosenzweig Center for History and New Media at George Mason University
