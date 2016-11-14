@@ -6,22 +6,18 @@ permalink: /get-involved/
 
 You can get involved and contribute to this project both online and in-person at upcoming workshops. Please [sign up for the project newsletter](http://tinyletter.com/localpreservation) for updates on our workshops and online contribution guidelines.
 
-## Contribute Online using GitHub
+## Contribute using GitHub
 
 [![Children learn art from computers at the ArtWorks center in the Montgomery Museum of Fine Arts, Montgomery, Alabama, Carol Highsmith, 2010 February 20](http://cdn.loc.gov/service/pnp/highsm/05600/05607v.jpg)](http://www.loc.gov/pictures/item/2010646348/)
 
 We are using [GitHub](http://github.com) as a platform for developing and sharing lessons and tutorials. To contribute online, we encourage you to [join GitHub](https://github.com/join) and learn more about [how to use GitHub](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/). Using GitHub, you can contribute online in two ways:
 
 - **Comment on issues.** Do you have suggestions for new lessons? Or comments on existing lessons? We are using the [issue tracker on our main repository](https://github.com/localpreservation/localpreservation.github.io/issues) to share questions and opportunities for comment. Learn more about [using issues on GitHub](https://guides.github.com/features/issues/).
-- **Make changes or additions to lessons or resources.** GitHub makes it simple to "fork" an existing repository, make changes, and then contribute those changes back to the project. Learn more about [forking projects on GitHub](https://guides.github.com/activities/forking/). We have two courses we are working on where additions are welcome:
-   - [Explore Baltimore Heritage 101](http://baltimoreheritage.github.io/explore-101/) ([repository](github.com/baltimoreheritage/explore-101))
-   - [Local Data 101](https://github.com/localpreservation/localdata101)
+- **Make changes or additions to lessons or resources.** GitHub makes it simple to "fork" an existing repository, make changes, and then contribute those changes back to the project. Learn more about [forking projects on GitHub](https://guides.github.com/activities/forking/).
 
 You can add issues or contributions to our collection of [related resources](https://github.com/localpreservation/resources). Finally, you can also share questions or suggestions on Twitter by posting with the [#localpast hashtag](https://twitter.com/hashtag/localpast?src=hash) or on the [Saving Places Facebook group](https://www.facebook.com/groups/savingplaces/).
 
-## Contribute at an Upcoming Workshop
-
-We are planning a series of workshops where we are welcoming preservation professionals, educators, and volunteer advocates to join us in developing new lessons and tutorials.
+## Past workshops
 
 ### New York City Study Group – September 9, 2016
 

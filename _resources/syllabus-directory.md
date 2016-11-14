@@ -1,5 +1,5 @@
 ---
-title: "Preservation Syllabus Directory"
+title: "Syllabus Directory"
 excerpt: "This directory collects syllabi related to historic preservation and public history from a variety of related syllabus collections including the Vernacular Architecture Form Syllabus Exchange, NCPE Syllabus Bank, H-Urban Syllabi, and Public History Syllabi - Public History Resource Center."
 date: 2015-07-15
 modified: 2016-10-30
