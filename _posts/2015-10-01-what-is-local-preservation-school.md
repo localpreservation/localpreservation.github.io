@@ -9,15 +9,15 @@ My name is Eli Pousson and I work for [Baltimore Heritage](http://baltimoreherit
 
 This spring, the National Park Service approached us with an unusual opportunity to teach people about how we do historic preservation in Baltimore—and how volunteers and small community organizations can use historic preservation in communities around the country. For the next year, we are reaching out to friends and colleagues, not just in Baltimore but around the country, who work with preservation nonprofits, park "friends" groups, community archives, and small historic sites. Together, we’re opening a new online school to share the skills and knowledge you need to get your neighbors excited about local history, protect threatened landmarks from demolition, or secure resources for reinvestment in your historic neighborhood.
 
-![Desegregation landmark, Little Rock Central High School, Little Rock, Arkansas](/images/12881v.jpg)
-_Photo: Desegregation landmark, Little Rock Central High School, Little Rock, Arkansas, Carol Highsmith. [Library of Congress](http://www.loc.gov/pictures/highsm.12881/resource/)._
+![Desegregation landmark, Little Rock Central High School, Little Rock, Arkansas](/assets/images/12881v.jpg)
+_Photo: Desegregation landmark, Little Rock Central High School, Little Rock, Arkansas, Carol Highsmith. [Library of Congress](https://www.loc.gov/pictures/highsm.12881/resource/)._
 
 ## Why start the Local Preservation School?
 
 There are many excellent online resources available on historic preservation from the National Trust for Historic Preservation, National Park Service, and others. But these resources can be overwhelming—especially for volunteers who do preservation on evenings and weekends. Who has the time to dig deep into technical documents? Taking inspiration from new approaches to online learning for [data-wrangling](http://schoolofdata.org), [digital history](http://programminghistorian.org/), and [computer programming](https://www.codecademy.com/), we wondered **how can we use the web (and open-source tools) to make it easier for people across the country to learn about historic preservation?** How can we do a better job sharing the skills and knowledge needed to save historic places?
 
-![Abandoned adobe one-room schoolhouse in Las Animas County, Colorado](/images/15246r.jpg)
-_Photo: Abandoned adobe one-room schoolhouse in Las Animas County, Colorado, Carol Highsmith. [Library of Congress](http://www.loc.gov/pictures/item/2011633439/resource/)_
+![Abandoned adobe one-room schoolhouse in Las Animas County, Colorado](/assets/images/15246r.jpg)
+_Photo: Abandoned adobe one-room schoolhouse in Las Animas County, Colorado, Carol Highsmith. [Library of Congress](https://www.loc.gov/pictures/item/2011633439/resource/)_
 
 ## What does the Local Preservation School teach?
 
@@ -27,8 +27,8 @@ We believe that historic preservation is not just a job for “experts” or pro
 
 The Local Preservation School is built around the idea that educational resources should be accessible to beginners – not overwhelmed by jargon or require expensive software. We are making our lessons activity-based – teaching you how to document a threatened landmark, prepare and deliver a walking tour, or create a digital map of local historic sites. Finally, we are committed to the [principles of openness](http://openglam.org/principles/) using a Creative Commons Zero license to ensure that anyone is free to use, reuse, and redistribute the material on this site. [Learn more about the project](%7B%7Bsite.url%7D%7D/about) or [get in touch with questions](http://baltimoreheritage.org/contact).
 
-![Classroom of the Marine School at Log Cabin Village, a house museum consisting of saved rural cabins moved to a central site in Fort Worth, Texas](/images/30602v.jpg)
-_Photo: Classroom of the Marine School at Log Cabin Village, a house museum consisting of saved rural cabins moved to a central site in Fort Worth, Texas, Carol Highsmith. [Library of Congress](http://www.loc.gov/pictures/item/2015630838/resource/)_
+![Classroom of the Marine School at Log Cabin Village, a house museum consisting of saved rural cabins moved to a central site in Fort Worth, Texas](/assets/images/30602v.jpg)
+_Photo: Classroom of the Marine School at Log Cabin Village, a house museum consisting of saved rural cabins moved to a central site in Fort Worth, Texas, Carol Highsmith. [Library of Congress](https://www.loc.gov/pictures/item/2015630838/resource/)_
 
 ## How can you get involved?
 

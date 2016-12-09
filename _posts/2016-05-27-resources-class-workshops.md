@@ -5,7 +5,7 @@ date: 2016-05-27
 ---
 ## What have we been working on?
 
-![Columbus Signature Academy, Fodrea Campus. Columbus, Indiana. Photograph by Carol Highsmith, Library of Congress.](/images/18659u.jpg)
+![Columbus Signature Academy, Fodrea Campus. Columbus, Indiana. Photograph by Carol Highsmith, Library of Congress.](/assets/images/18659u.jpg)
 
 We’ve been a bit quiet since November but we are continuing to work on building the Local Preservation School.
 

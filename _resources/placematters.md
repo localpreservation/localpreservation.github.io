@@ -1,15 +1,21 @@
 ---
 title: "Place Matters Toolkit"
 excerpt: "The Place Matters Toolkit is a guidebook to help you identify, promote, and protect places that you care about. The toolkit was originally created and published by the Place Matters program of City Lore in New York City."
-date: 2011-01-01
+date: 2011-1-1
 modified: 2016-9-11
+repository: "localpreservation/placematters"
+difficulty: beginner
 header:
-  teaser: 27661222071_d149288f9e_k-square.jpg
+  teaser: /assets/images/27661222071_d149288f9e_k-square.jpg
   overlay_filter: "0.5"
-  overlay_image: 27661222071_d149288f9e_k-square.jpg
+  overlay_image: /assets/images/27661222071_d149288f9e_k-square.jpg
   cta_label: "Try the toolkit"
   cta_url: "https://localpreservation.github.io/placematters/"
   caption: "FDNY Squad Co.18 Firehouse, W. 10th Street, Greenwich Village, New York City,  2015 December 15. Courtesy [Spencer Means/Flickr](https://www.flickr.com/photos/hunky_punk/27661222071/) ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-nc/2.0/))"
+tags:
+  - Research
+  - Outreach
+  - Organizing
 ---
 
 If asked, each of us could probably point to public places in our city that connect us to the past, sustain thriving communities, contribute diversity and distinctiveness to our surroundings, and add to our well being.

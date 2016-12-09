@@ -4,8 +4,8 @@ title: Resources
 permalink: /resources/
 excerpt: 'Find, reuse, and remix educational resources created and collected by the Local Preservation School.'
 header:
-  teaser: 18659u.jpg
-  overlay_image: 18659u.jpg
+  teaser: /assets/images/18659u.jpg
+  overlay_image: /assets/images/18659u.jpg
   overlay_filter: .5
 ---
 

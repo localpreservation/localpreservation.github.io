@@ -4,8 +4,8 @@ excerpt: "This interactive timeline helps you explore the history of historic pr
 date: 2015-10-13
 modified: 2015-10-15
 header:
-  teaser: 2016-10-31-localpast-timeline-screenshot.png
-  overlay_image: 4a31635u-1280-square.jpg
+  teaser: /assets/images/2016-10-31-localpast-timeline-screenshot.png
+  overlay_image: /assets/images/4a31635u-1280-square.jpg
   overlay_filter: .5
 ---
 

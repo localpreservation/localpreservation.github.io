@@ -4,26 +4,26 @@ title: Learn
 permalink: /learn/
 excerpt: 'Learn how to save historic places with courses, tutorials, and educational resources from the Local Preservation School.'
 header:
-  teaser: 30602v.jpg
-  overlay_image: 30602v.jpg
+  teaser: /assets/images/30602v.jpg
+  overlay_image: /assets/images/30602v.jpg
   overlay_filter: .5
-  caption: "Marine School at Log Cabin Village, Fort Worth, Texas by Carol Highsmith. _Courtesy [Library of Congress](http://www.loc.gov/pictures/item/2015630838/resource/)._"
+  caption: "Marine School at Log Cabin Village, Fort Worth, Texas by Carol Highsmith. _Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2015630838/resource/)._"
 resources_feature:
-- image_path: 27661222071_d149288f9e_k-square.jpg
+- image_path: /assets/images/27661222071_d149288f9e_k-square.jpg
   alt: "placeholder image 2"
   title: "Place Matters Toolkit"
   excerpt: "Your guide to learn how to identify, promote, and protect places that you care about."
   url: "/resources/placematters/"
   btn_label: "Read More"
   btn_class: "btn--inverse"
-- image_path: 8848280443_e721e4b7f8_o-square.jpg
+- image_path: /assets/images/8848280443_e721e4b7f8_o-square.jpg
   alt: "Map with pins"
   title: "Historic Neighborhoods 101"
   excerpt: "Learn to look at your neighborhood like a preservation advocate."
   url: "/resources/neighborhoods/"
   btn_label: "Read More"
   btn_class: "btn--inverse"
-- image_path: 12160u-1280-square.jpg
+- image_path: /assets/images/12160u-1280-square.jpg
   title: "Explore Baltimore Heritage 101"
   excerpt: "Learn how to research, write, create visuals, and do outreach around historic places in Baltimore."
   url: "/resources/explore-101/"

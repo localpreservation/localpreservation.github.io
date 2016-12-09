@@ -8,7 +8,7 @@ You can get involved and contribute to this project both online and in-person at
 
 ## Contribute using GitHub
 
-[![Children learn art from computers at the ArtWorks center in the Montgomery Museum of Fine Arts, Montgomery, Alabama, Carol Highsmith, 2010 February 20](http://cdn.loc.gov/service/pnp/highsm/05600/05607v.jpg)](http://www.loc.gov/pictures/item/2010646348/)
+[![Children learn art from computers at the ArtWorks center in the Montgomery Museum of Fine Arts, Montgomery, Alabama, Carol Highsmith, 2010 February 20](http://cdn.loc.gov/service/pnp/highsm/05600/05607v.jpg)](https://www.loc.gov/pictures/item/2010646348/)
 
 We are using [GitHub](http://github.com) as a platform for developing and sharing lessons and tutorials. To contribute online, we encourage you to [join GitHub](https://github.com/join) and learn more about [how to use GitHub](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/). Using GitHub, you can contribute online in two ways:
 

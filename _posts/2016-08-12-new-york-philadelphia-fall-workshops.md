@@ -3,7 +3,7 @@ layout: single
 title: Local Preservation School workshops in New York City and Philadelphia this fall!
 date: 2016-08-12
 header:
-  overlay_image: https://localpreservation.github.io/images/2015-02-25-ps-40.jpg
+  overlay_image: /assets/images/2015-02-25-ps-40.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   caption: "Photo: [Public School 40, Jeffrey Zeldman](https://www.flickr.com/photos/zeldman/16648053932) ([CC-BY](https://creativecommons.org/licenses/by/2.0/))"
 ---
@@ -18,7 +18,7 @@ Both workshops are _free_ with breakfast and lunch provided. We'll start each wo
 
 September 9, 8:30am to 2:00pm - [**sign up today!**](https://www.eventbrite.com/e/local-preservation-school-new-york-city-study-group-tickets-26380299185)  
 
-[![Public School 40, Jeffrey Zeldman (CC-BY)](/images/2015-02-25-ps-40.jpg)](https://www.eventbrite.com/e/local-preservation-school-new-york-city-study-group-tickets-26380299185)
+[![Public School 40, Jeffrey Zeldman (CC-BY)](/assets/images/2015-02-25-ps-40.jpg)](https://www.eventbrite.com/e/local-preservation-school-new-york-city-study-group-tickets-26380299185)
 
 In New York, we are excited to partner with [City Lore's Place Matters program](http://citylore.org/) for a workshop building on the Place Matters toolkit created in 2007 by Marci Reaven and Emily Gertz. Working with Molly Garfinkel, Place Matters Director, we've started work on a [new digital edition of the toolkit](https://localpreservation.github.io/placematters/) published under an open Creative Commons Attribution license. Our September 9 half-day workshop is an opportunity to discuss how we advocate for the preservation of culturally and architecturally significant places-and how we can teach the knowledge and skills advocates need using open online resources. This workshop takes place at the City Lore gallery at 56 East 1st Street, New York, NY 10003.
 
@@ -26,7 +26,7 @@ In New York, we are excited to partner with [City Lore's Place Matters program](
 
 October 7, 8:30am to 2:00pm - [sign up today!](https://www.eventbrite.com/e/local-preservation-school-philadelphia-study-group-tickets-27012181161)
 
-[![Photo: stand tall, juliarowe/Flickr (CC BY-NC)](/images/2014-06-14-juliarowe-philadelphia-rowhouse.jpg)](https://www.eventbrite.com/e/local-preservation-school-philadelphia-study-group-tickets-27012181161)
+[![Photo: stand tall, juliarowe/Flickr (CC BY-NC)](/assets/images/2014-06-14-juliarowe-philadelphia-rowhouse.jpg)](https://www.eventbrite.com/e/local-preservation-school-philadelphia-study-group-tickets-27012181161)
 
 In Philadelphia, we are working with the [Preservation Alliance for Greater Philadelphia](http://www.preservationalliance.com/) to focus on preservation advocacy and planning for **neighborhoods**—building on the foundation of the group's 2011 publication _How to Look at Your Neighborhood: A Guide for Community Organizations_. We need to hear from both neighborhood activists and preservation professionals to build resources that help communities protect important historic places from demolition, promote appropriate infill, and encourage development that meets their needs. This workshop takes place at the University of Pennsylvania, Meyerson Hall - Room B2 210 S. 34th Street, Philadelphia, PA 19104.
 

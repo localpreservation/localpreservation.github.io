@@ -1,14 +1,14 @@
 ---
 title: "Explore Baltimore Heritage 101"
 excerpt: "This course provides a beginner-friendly introduction on how to use archival sources to learn more about the history of Baltimore houses, buildings, and neighborhoods."
-date: 2015-01-01
-modified: 2016-07-13
+date: 2015-1-1
+modified: 2016-7-13
 repository: "baltimoreheritage/explore-101"
 difficulty: beginner
 header:
-  teaser: 12160u-1280-square.jpg
+  teaser: /assets/images/12160u-1280-square.jpg
   overlay_filter: "0.5"
-  overlay_image: 12160u-1280-square.jpg
+  overlay_image: /assets/images/12160u-1280-square.jpg
   cta_label: "Take the class"
   cta_url: "https://baltimoreheritage.github.io/explore-101/"
   caption: "Seven Foot Knoll Light, Baltimore, Maryland by Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2011630357/)"
