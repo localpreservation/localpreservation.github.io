@@ -35,6 +35,8 @@ GEM
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.11.0)
+      jekyll (>= 2.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-sitemap (0.12.0)
@@ -54,7 +56,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     mini_portile2 (2.1.0)
-    minimal-mistakes-jekyll (4.0.10)
+    minimal-mistakes-jekyll (4.1.0)
       jekyll (~> 3.3)
       jekyll-feed (~> 0.8)
       jekyll-gist (~> 1.4)
@@ -91,6 +93,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-gist
   jekyll-paginate
+  jekyll-redirect-from
   jekyll-sitemap
   jemoji
   minimal-mistakes-jekyll

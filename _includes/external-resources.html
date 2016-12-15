@@ -15,7 +15,7 @@
                 {% if external-resource.image_path contains "://" %}
                   "{{ external-resource.image_path }}"
                 {% else %}
-                  "{{ external-resource.image_path | prepend: "/images/" | prepend: base_path }}"
+                  "{{ external-resource.image_path | prepend: "/assets/images/" | prepend: base_path }}"
                 {% endif %}
               alt="{% if external-resource.alt %}{{ external-resource.alt }}{% endif %}">
             </a>

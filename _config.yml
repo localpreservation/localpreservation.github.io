@@ -14,7 +14,7 @@ description              : "Tools, resources, and tutorials on saving historic p
 url                      : "https://localpreservation.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "localpreservation/localpreservation.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "188659u.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "/assets/images/13248u-1280-square.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Local Preservation School"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "..."
+  location         : "Baltimore, Maryland"
+  email            : "info@baltimoreheritage.org"
   uri              :
   bitbucket        :
   codepen          :
@@ -223,6 +223,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -231,7 +232,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-redirect-from
 
 # Archives
 #  Type
@@ -249,6 +250,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+resource_tag_archive:
+  type: liquid
+  path: /resources/tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

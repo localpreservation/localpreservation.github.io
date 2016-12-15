@@ -10,20 +10,21 @@ header:
   caption: "Marine School at Log Cabin Village, Fort Worth, Texas by Carol Highsmith. _Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2015630838/resource/)._"
 resources_feature:
 - image_path: /assets/images/27661222071_d149288f9e_k-square.jpg
-  alt: "placeholder image 2"
+  alt: "Firehouse in New York City"
   title: "Place Matters Toolkit"
   excerpt: "Your guide to learn how to identify, promote, and protect places that you care about."
   url: "/resources/placematters/"
   btn_label: "Read More"
   btn_class: "btn--inverse"
 - image_path: /assets/images/8848280443_e721e4b7f8_o-square.jpg
-  alt: "Map with pins"
+  alt: "Map of Germantown, Philadelphia with pins"
   title: "Historic Neighborhoods 101"
   excerpt: "Learn to look at your neighborhood like a preservation advocate."
   url: "/resources/neighborhoods/"
   btn_label: "Read More"
   btn_class: "btn--inverse"
 - image_path: /assets/images/12160u-1280-square.jpg
+  alt: "Seven Foot Knoll Light, Baltimore, Maryland"
   title: "Explore Baltimore Heritage 101"
   excerpt: "Learn how to research, write, create visuals, and do outreach around historic places in Baltimore."
   url: "/resources/explore-101/"
