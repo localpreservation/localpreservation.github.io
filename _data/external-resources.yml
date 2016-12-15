@@ -77,3 +77,21 @@
   excerpt: "Teachinghistory.org is designed to help K–12 history teachers access resources and materials to improve U.S. history education in the classroom."
   publisher:
     - Roy Rosenzweig Center for History and New Media at George Mason University
+
+- name: "Every Place Counts Leadership Academy: Transportation Toolkit"
+  url: https://www.transportation.gov/policy-initiatives/leadership-academy/transportation-toolkit
+  license: "PD"
+  license-url: https://creativecommons.org/publicdomain/mark/1.0/
+  image_path: usdot-transportation-toolkit.jpg
+  excerpt: "This Toolkit is a plain language explanation of the transportation decision-making process for educational and informational purposes."
+  publisher:
+    - U.S. Department of Transportation
+
+- name: "How to Do Creative Placemaking: An Action-Oriented Guide to Arts in Community Development"
+  url: https://www.arts.gov/publications/how-do-creative-placemaking
+  license: "PD"
+  license-url: https://creativecommons.org/publicdomain/mark/1.0/
+  image_path: NEA-how-to-do-creative-placemaking.jpg
+  excerpt: "This book includes instructional and thought-provoking case studies and essays from today’s leading thinkers in creative placemaking. It describes the diverse ways that arts organizations and artists can play an essential role in the success of communities across America."
+  publisher:
+    - National Endowment for the Arts
