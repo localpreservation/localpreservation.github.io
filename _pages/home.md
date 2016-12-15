@@ -12,20 +12,20 @@ excerpt: 'The Local Preservation School is an open learning environment where pr
 feature_row:
   - image_path: /assets/images/12881v.jpg
     alt: "about"
-    title: "About Local Preservation School"
+    title: "About"
     excerpt: "The Local Preservation School is a community-based project with opportunities for people from all backgrounds to take part."
     url: "/about/"
     btn_label: "Learn More"
   - image_path: /assets/images/18659u.jpg
-    alt: "get involved"
-    title: "Get Involved"
-    excerpt: "We are organizing a series of workshops where preservation professionals and interested learners can come together to create lessons and other teaching materials."
-    url: "/get-involved/"
+    alt: "teach"
+    title: "Educators"
+    excerpt: "We encourage educators to reuse our resources and share feedback we can use to improve."
+    url: "/teach/"
     btn_label: "Learn More"
   - image_path: /assets/images/11929u.jpg
     alt: "100% free"
     title: "Open Education"
-    excerpt: "Open educational resources are teaching and learning materials that are freely available online for everyone to use, whether you are an teacher, student or self-learner."
+    excerpt: "Open educational resources are teaching and learning materials that are freely available online for everyone to use, whether you are an teacher, student or an independent learner."
     url: "/open-education/"
     btn_label: "Learn More"
 intro:

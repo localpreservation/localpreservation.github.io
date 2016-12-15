@@ -4,8 +4,11 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Resources"
+    url: /resources/
+
   - title: "Learn"
     url: /learn/
 
-  - title: "Get Involved"
-    url: /get-involved/
+  - title: "Teach"
+    url: /teach/
