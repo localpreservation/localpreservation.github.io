@@ -17,6 +17,8 @@ tags:
   - Writing
   - Visuals
   - Outreach
+topic:
+  - History
 ---
 
 Baltimore Heritage delivered Explore Baltimore Heritage 101 as a free series of community classes in June and July 2016 for residents interested in learning how to tell the stories behind local buildings and neighborhoods. Each class was two hours long—enough time for a quick presentation about the topic of the week, discussion and questions, and hands-on projects and activities where participants practiced writing compelling stories and creative visual projects. Between each class, we shared readings, videos, and more educational activities.

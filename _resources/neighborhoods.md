@@ -10,4 +10,7 @@ header:
   cta_label: "Explore this resource"
   cta_url: "https://localpreservation.github.io/neighborhoods/"
   caption: "Germantown Assest Mapping Workshop, Philadelphia, Pennsylvania, 41420. Courtesy [Jeremy Beaudry/Flickr](https://www.flickr.com/photos/jbeau/8848280443/) ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/))"
+topic:
+  - Planning
+  - Community
 ---

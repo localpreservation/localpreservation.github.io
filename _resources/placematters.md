@@ -16,6 +16,8 @@ tags:
   - Research
   - Outreach
   - Organizing
+topic:
+  - Advocacy
 ---
 
 If asked, each of us could probably point to public places in our city that connect us to the past, sustain thriving communities, contribute diversity and distinctiveness to our surroundings, and add to our well being.
