@@ -36,27 +36,4 @@ header:
     {% endfor %}
 </div>
 
-<script src="http://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-<script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
-<script>
-	// init Isotope
-	var $grid = $('.grid').isotope({
-	  // options
-	});
-	// filter items on button click
-	$('.filter-button-group').on( 'click', 'a', function() {
-	  var filterValue = $(this).attr('data-filter');
-	  $grid.isotope({ filter: filterValue });
-	});
-	$('.button-group a.button').on('click', function(){
-		$('.button-group a.button').removeClass('active');
-		$(this).addClass('active');
-	});
-</script>
-<style type="text/css">
-	a.button.active {
-		background: #F76B48;
-		border: 1px solid #F76B48;
-		color: #fff;
-	}
-</style>
+{% include isotope.html %}
