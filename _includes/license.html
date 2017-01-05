@@ -1,0 +1,5 @@
+{% assign license = site.data.licenses[page.license] %}
+<a rel="license" href="{{ license.url }}">
+  <img src="{{ license.image-url }}" style="border-style: none;" alt="{{ license.nickname }}" />
+</a>
+This resource is licensed under a <a rel="license" href="{{ license.url }}">{{ license.title }}</a> license.

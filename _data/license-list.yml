@@ -1,0 +1,38 @@
+CC0-1.0:
+  license: "CC0 1.0"
+  title: "Creative Commons Zero v1.0 Universal"
+  spdx-id: CC0-1.0
+  nickname: CC0
+  url: https://creativecommons.org/publicdomain/zero/1.0/
+
+CC-BY-4.0:
+  license: "CC BY 4.0"
+  title: "Creative Commons Attribution 4.0 International"
+  spdx-id: CC-BY-4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+
+CC-BY-SA-4.0:
+  license: "CC BY-SA 4.0"
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+  spdx-id: CC-BY-SA-4.0
+
+CC BY-NC-SA 3.0:
+  license: "CC BY-NC-SA 3.0"
+  url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+  spdx-id: CC-BY-NC-SA-3.0
+
+CC-BY-2.0:
+  license: "CC BY 2.0"
+  url: https://creativecommons.org/licenses/by/2.0/
+  spdx-id: CC-BY-2.0
+
+CC-BY-NC-ND-3.0-US:
+  license: "CC BY-NC-ND-3.0 US"
+  url: https://creativecommons.org/licenses/by-nc-nd/3.0/us/
+  spdx-id: CC-BY-NC-ND-3.0-US
+
+PD:
+  license: "PD"
+  title: "Public Domain"
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+  spdx-id:

@@ -13,10 +13,10 @@ header:
 
 <h2>Filter by topic</h2>
 <div class="button-group filter-button-group">
-	{% for topic in site.data.topics %}
+  <a class="btn btn--x-large active" data-filter="*">All</a>
+  {% for topic in site.data.topics %}
 		<a class="btn btn--x-large btn--info" data-filter=".{{ topic.name }}">{{ topic.name }}</a>
 	{% endfor %}
-		<a class="btn btn--x-large active" data-filter="*">All</a>
 </div>
 
 <div class="grid">

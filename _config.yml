@@ -196,10 +196,10 @@ defaults:
       path: ""
       type: resources
     values:
-      layout: single
+      layout: resource-single
       read_time: false
       author_profile: false
-      share: false
+      share: true
       comments: false
 
 

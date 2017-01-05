@@ -1,0 +1,11 @@
+{% if page.state == "brainstorming" %}
+<img src="https://img.shields.io/badge/status-brainstorming-lightgrey.svg" alt="page.state">
+{% elsif page.state == "needs work" %}
+<img src="https://img.shields.io/badge/status-needs%20work-red.svg" alt="page.state">
+{% elsif page.state == "building/designing" %}
+<img src="https://img.shields.io/badge/status-building%2fdesigning-orange.svg" alt="page.state">
+{% elsif page.state == "experimental" %}
+<img src="https://img.shields.io/badge/status-experimental-yellow.svg" alt="page.state">
+{% elsif page.state == "ready" %}
+<img src="https://img.shields.io/badge/status-ready-brightgreen.svg" alt="page.state">
+{% endif %}
