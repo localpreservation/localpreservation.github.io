@@ -4,14 +4,21 @@ excerpt: "This course provides a beginner-friendly introduction on how to use ar
 date: 2015-1-1
 modified: 2016-7-13
 repository: "baltimoreheritage/explore-101"
-difficulty: beginner
+resource_url: "https://baltimoreheritage.github.io/explore-101/"
+license: CC-BY-4.0
+difficulty: Beginner
+state: "building/designing"
+publisher:
+  - Baltimore Heritage
+creator:
+  - Eli Pousson
 header:
   teaser: /assets/images/12160u-1280-square.jpg
   overlay_filter: "0.5"
   overlay_image: /assets/images/12160u-1280-square.jpg
+  caption: "Seven Foot Knoll Light, Baltimore, Maryland by Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2011630357/)"
   cta_label: "Take the class"
   cta_url: "https://baltimoreheritage.github.io/explore-101/"
-  caption: "Seven Foot Knoll Light, Baltimore, Maryland by Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2011630357/)"
 tags:
   - Research
   - Writing
@@ -25,9 +32,9 @@ Baltimore Heritage delivered Explore Baltimore Heritage 101 as a free series of 
 
 Baltimore Heritage published the course materials in a [shared Google Drive folder](https://drive.google.com/drive/folders/0ByRNPnSQ-I35TF9yUC1XWi04azA?usp=sharing) with activities, related readings, and sample materials for each session: research, writing, visuals and outreach. Presentations created with [reveal.js](https://github.com/hakimel/reveal.js/) from each session are available online:
 
-- [Research](http://elipousson.github.io/presentations/2016-06-21-explore-101-research.html#/)
-- [Writing](http://elipousson.github.io/presentations/2016-06-28-explore-101-writing.html)
-- [Visuals](http://elipousson.github.io/presentations/2016-07-05-explore-101-visuals.html)
-- [Outreach](http://elipousson.github.io/presentations/2016-07-12-explore-101-outreach.html)
+- [Research](https://elipousson.github.io/presentations/2016-06-21-explore-101-research.html#/)
+- [Writing](https://elipousson.github.io/presentations/2016-06-28-explore-101-writing.html)
+- [Visuals](https://elipousson.github.io/presentations/2016-07-05-explore-101-visuals.html)
+- [Outreach](https://elipousson.github.io/presentations/2016-07-12-explore-101-outreach.html)
 
-Baltimore Heritage is in the process of turning these materials into self-guided tutorials for the [Explore Baltimore Heritage 101 course website](http://baltimoreheritage.github.io/explore-101/) and writing guidelines for anyone interested in adapting our course materials for other historic communities.
+Baltimore Heritage is in the process of turning these materials into self-guided tutorials for the [Explore Baltimore Heritage 101 course website](https://baltimoreheritage.github.io/explore-101/) and writing guidelines for anyone interested in adapting our course materials for other historic communities.

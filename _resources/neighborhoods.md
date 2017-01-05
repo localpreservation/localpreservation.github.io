@@ -2,7 +2,15 @@
 title: "Historic Neighborhoods 101"
 excerpt: "The guide defines a step-by-step process for looking at your neighborhood by completing a series of exercises, each of which are described and then illustrated with an actual neighborhood example."
 repository: "localpreservation/neighborhoods"
-difficulty: intermediate
+difficulty: Intermediate
+date: 2011-09-28
+modified: 2016-10-16
+license: CC-BY-4.0
+repository: "localpreservation/neighborhoods"
+resource_url: "https://localpreservation.github.io/neighborhoods/"
+state: "building/designing"
+publisher:
+  - Preservation Alliance for Greater Philadelphia
 header:
   teaser: /assets/images/8848280443_e721e4b7f8_o-square.jpg
   overlay_filter: "0.5"

@@ -4,7 +4,15 @@ excerpt: "The Place Matters Toolkit is a guidebook to help you identify, promote
 date: 2011-1-1
 modified: 2016-9-11
 repository: "localpreservation/placematters"
-difficulty: beginner
+resource_url: "https://localpreservation.github.io/placematters/"
+difficulty: Beginner
+state: "ready"
+license: CC-BY-4.0
+publisher:
+  - City Lore
+creator:
+    - Marci Reaven (writer)
+    - Emily Gertz (editor)
 header:
   teaser: /assets/images/27661222071_d149288f9e_k-square.jpg
   overlay_filter: "0.5"
@@ -20,10 +28,10 @@ topic:
   - Advocacy
 ---
 
-If asked, each of us could probably point to public places in our city that connect us to the past, sustain thriving communities, contribute diversity and distinctiveness to our surroundings, and add to our well being.
+While there are no sure ways to protect a place, Place Matters created this Toolkit to help people nationwide to:
 
-But most of us are never asked.
+- Identify the cultural and historical functions of places that matter;
+- Find ways to capture and use that information to protect them;
+- Share the strategies that people have often found effective in preserving places that matter.
 
-To remedy this in New York City, two groups—City Lore and the Municipal Art Society—created the Place Matters project in 1998. Among other activities, Place Matters conducts the Census of Places that Matter, a ground-up inventory created through interviews, community forums, and via the mail and Internet. New Yorkers have nominated over 650 places to the Census, including the longest running Latin music store, a church built by Irish dock workers, and the city’s last surviving historic beer garden.
-
-As the nominations mount, the Census is becoming a knowledge bank about the places New Yorkers care about. But it’s also revealing the vulnerability of many of these places to change and destruction—a vulnerability shared by similar places in cities across the country.
+When you preserve places that matter, you’re protecting our shared history, memories, traditions, and the continuing use of these places into the future.

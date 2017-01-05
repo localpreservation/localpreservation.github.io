@@ -3,6 +3,12 @@ title: "Timeline History"
 excerpt: "This interactive timeline helps you explore the history of historic preservation, archaeology, and public history in the United States of America."
 date: 2015-10-13
 modified: 2015-10-15
+difficulty: Beginner
+state: "experimental"
+license: PD
+publisher: Local Preservation School
+creator:
+  - Eli Pousson
 header:
   teaser: /assets/images/2016-10-31-localpast-timeline-screenshot.png
   overlay_image: /assets/images/4a31635u-1280-square.jpg
@@ -25,7 +31,7 @@ We created the timeline using [Google Sheets](https://www.google.com/sheets/abou
 
 ## Help make our timeline better
 
-If you have suggestions for this timeline or ideas for how we should teach the history of historic preservation, please consider sharing your comments on the [source Google Spreadsheet](https://docs.google.com/spreadsheets/d/1l2d4wjWhKNHvbJPllk9PyTBKKvbXr0XXFoh6jFGLsOs/edit?usp=sharing) or reaching out on Twitter to [@localpast](http://twitter.com/localpast/).
+If you have suggestions for this timeline or ideas for how we should teach the history of historic preservation, please consider sharing your comments on the [source Google Spreadsheet](https://docs.google.com/spreadsheets/d/1l2d4wjWhKNHvbJPllk9PyTBKKvbXr0XXFoh6jFGLsOs/edit?usp=sharing) or reaching out on Twitter to [@localpast](https://twitter.com/localpast/).
 
 ## Make your own timeline
 
