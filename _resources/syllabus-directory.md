@@ -6,7 +6,8 @@ modified: 2016-10-30
 difficulty: Advanced
 state: "experimental"
 license: PD
-publisher: Local Preservation School
+publisher:
+  - Local Preservation School
 creator:
   - Vernacular Architecture Forum
   - National Council for Preservation Education (NCPE)

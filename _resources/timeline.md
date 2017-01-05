@@ -6,7 +6,8 @@ modified: 2015-10-15
 difficulty: Beginner
 state: "experimental"
 license: PD
-publisher: Local Preservation School
+publisher:
+  - Local Preservation School
 creator:
   - Eli Pousson
 header:
