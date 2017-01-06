@@ -64,7 +64,7 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -163,46 +163,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-# Collections
-collections:
-  resources:
-    output: true
-    permalink: /:collection/:path/
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-  # _resources
-  - scope:
-      path: ""
-      type: resources
-    values:
-      layout: resource-single
-      read_time: false
-      author_profile: false
-      share: true
-      comments: false
-
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -272,3 +232,42 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Collections
+collections:
+  resources:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  # _resources
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: resource-single
+      read_time: false
+      author_profile: false
+      share: true
+      comments: false
