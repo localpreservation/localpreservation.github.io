@@ -1,0 +1,31 @@
+# List of audiences
+
+students:
+  name: Students
+  slug: students
+  description: Middle, high school or college-age students with an interest in pursuing careers in historic preservation or related fields.
+
+preservation-professionals:
+  name: Preservation Professionals
+  slug: preservation
+  description: Early to mid-career professionals working in historic preservation, including local, state, federal government; local, statewide, and regional non-profits; and private businesses in cultural resource management, preservation architecture and conservation.
+
+related-professionals:
+  name: Related Professionals
+  slug: related
+  description: Early to mid-career professionals working in related fields, including museums, tourism, community and economic development, folklore, urban and regional planning, sustainable transportation advocacy, community organizing, etc.
+
+volunteers:
+  name: Volunteers
+  slug: volunteers
+  description: Volunteer local preservationists, including volunteers with historic sites, advocacy groups, and local preservation commissioners.
+
+residents:
+  name: Residents and Community Leaders
+  slug: residents
+  description: Residents of historic communities with an interest or concern for issues related to community development (e.g. vacancy, illegal dumping, underutilizing buildings) or particular historic resources (e.g. a historic school or library, a historic church).
+
+owners:
+  name: Property Owners
+  slug: owners
+  description: Owners of historic properties including religious congregations, fraternal or social clubs, elected officials with local/state government, public employees in capital planning or property management programs, small developers and investors.
