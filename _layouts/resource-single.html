@@ -42,7 +42,8 @@ layout: default
             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
           {% endif %}
           {% if page.difficulty %}
-            <p class="page__date"><strong><i class="fa fa-graduation-cap" aria-hidden="true"></i> Difficulty</strong>: {{ page.difficulty }}</p>
+            <p class="page__date"><strong><i class="fa fa-graduation-cap" aria-hidden="true"></i> Difficulty</strong>: {{ page.difficulty }} &nbsp;<a href="{{ '/resources/about/#difficulty' | absolute_url }}"><i class="fa fa-info-circle"></i></a>
+</p>
           {% endif %}
           {% if page.license %}
           <p class="page__date"><strong><i class="fa fa-fw fa-creative-commons" aria-hidden="true"></i> License:</strong>
