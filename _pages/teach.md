@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/34321u-1280-square.jpg
   overlay_image: /assets/images/34321u-1280-square.jpg
   overlay_filter: .5
-  caption: "A one-room schoolhouse classroom in a recreated coal camp building at the Beckley Exhibition Coal Mine in Beckley, W.V. Carol M. Highsmith, 2015 October 21. Courtesy [Library of Congress](http://www.loc.gov/pictures/item/2015634337/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))."
+  caption: "A one-room schoolhouse classroom in a recreated coal camp building at the Beckley Exhibition Coal Mine in Beckley, W.V. Carol M. Highsmith, 2015 October 21. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2015634337/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))."
 ---
 
 If you are an educator, volunteer, or professional working in preservation, we encourage you to use our Local Preservation School resources to teach in your community. We also are interested in helping you publish your own resources online as open educational resources.
@@ -34,17 +34,17 @@ We welcome comments, additions, and revisions for any of our resources and for t
 
 ### Share your comment or suggestions
 
-Please get in touch by email to info@baltimoreheritage.org or through the [Baltimore Heritage website](http://baltimoreheritage.org/contact/).
+Please get in touch by email to info@baltimoreheritage.org or through the [Baltimore Heritage website](https://baltimoreheritage.org/contact/).
 
 You can also share questions or suggestions on Twitter by posting with the [#localpast hashtag](https://twitter.com/hashtag/localpast?src=hash) or on our [Saving Places Facebook group](https://www.facebook.com/groups/savingplaces/).
 
 ### Share a resource you created
 
-Do you have a slideshow, training manual, one-page handout, or other educational resources that you have created? We want to help you share your work by publishing your resource or including a link in our resource collection. Please get in touch by email to info@baltimoreheritage.org or through the [Baltimore Heritage website](http://baltimoreheritage.org/contact/).
+Do you have a slideshow, training manual, one-page handout, or other educational resources that you have created? We want to help you share your work by publishing your resource or including a link in our resource collection. Please get in touch by email to info@baltimoreheritage.org or through the [Baltimore Heritage website](https://baltimoreheritage.org/contact/).
 
 ### Contribute to an existing resources using GitHub
 
-We are using [GitHub](http://github.com) as a platform for developing and sharing lessons and tutorials. To contribute online, we encourage you to [join GitHub](https://github.com/join) and learn more about [how to use GitHub](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/). Using GitHub, you can contribute online in two ways:
+We are using [GitHub](https://github.com) as a platform for developing and sharing lessons and tutorials. To contribute online, we encourage you to [join GitHub](https://github.com/join) and learn more about [how to use GitHub](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/). Using GitHub, you can contribute online in two ways:
 
 - **Comment on issues.** Do you have suggestions for new lessons? Or comments on existing lessons? We are using the [issue tracker on our main repository](https://github.com/localpreservation/localpreservation.github.io/issues) to share questions and opportunities for comment. Learn more about [using issues on GitHub](https://guides.github.com/features/issues/).
 - **Make changes or additions to lessons or resources.** GitHub makes it simple to "fork" an existing repository, make changes, and then contribute those changes back to the project. Learn more about [forking projects on GitHub](https://guides.github.com/activities/forking/).

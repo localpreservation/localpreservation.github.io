@@ -25,6 +25,6 @@ _Directory_: [Preservation, Housing and Community Development Resources](https:/
 
 ## Explore Baltimore Heritage 101
 
-A course designed to teach local residents how to research, write and share the stories of historic places in their communities. Follow the [Explore Baltimore Heritage 101 GitHub repo](https://github.com/baltimoreheritage/explore-101) for updates or explore the [course website](http://baltimoreheritage.github.io/explore-101/).
+A course designed to teach local residents how to research, write and share the stories of historic places in their communities. Follow the [Explore Baltimore Heritage 101 GitHub repo](https://github.com/baltimoreheritage/explore-101) for updates or explore the [course website](https://baltimoreheritage.github.io/explore-101/).
 
 _Map_: [Find Help for House Histories](https://elipousson.cartodb.com/viz/50fdf15c-ddda-11e5-83a0-0e5db1731f59/public_map)

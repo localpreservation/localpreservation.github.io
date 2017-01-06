@@ -65,7 +65,7 @@ It also prompts a few additional questions that will help us focus the grant app
 - What is our strategy for dissemination of the resources we are developing?
 - How do you teach people how to gather documentation with mobile devices?
 
-**Note**: we already have some information related to this questions in our [background research](http://localpreservation.github.io/background/) document
+**Note**: we already have some information related to this questions in our [background research](https://localpreservation.github.io/background/) document
 
 **To submit this application we need to write:**
 

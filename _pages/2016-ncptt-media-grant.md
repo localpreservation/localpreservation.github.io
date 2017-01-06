@@ -10,7 +10,7 @@ permalink: /2016-ncptt-media-grant/
 
 We are writing a grant application and a guide to writing grant applications at the same time! Check out [our blog post for why we are doing this]({{ site.url }}/blog/ncptt-media-grant-application/), review our instructions for how to apply for a grant, take a look at the requirements for the NCPTT 2016 Media Grant, or read our grant application in progress.
 
-Please share your comments on our grant application tutorial or the draft grant application with [Eli Pousson](http://twitter.com/elipousson). You can also creating issues in this repo or fork this repo to contribute edits directly. This grant is due on **Tuesday, November 3, 2015**.
+Please share your comments on our grant application tutorial or the draft grant application with [Eli Pousson](https://twitter.com/elipousson). You can also creating issues in this repo or fork this repo to contribute edits directly. This grant is due on **Tuesday, November 3, 2015**.
 
 ![Banner image - Call for Proposals 2016 Media Grants](https://ncptt.nps.gov/wp-content/uploads/media-banner.jpg)
 
@@ -88,7 +88,7 @@ Here is how NCPTT outlines the required content for the narrative description in
 
 The Local Preservation School is an online open educational resource (OER) designed to teach historic preservation concepts, skills and practices. We are using open source tools (GitHub and the static site generator Jekyll) to develop and publish a collection of lessons and exercises illustrated with interactive maps, quizzes, and graphics for an audience of volunteer preservation advocates around the country. Professionals working in preservation (or related fields) can reuse/customize these same products to teach a variety of topics related to preservation in their own communities. We plan to complete much of the initial content development for the Local Preservation School prior to the proposed funding period. We are requesting funds to support the testing, refinement and broad dissemination of the Local Preservation School products as a model how open source technology and approaches can benefit historic preservation.
 
-To illustrate the potential that open source approaches for the Local Preservation School (and other preservation projects) we have used Jekyll and GitHub Pages to publish this grant application online: [localpreservation.github.io/2016-ncptt-media-grant](http://localpreservation.github.io/2016-ncptt-media-grant/localpreservation.github.io/2016-ncptt-media-grant).
+To illustrate the potential that open source approaches for the Local Preservation School (and other preservation projects) we have used Jekyll and GitHub Pages to publish this grant application online: [localpreservation.github.io/2016-ncptt-media-grant](https://localpreservation.github.io/2016-ncptt-media-grant/localpreservation.github.io/2016-ncptt-media-grant).
 
 **_Project Description Summary_**
 

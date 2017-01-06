@@ -1,11 +1,11 @@
 # Local Preservation School
-Local Preservation School: Tools, resources, and tutorials for saving historic places in your community. This repo contains [our project website](http://localpreservation.github.io). We are continuing to develop our [Local Preservation 101 course](https://github.com/localpreservation/course-in-a-box), the [Local Preservation handbook](https://github.com/localpreservation/handbook) and guidelines for contributors.
+Local Preservation School: Tools, resources, and tutorials for saving historic places in your community. This repo contains [our project website](https://localpreservation.github.io). We are continuing to develop our [Local Preservation 101 course](https://github.com/localpreservation/course-in-a-box), the [Local Preservation handbook](https://github.com/localpreservation/handbook) and guidelines for contributors.
 
 ## What is the Local Preservation School?
 
 The Local Preservation School is an **open learning environment** where preservation advocates and volunteers share with people how to save and sustain historic places in their communities. Our goal is to teach you how to get involved with historic preservation in your community through free online courses, easy-to-use tutorials and fun projects. **Beginners are welcome!**
 
-[Learn more about the Local Preservation School :point_right:](http://localpreservation.github.io/about/)
+[Learn more about the Local Preservation School :point_right:](https://localpreservation.github.io/about/)
 
 ## How can you contribute?
 
@@ -29,7 +29,7 @@ In support of this principle, resources developed by the Local Preservation Scho
 
 ## Project Team
 
-This project is led by [Eli Pousson](http://github.com/elipousson), Director of Preservation & Outreach for [Baltimore Heritage](http://baltimoreheritage.org/). We are currently recruiting partners, volunteer contributors and project advisors! If you are interested in getting involved, please get in touch with Eli by email at **pousson@baltimoreheritage.org** or (on Twitter) [@elipousson](http://twitter.com/elipousson/).
+This project is led by [Eli Pousson](https://github.com/elipousson), Director of Preservation & Outreach for [Baltimore Heritage](https://baltimoreheritage.org/). We are currently recruiting partners, volunteer contributors and project advisors! If you are interested in getting involved, please get in touch with Eli by email at **pousson@baltimoreheritage.org** or (on Twitter) [@elipousson](https://twitter.com/elipousson/).
 
 ## Project Funding
 

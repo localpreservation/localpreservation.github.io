@@ -34,12 +34,12 @@ In Philadelphia, we are working with the [Preservation Alliance for Greater Phil
 
 ![Buildings leave a trail of evidence](http://gallery.tinyletterapp.com/3270d5b41e77d806b498bbfc78fb361e63a01b5a/images/c794c0f4-53f6-4e3f-885c-83eadbc2b1d6.png)
 
-If you are curious about the Explore Baltimore Heritage 101 class, we led earlier this summer you can take a look at our four in-class presentations below. We created these presentations using the HTML presentation framework [reveal.js](http://lab.hakim.se/reveal-js/#/) so anyone can reuse and adapt our presentations for your own class or workshop. Stay tuned for a more complete report and a big update to our [Explore Baltimore Heritage 101 course site](http://baltimoreheritage.github.io/explore-101/).
+If you are curious about the Explore Baltimore Heritage 101 class, we led earlier this summer you can take a look at our four in-class presentations below. We created these presentations using the HTML presentation framework [reveal.js](http://lab.hakim.se/reveal-js/#/) so anyone can reuse and adapt our presentations for your own class or workshop. Stay tuned for a more complete report and a big update to our [Explore Baltimore Heritage 101 course site](https://baltimoreheritage.github.io/explore-101/).
 
-1. [Research](http://elipousson.github.io/presentations/2016-06-21-explore-101-research.html)
-2. [Writing](http://elipousson.github.io/presentations/2016-06-28-explore-101-writing.html#/)
-3. [Visuals](http://elipousson.github.io/presentations/2016-07-05-explore-101-visuals.html#/)
-4. [Outreach](http://elipousson.github.io/presentations/2016-07-12-explore-101-outreach.html#/)
+1. [Research](https://elipousson.github.io/presentations/2016-06-21-explore-101-research.html)
+2. [Writing](https://elipousson.github.io/presentations/2016-06-28-explore-101-writing.html#/)
+3. [Visuals](https://elipousson.github.io/presentations/2016-07-05-explore-101-visuals.html#/)
+4. [Outreach](https://elipousson.github.io/presentations/2016-07-12-explore-101-outreach.html#/)
 
 ## Local Preservation School at Openlab workshop
 

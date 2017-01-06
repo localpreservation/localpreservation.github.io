@@ -46,6 +46,6 @@ The Local Preservation School is a work-in-progress. We are seeking assistance f
 
 ## Who is working on the Local Preservation School?
 
-This project is led by [Baltimore Heritage](http://baltimoreheritage.org/) with support from the [National Park Service](https://www.nps.gov/index.htm) and [National Conference of State Historic Preservation Officers](http://ncshpo.org/).
+This project is led by [Baltimore Heritage](https://baltimoreheritage.org/) with support from the [National Park Service](https://www.nps.gov/index.htm) and [National Conference of State Historic Preservation Officers](http://ncshpo.org/).
 
-The lead organizer for the Local Preservation School is [Eli Pousson](http://baltimoreheritage.org/about/staff), Director of Preservation & Outreach for Baltimore Heritage.
+The lead organizer for the Local Preservation School is [Eli Pousson](https://baltimoreheritage.org/about/staff), Director of Preservation & Outreach for Baltimore Heritage.

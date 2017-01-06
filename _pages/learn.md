@@ -34,7 +34,7 @@ resources_feature:
 
 You can learn how to preserve historic places in your community using our guides, lessons, and tutorials from [Local Preservation School resource directory](/resources/). Our open educational resources are created by our project team or adapted from publications donated to the project by our partner organizations.
 
-If you'd like to donate educational resources that you created to the Local Preservation School, please [get in touch](http://baltimoreheritage.org/contact/)! Subscribe for updates as we continue to expand the Local Preservation School.
+If you'd like to donate educational resources that you created to the Local Preservation School, please [get in touch](https://baltimoreheritage.org/contact/)! Subscribe for updates as we continue to expand the Local Preservation School.
 
 <form style="border:0px solid #ccc;padding:3px;text-align:left;" action="https://tinyletter.com/localpreservation" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/localpreservation', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" size="40" name="email" id="tlemail" /> <input type="hidden" value="1" name="embed" /><input type="submit" value="Subscribe"  class="btn" /></form>
 

@@ -49,7 +49,7 @@ Several undergraduate and graduate programs offer **online courses** and degrees
 
 ### Webinars
 
-There are a variety of **webinar based programs** including the NPS Technical Preservation Services [webinar series](http://www.nps.gov/tps/education/webinars.htm), [National Register and NHL program webinars](http://www.nps.gov/nr/publications/guidance/webinars.htm), an [ACHP webinar](http://www.achp.gov/sec106webinar.html) on Section 106. Some webinars are focused on a particular jurisdiction or audience such as the [online courses for emergency responders](http://www.heritagepreservation.org/lessons/courses.html) from Heritage Conservation or focused by geography  like the  [California Preservation Foundation webinars](http://www.californiapreservation.org/webinars.html). Some of these programs require a fee or advance registration but do not typically require a commitment beyond an individual session.
+There are a variety of **webinar based programs** including the NPS Technical Preservation Services [webinar series](https://www.nps.gov/tps/education/webinars.htm), [National Register and NHL program webinars](https://www.nps.gov/nr/publications/guidance/webinars.htm), an [ACHP webinar](http://www.achp.gov/sec106webinar.html) on Section 106. Some webinars are focused on a particular jurisdiction or audience such as the [online courses for emergency responders](http://www.heritagepreservation.org/lessons/courses.html) from Heritage Conservation or focused by geography  like the  [California Preservation Foundation webinars](http://www.californiapreservation.org/webinars.html). Some of these programs require a fee or advance registration but do not typically require a commitment beyond an individual session.
 
 ### Open Access Educational Materials/MOOCs
 
@@ -65,8 +65,8 @@ Partner universities for larger MOOCs like Coursera and EdX have not developed a
 ### Documents
 Several National Park Service programs provide online resources with an educational mission. These resources are most often in the form of **web-based publications** (available as a webpage, PDF or both) that matches the content of a printed publication. Examples of this approach include:
 
-- **National Register** [brochures, bulletins and technical assistance documents](http://www.nps.gov/nr/publications/)
-- **Technical Preservation Services** [series of Preservation Briefs](http://www.nps.gov/tps/how-to-preserve/briefs.htm), [“Tech Notes”](http://www.nps.gov/tps/how-to-preserve/tech-notes.htm) and [Cultural Landscape Case Studies](http://www.nps.gov/tps/how-to-preserve/cultural-landscapes.htm)
+- **National Register** [brochures, bulletins and technical assistance documents](https://www.nps.gov/nr/publications/)
+- **Technical Preservation Services** [series of Preservation Briefs](https://www.nps.gov/tps/how-to-preserve/briefs.htm), [“Tech Notes”](https://www.nps.gov/tps/how-to-preserve/tech-notes.htm) and [Cultural Landscape Case Studies](https://www.nps.gov/tps/how-to-preserve/cultural-landscapes.htm)
 
 At their most simple, online documents can take the form of directories or organized lists of links such as this [resource page from Preservation Action](http://www.preservationaction.org/resources/).
 

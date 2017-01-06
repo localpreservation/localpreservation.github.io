@@ -9,7 +9,7 @@ header:
   caption: "Charles Sumner School, Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2011631442/) (PD)"
 ---
 
-Please join the [DC Preservation League](http://www.dcpreservation.org/), [National Trust for Historic Preservation](https://savingplaces.org/), and [Baltimore Heritage](http://baltimoreheritage.org/) next month for our latest workshop on open education and preservation. We want to learn how local preservationists can build more inclusive programs, advocacy campaigns, and organizations and how we can teach those skills to volunteer advocates.
+Please join the [DC Preservation League](http://www.dcpreservation.org/), [National Trust for Historic Preservation](https://savingplaces.org/), and [Baltimore Heritage](https://baltimoreheritage.org/) next month for our latest workshop on open education and preservation. We want to learn how local preservationists can build more inclusive programs, advocacy campaigns, and organizations and how we can teach those skills to volunteer advocates.
 
 ### Local Preservation School: DC Study Group
 
