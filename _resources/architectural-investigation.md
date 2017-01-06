@@ -20,6 +20,7 @@ header:
   caption: "Northeast corner of the attic at Poplar Forest, Bedford County, Virginia by Jack Boucher, 1987. Courtesy [Library of Congress/HABS](http://www.loc.gov/pictures/item/va0270.photos.159782p/)."
 tags:
   - Research
+  - Featured
 topic:
   - History
 ---

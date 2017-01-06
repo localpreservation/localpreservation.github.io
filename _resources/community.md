@@ -7,12 +7,13 @@ license: CC-BY-4.0
 difficulty: Intermediate
 publisher:
   - National Trust for Historic Preservation
+  - Local Preservation School
 creator:
   - Rhonda Sincavage
   - Renee Viers Kuhlman
   - Martha Vail
 repository: "localpreservation/community"
-resource_url: https://localpreservation.github.io/community/
+resource_url: &cta_url https://localpreservation.github.io/community/
 state: "building/designing"
 header:
   teaser: /assets/images/2010-04-06-edmund-pettus-bridge.jpg
@@ -20,7 +21,7 @@ header:
   overlay_filter: "0.5"
   caption: "The Edmund Pettus Bridge, Selma, Alabama, 2010 April 6. Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2010639087/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))."
   cta_label: "Read the guide"
-  cta_url: "https://localpreservation.github.io/community/"
+  cta_url: *cta_url
 topic:
   - Community
   - Advocacy

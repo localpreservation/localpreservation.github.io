@@ -7,17 +7,18 @@ date: 2011-09-28
 modified: 2016-10-16
 license: CC-BY-4.0
 repository: "localpreservation/neighborhoods"
-resource_url: "https://localpreservation.github.io/neighborhoods/"
+resource_url: &cta_url "https://localpreservation.github.io/neighborhoods/"
 state: "building/designing"
 publisher:
   - Preservation Alliance for Greater Philadelphia
+  - Local Preservation School
 header:
   teaser: /assets/images/8848280443_e721e4b7f8_o-square.jpg
   overlay_filter: "0.5"
   overlay_image: /assets/images/8848280443_e721e4b7f8_o-square.jpg
-  cta_label: "Explore this resource"
-  cta_url: "https://localpreservation.github.io/neighborhoods/"
-  caption: "Germantown Assest Mapping Workshop, Philadelphia, Pennsylvania, 41420. Courtesy [Jeremy Beaudry/Flickr](https://www.flickr.com/photos/jbeau/8848280443/) ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/))"
+  cta_label: "Read the guide"
+  cta_url: *cta_url
+  caption: "Germantown Assest Mapping Workshop, Philadelphia, Pennsylvania, 41420. Courtesy [Jeremy Beaudry/Flickr](https://www.flickr.com/photos/jbeau/8848280443/) ([CC-BY-NC-SA-2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/))"
 topic:
   - Planning
   - Community

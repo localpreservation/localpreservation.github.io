@@ -4,12 +4,13 @@ excerpt: "This course provides a beginner-friendly introduction on how to use ar
 date: 2015-1-1
 modified: 2016-7-13
 repository: "baltimoreheritage/explore-101"
-resource_url: "https://baltimoreheritage.github.io/explore-101/"
+resource_url: &cta_url "https://baltimoreheritage.github.io/explore-101/"
 license: CC-BY-4.0
 difficulty: Beginner
 state: "building/designing"
 publisher:
   - Baltimore Heritage
+  - Local Preservation School
 creator:
   - Eli Pousson
 header:
@@ -18,12 +19,13 @@ header:
   overlay_image: /assets/images/12160u-1280-square.jpg
   caption: "Seven Foot Knoll Light, Baltimore, Maryland by Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2011630357/)"
   cta_label: "Take the class"
-  cta_url: "https://baltimoreheritage.github.io/explore-101/"
+  cta_url: *cta_url
 tags:
   - Research
   - Writing
   - Visuals
   - Outreach
+  - Featured
 topic:
   - History
 ---

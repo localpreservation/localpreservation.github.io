@@ -14,6 +14,8 @@ header:
   teaser: /assets/images/2016-10-31-localpast-timeline-screenshot.png
   overlay_image: /assets/images/4a31635u-1280-square.jpg
   overlay_filter: .5
+tags:
+  - Featured
 topic:
   - History
 ---
