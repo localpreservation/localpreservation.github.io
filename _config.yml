@@ -212,7 +212,7 @@ tag_archive:
   path: /tags/
 resource_tag_archive:
   type: liquid
-  path: /resources/tags/
+  path: /resources/tag/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
