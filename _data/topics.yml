@@ -16,6 +16,10 @@
   slug: planning
   description: "Navigating issues of land use, historic designation, development, urban design and planning."
 
+- name: Design
+  slug: design
+  description: "Architecture, engineering, landscape design, site planning, etc."
+
 - name: Education
   slug: education
   description: "Teaching preservation and related skills in informal and formal educational contexts."
