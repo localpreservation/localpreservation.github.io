@@ -1,0 +1,81 @@
+---
+layout: resource-directory
+title: Resources
+permalink: /resources/
+excerpt: 'Find, reuse, and remix educational resources created and collected by the Local Preservation School.'
+header:
+  teaser: /assets/images/18659u.jpg
+  overlay_image: /assets/images/18659u.jpg
+  overlay_filter: .5
+sidebar:
+  - title: "Browse by tag"
+---
+
+<div class="grid">
+  {% for resource in site.resources %}
+  <div class="grid-item {{ resource.topic | join: ' ' }}">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <!--<div class="align-right grid-img">
+        <img src=
+            {% if resource.header.teaser contains "://" %}
+              "{{ resource.header.teaser }}"
+            {% else %}
+              "{{ resource.header.teaser | absolute_url }}"
+            {% endif %}
+            alt="">
+      </div>-->
+      <h2 class="archive__item-title" itemprop="headline">
+          <a href="{{ resource.url | absolute_url }}" rel="permalink">{{ resource.title }}</a>
+      </h2>
+      <p class="page__meta">
+        {% if resource.date %}
+        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>&nbsp;Date:</strong> <time datetime="{{ resource.date | date_to_xmlschema }}">{{ resource.date | date: "%B %d, %Y" }}</time><br/>
+        {% endif %}
+        {% if resource.publisher %}
+        <strong><i class="fa fa-fw fa-bullhorn" aria-hidden="true"></i>&nbsp;Publisher:</strong> {{ resource.publisher | array_to_sentence_string }}
+        {% endif %}
+      </p>
+      {% if resource.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ resource.excerpt | markdownify | strip_html | truncate: 180 }}</p>{% endif %}
+    </article>
+  </div>
+  {% endfor %}
+</div>
+
+<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
+<script>
+	// init Isotope
+	var $grid = $('.grid').isotope({
+    itemSelector: '.grid-item',
+    percentPosition: true
+	});
+	// filter items on button click
+	$('.filter-button-group').on( 'click', 'a', function() {
+	  var filterValue = $(this).attr('data-filter');
+	  $grid.isotope({ filter: filterValue });
+	});
+	$('.button-group a.button').on('click', function(){
+		$('.button-group a.button').removeClass('active');
+		$(this).addClass('active');
+	});
+</script>
+<style type="text/css">
+	a.button.active {
+		background: #F76B48;
+		border: 1px solid #F76B48;
+		color: #fff
+	}
+  .grid-item {
+      background: rgba(255,255,255,0.9);
+      border-radius: 10px;
+      clear: both;
+      border: 1px solid #ccc;
+      margin: 0 0 3rem 0;
+      position: relative;
+      box-shadow: 0 -5px 15px rgba(0,0,0,0.25);
+      padding: 0% 5%
+  }
+  .archive-item {
+    padding: 5%
+  }
+</style>

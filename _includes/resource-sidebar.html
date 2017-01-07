@@ -1,0 +1,13 @@
+  <div class="sidebar sticky">
+    <div class="button-group filter-button-group">
+      <h3>Filter by topic</h3>
+      <p><a class="btn btn--large active" data-filter="*" style="width: 100%">All</a>
+      {% for topic in site.data.topics %}
+        <a class="btn btn--large btn--info" data-filter=".{{ topic.name }}" style="width: 100%">{{ topic.name }}</a>
+      {% endfor %}
+    </div></p>
+    <hr/>
+    <h3>Browse</h3>
+    <a href="{{ 'resources/tag/' | absolute_url }}" class="btn btn--large">Tag</a>
+    <a href="{{ 'resources/year/' | absolute_url }}" class="btn btn--large">Year</a>
+   </div>
