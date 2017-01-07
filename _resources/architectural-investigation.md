@@ -1,12 +1,13 @@
 ---
 title: "Understanding Old Buildings: The Process of Architectural Investigation"
-excerpt: "Architectural investigation is the critical first step in planning an appropriate treatment-understanding how a building has changed over time and assessing levels of deterioration."
+excerpt: "Architectural investigation is the critical first step in planning an appropriate treatment—understanding how a building has changed over time and assessing levels of deterioration."
 license: PD
 date: 1994-09-01
 modified: 2017-01-05
 difficulty: Intermediate
 state: ready
 repository: "localpreservation/localpreservation.github.io"
+based_url: https://www.nps.gov/tps/how-to-preserve/briefs/35-architectural-investigation.htm
 publisher:
   - National Park Service
 creator:
@@ -27,7 +28,7 @@ topic:
 
 {% include toc icon="columns" title="Contents" %}
 
-If you have ever felt a sense of excitement and mystery going inside an old building—whether occupied or vacant—it is probably because its materials and features resonate with the spirit of past people and events. Yet excitement about the unknown is heightened when a historic structure is examined architecturally, and its evolution over time emerges with increasing clarity to reveal the lives of its occupants. Architectural investigation is the critical first step in planning an appropriate treatment-understanding how a building has changed over time and assessing levels of deterioration.
+If you have ever felt a sense of excitement and mystery going inside an old building—whether occupied or vacant—it is probably because its materials and features resonate with the spirit of past people and events. Yet excitement about the unknown is heightened when a historic structure is examined architecturally, and its evolution over time emerges with increasing clarity to reveal the lives of its occupants. Architectural investigation is the critical first step in planning an appropriate treatment—understanding how a building has changed over time and assessing levels of deterioration.
 
 Whether as a home owner making sympathetic repairs, a craftsman or contractor replacing damaged or missing features, or a conservator reconstituting wood or restoring decorative finishes, some type of investigative skill was used to recognize and solve an architectural question or explain a difficult aspect of the work itself.
 
@@ -126,7 +127,8 @@ A longer period of occupancy generally counts for greater physical change. Build
 Changes to architectural form over time are generally attributable to material durability, improvement in convenience systems, and aesthetics.
 
 - First, the durability of building materials is affected by weathering, temperature and humidity, by disasters such as storms, floods or fire, or by air pollution from automobiles and industry.
-- Second, changes in architectural form have always been made for convenience' sake-fueled by technological innovations-as people embrace better lighting, plumbing, heating, sanitation, and communication. People alter living spaces to meet changing family needs. Finally, people make changes to architectural form, features, and detailing to conform to current taste and style.
+- Second, changes in architectural form have always been made for convenience' sake—fueled by technological innovations-as people embrace better lighting, plumbing, heating, sanitation, and communication. People alter living spaces to meet changing family needs.
+- Finally, people make changes to architectural form, features, and detailing to conform to current taste and style.
 
 # Looking More Closely at Historic Building Materials and Features
 
@@ -143,7 +145,7 @@ Studying historic brickwork can provide important information about methods of p
 Certain questions need to be asked during investigation:
 
 - Is the mortar made with a natural or a Portland cement?
-- If a natural cement, did it come from an oyster shell or a limestone source? - Is it hydrated or hydraulic?
+- If a natural cement, did it come from an oyster shell or a limestone source? Is it hydrated or hydraulic?
 
 As a construction unit, brick and mortar further reveal something about the time, place and human variables of construction, such as the type of bond, special brick shapes, decorative uses of glazed or rubbed brick, coatings and finishes, and different joints, striking and tooling.
 
@@ -163,7 +165,7 @@ Buildings constructed with wood have a very different set of characteristics, re
 
 - Is the wooden structural system log, timber frame, or balloon frame construction? Evidence seen on the wood surface indicates whether production was by ax, adze, pit saw, mill saw (sash or circular), or band saw. What are the varying dimensions of the lumber used? Finished parts can be sawn, gouged, carved, or planed (by hand or by machine).
 - Were they fastened by notching, mortise and tenon, pegs, or nailing? If nails were used, were they wrought by hand, machine cut with wrought heads, entirely machine cut, or machine wire nails? For much of the nineteenth century the manufacture of nails underwent a series of changes and improvements that are dateable, allowing nails to be used as a tool in establishing periods of construction and alteration. Regardless of region or era, the method of framing, joining and finishing a wooden structure will divulge something about the original construction, its alterations, and the practices of its builders.
-- Finally, does some of the wood appear to be re-used or re-cycled? Re-used and reproduction materials used in early restoration projects have confused many investigators. When no identification record was kept, it can be a problem distinguishing between materials original to the house and later replacement materials.
+- Finally, does some of the wood appear to be reused or recycled? Reused and reproduction materials used in early restoration projects have confused many investigators. When no identification record was kept, it can be a problem distinguishing between materials original to the house and later replacement materials.
 
 ![Section of a standing seam metal roof, with remains of a shingle roof above it.](https://www.nps.gov/tps/images/briefs/35-standing-seam.jpg){: .align-right}
 
@@ -199,7 +201,7 @@ Holes, scars, patches, nails, nail holes, screws and other hardware indicate for
 
 Other clues to look for include:
 
-- the installation of re-used material brought into a house or moved about within a house;
+- the installation of reused material brought into a house or moved about within a house;
 - worker's or occupant's graffiti, especially on the back of trim
 - and hidden finishes or wallpaper stuck in crevices or underneath pieces of trim.
 
@@ -233,7 +235,7 @@ While the earliest era had been established as the interpretation period, eviden
 
 Systems of utility and convenience bear close scrutiny during investigation. All historic buildings inhabited and used by people reveal some association, at the very minimum, with the necessities of lighting, climate control, water, food preparation, and waste removal. Later installations in a building may include communication, hygiene, food storage, security, and lightning protection systems. Other systems, such as transportation, are related to more specific functions of commercial or public structures.
 
-Although research into the social uses of rooms and their furnishings has borne many new studies, parallel research into how people actually carried out the most mundane tasks of everyday life has been fairly neglected. Utility and convenience systems are most prone to alteration and upgrading and, at the same time, less apt to be preserved, documented or re-used.
+Although research into the social uses of rooms and their furnishings has borne many new studies, parallel research into how people actually carried out the most mundane tasks of everyday life has been fairly neglected. Utility and convenience systems are most prone to alteration and upgrading and, at the same time, less apt to be preserved, documented or reused.
 
 Understanding the history or use of a building, and the history of systems technology can help predict the physical evidence that might be found, and what it will look like after it is found.
 
@@ -326,7 +328,7 @@ If the right questions are not asked, the evidence can remain hidden. Hypotheses
 
 # Keeping a Responsible Record for Future Investigators
 
-The evidence collected during investigation, and any conclusions which can be drawn from it, should be documented in a written report. The complexity of a project dictates the complexity of the resulting record. It may be wise to maintain a report in an expandable format if long or extensive work is expected-additional evidence will undoubtedly need to be incorporated that alters previous conclusions. Reports tend to range from annotated photographs in loose-leaf binders to full-length bound "books."
+The evidence collected during investigation, and any conclusions which can be drawn from it, should be documented in a written report. The complexity of a project dictates the complexity of the resulting record. It may be wise to maintain a report in an expandable format if long or extensive work is expected—additional evidence will undoubtedly need to be incorporated that alters previous conclusions. Reports tend to range from annotated photographs in loose-leaf binders to full-length bound "books."
 
 Putting findings and conclusions in an accessible form helps those who are planning treatment. For example, a rehabilitation project may require documentation to satisfy grant funding or tax credit program requirements; preservation and restoration projects always need careful documentation to guide the work. After work, the investigation report and notes on the treatment itself are made into a permanent file record. Whether or not work is being planned, the architectural investigation report will always be of value to future researchers or owners of the building.
 
@@ -345,7 +347,7 @@ They are seldom definitive; thus, research is a continuing process.
 
 Architectural investigation plays a critical role in making responsible decisions about treating and interpreting historic buildings. A successful project to research, inventory, document, and ultimately treat and interpret a building is directly linked to the knowledge and skills of architectural investigators and other historic preservation specialists.
 
-The expressed goal of historic preservation is to protect and preserve materials and features that convey the significant history of a place. Careful architectural investigation-together with historical research-provides a firm foundation for this goal.
+The expressed goal of historic preservation is to protect and preserve materials and features that convey the significant history of a place. Careful architectural investigation—together with historical research—provides a firm foundation for this goal.
 
 ## Acknowledgements
 
