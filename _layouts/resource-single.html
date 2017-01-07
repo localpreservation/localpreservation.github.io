@@ -33,7 +33,7 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-pencil-square-o" aria-hidden="true"></i> Creator:</strong> {{ page.creator | array_to_sentence_string }}</p>
           {% endif %}
           {% if page.publisher %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-group" aria-hidden="true"></i> Publisher:</strong> {{ page.publisher | array_to_sentence_string }}</p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-bullhorn" aria-hidden="true"></i> Publisher:</strong> {{ page.publisher | array_to_sentence_string }}</p>
           {% endif %}
           {% if page.date %}
             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Publication Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
