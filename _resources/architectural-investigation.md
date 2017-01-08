@@ -26,19 +26,19 @@ topic:
   - History
 ---
 
-{% include toc icon="columns" title="Contents" %}
-
 If you have ever felt a sense of excitement and mystery going inside an old building—whether occupied or vacant—it is probably because its materials and features resonate with the spirit of past people and events. Yet excitement about the unknown is heightened when a historic structure is examined architecturally, and its evolution over time emerges with increasing clarity to reveal the lives of its occupants. Architectural investigation is the critical first step in planning an appropriate treatment—understanding how a building has changed over time and assessing levels of deterioration.
 
+{% include toc icon="columns" title="Contents" %}
+
 Whether as a home owner making sympathetic repairs, a craftsman or contractor replacing damaged or missing features, or a conservator reconstituting wood or restoring decorative finishes, some type of investigative skill was used to recognize and solve an architectural question or explain a difficult aspect of the work itself.
-
-![Man working at a drafting table under a lamp.](https://www.nps.gov/tps/images/briefs/35-drafting.jpg){: .align-right}
-
-_Architectural investigator at work. Photo: Courtesy, Valentine Museum._
 
 To date, very little has been written for anyone other than preservation professionals on the subject of architectural investigation. This Preservation Brief thus addresses the often complex investigative process in broad, easy-to-understand terminology. The logical sequence of planning, investigation and analysis presented in this resource is applicable to all buildings, geographic locations, periods, and construction types. It is neither a "how to" nor an exhaustive study on techniques or methodologies; rather, it serves to underscore the need for meticulous planning prior to work on our irreplaceable cultural resources.
 
 # Determining the Purpose of Investigation
+
+![Man working at a drafting table under a lamp.](https://www.nps.gov/tps/images/briefs/35-drafting.jpg){: .align-right}
+
+_Architectural investigator at work. Photo: Courtesy, Valentine Museum._
 
 Both the purpose and scope of investigation need to be determined before formulating a particular approach. For example, investigation strictly for research purposes could produce information for an architectural survey or for an historic designation application at the local, state or national level.
 
