@@ -13,59 +13,59 @@ main:
 
 maintaining-exteriors:
   - title: Getting Started
-    url: /#getting-started/
+    url: /resources/maintaining-exteriors/#getting-started/
   - title: Maintenance
-    url: /#maintenance-plans-schedules-and-inspections/
+    url: /resources/maintaining-exteriors/#maintenance-plans-schedules-and-inspections/
     children:
       - title: Creating a plan
-        url: /#creating-a-maitenance-plan/
+        url: /resources/maintaining-exteriors/#creating-a-maitenance-plan/
       - title: Scheduling maintenance
-        url: /#exterior-walls/
+        url: /resources/maintaining-exteriors/#exterior-walls/
       - title: Inspecting exteriors
-        url: /#inspecting-building-exteriors/
+        url: /resources/maintaining-exteriors/#inspecting-building-exteriors/
   - title: Building Components
-    url: /#building-components
+    url: /resources/maintaining-exteriors/#building-components
     children:
       - title: Roofs/Chimneys
-        url: /#roofschimneys/
+        url: /resources/maintaining-exteriors/#roofschimneys/
       - title: Exterior Walls
-        url: /#exterior-walls/
+        url: /resources/maintaining-exteriors/#exterior-walls/
       - title: Openings
-        url: /#openings/
+        url: /resources/maintaining-exteriors/#openings/
       - title: Projections
-        url: /#projections/
+        url: /resources/maintaining-exteriors/#projections/
       - title: Foundations and Perimeter Grades
-        url: /#foundations-and-perimeter-grades/
+        url: /resources/maintaining-exteriors/#foundations-and-perimeter-grades/
   - title: Additional Considerations
-    url: /#additional-considerations/
+    url: /resources/maintaining-exteriors/#additional-considerations/
     children:
       - title: Cautions
-        url: /#cautions-during-maintenance-work/
+        url: /resources/maintaining-exteriors/#cautions-during-maintenance-work/
       - title: Sealants and Caulks
-        url: /#sealants-and-caulks/
+        url: /resources/maintaining-exteriors/#sealants-and-caulks/
       - title: Contracting
-        url: /#contracting-maintenance-and-repair-work/
+        url: /resources/maintaining-exteriors/#contracting-maintenance-and-repair-work/
   - title: Summary
-    url: /#summary
+    url: /resources/maintaining-exteriors/#summary
   - title: References
-    url: /#references
+    url: /resources/maintaining-exteriors/#references
 
 architectural-investigation:
   - title: Determining the Purpose of Investigation
-    url: /#determining-the-purpose-of-investigation/
+    url: /resources/architectural-investigation/#determining-the-purpose-of-investigation/
   - title: Investigators and Investigative Skills
-    url: /#investigators-and-investigative-skills/
+    url: /resources/architectural-investigation/#investigators-and-investigative-skills/
   - title: Studying the Fabric
-    url: /#architectural-evidence-studying-the-fabric-of-the-historic-building/
+    url: /resources/architectural-investigation/#architectural-evidence-studying-the-fabric-of-the-historic-building/
   - title: Historic Building Materials and Features
-    url: /#looking-more-closely-at-historic-building-materials-and-features/
+    url: /resources/architectural-investigation/#looking-more-closely-at-historic-building-materials-and-features/
   - title: Conducting the Architectural Investigation
-    url: /#conducting-the-architectural-investigation/
+    url: /resources/architectural-investigation/#conducting-the-architectural-investigation/
   - title: Weighing the Evidence
-    url: /#after-architectural-investigation-weighing-the-evidence/
+    url: /resources/architectural-investigation/#after-architectural-investigation-weighing-the-evidence/
   - title: Keeping a Responsible Record
-    url: /#keeping-a-responsible-record-for-future-investigators/
+    url: /resources/architectural-investigation/#keeping-a-responsible-record-for-future-investigators/
   - title: Summary
-    url: /#summary/
+    url: /resources/architectural-investigation/#summary/
   - title: Reading List
-    url: /#reading-list/
+    url: /resources/architectural-investigation/#reading-list/
