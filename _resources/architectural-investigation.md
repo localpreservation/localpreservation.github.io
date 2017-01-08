@@ -24,11 +24,11 @@ tags:
   - Featured
 topic:
   - History
+sidebar:
+  nav: "architectural-investigation"
 ---
 
 If you have ever felt a sense of excitement and mystery going inside an old building—whether occupied or vacant—it is probably because its materials and features resonate with the spirit of past people and events. Yet excitement about the unknown is heightened when a historic structure is examined architecturally, and its evolution over time emerges with increasing clarity to reveal the lives of its occupants. Architectural investigation is the critical first step in planning an appropriate treatment—understanding how a building has changed over time and assessing levels of deterioration.
-
-{% include toc icon="columns" title="Contents" %}
 
 Whether as a home owner making sympathetic repairs, a craftsman or contractor replacing damaged or missing features, or a conservator reconstituting wood or restoring decorative finishes, some type of investigative skill was used to recognize and solve an architectural question or explain a difficult aspect of the work itself.
 
@@ -37,8 +37,8 @@ To date, very little has been written for anyone other than preservation profess
 # Determining the Purpose of Investigation
 
 ![Man working at a drafting table under a lamp.](https://www.nps.gov/tps/images/briefs/35-drafting.jpg){: .align-right}
-
-_Architectural investigator at work. Photo: Courtesy, Valentine Museum._
+Architectural investigator at work. Photo: Courtesy, Valentine Museum.
+{: .notice--info}
 
 Both the purpose and scope of investigation need to be determined before formulating a particular approach. For example, investigation strictly for research purposes could produce information for an architectural survey or for an historic designation application at the local, state or national level.
 
@@ -48,7 +48,12 @@ Within the framework of _The Secretary of the Interior's Standards for the Treat
 - Investigation for preservation work can entail more detailed information about an entire building, such as determining the physical sequence of construction to aid in interpretation.
 - Investigation for a restoration project must be even more comprehensive in order to re-capture the exact form, features, finishes, and detailing of every component of the building.
 
-Whether investigation will be undertaken by professionals—architects, conservators, historians—or by interested homeowners, the process is essentially comprised of a preliminary four-step procedure: historical research, documentation, inventory, and stabilization.
+Whether investigation will be undertaken by professionals—architects, conservators, historians—or by interested homeowners, the process is essentially comprised of a preliminary four-step procedure:
+
+1. [historical research](#historical-research),
+2. [documentation](#documentation),
+3. [inventory](inventory),
+4. and [stabilization](#stabilization).
 
 ## Historical Research
 
@@ -56,9 +61,9 @@ Primary historical research of an old building generally encompasses written, vi
 
 Historical research should be conducted well in advance of physical investigation. This allows time for important written, visual, and oral information to be located, transcribed, organized, studied and used for planning the actual work.
 
-![Variety of animal nests arrayed on a green cloth.](https://www.nps.gov/tps/images/briefs/35-animal-nests.jpg){: .align-right}
-
-_An inventory of animal nests found within hidden spaces may yield unexpected evidence about food, decorative arts, and cultural or social traditions of everyday life. Photo: Travis C. McDonald, Jr._
+![Variety of animal nests arrayed on a green cloth. Photo: Travis C. McDonald, Jr.](https://www.nps.gov/tps/images/briefs/35-animal-nests.jpg){: .align-right}
+An inventory of animal nests found within hidden spaces may yield unexpected evidence about food, decorative arts, and cultural or social traditions of everyday life.
+{: .notice--info}
 
 A thorough scholarly study of a building's history provides a responsible framework for the physical investigation; in fact, the importance of the link between written historical research and structural investigation cannot be overestimated. For example, the historical research of a building through deed records may merely determine the sequence of owners. This, in turn, aids the investigation of the building by establishing a chronology and identifying the changes each occupant made to the building. A letter may indicate that an occupant painted the building in a certain year; the courthouse files contain the occupant's name; paint analysis of the building will yield the actual color. Two-dimensional documentary research and three-dimensional physical investigation go hand-in-hand in analyzing historic structures. The quality and success of any restoration project is founded upon the initial research.
 
@@ -88,17 +93,17 @@ An old building may require temporary remedial work on exterior surfaces such as
 
 The essential skill needed for any level of investigation is the ability to observe closely and to analyze. These qualities are ideally combined with a hands-on familiarity of historic buildings-and an open mind! Next, whether acquired in a university or in a practical setting, an investigator should have a good general knowledge of history, building design history and, most important, understand both construction and finish technologies.
 
-![Man pointing to a part of a plaster wall.](https://www.nps.gov/tps/images/briefs/35-observe-analyze.jpg){: .align-right}
-
-_An investigator must have the skill and ability to closely observe and analyze the materials with a broad understanding of historic construction practices and technologies. Photo: Travis C. McDonald, Jr._
+![Man pointing to a part of a plaster wall. Photo: Travis C. McDonald, Jr.](https://www.nps.gov/tps/images/briefs/35-observe-analyze.jpg){: .align-right}
+An investigator must have the skill and ability to closely observe and analyze the materials with a broad understanding of historic construction practices and technologies.
+{: .notice--info}
 
 But it is not enough to know architectural style and building technology from a national viewpoint; the investigator needs to understand regional and local differences as well.
 
 While investigative skills are transferable between regions and chronological periods, investigators must be familiar with the peculiarities of any given building type and geographical area.
 
-![Braces supporting the corner of a portico composed of an arched base with columns above it.](https://www.nps.gov/tps/images/briefs/35-temporary-shoring.jpg){: .align-right}
-
-_Investigation frequently identifies urgent needs of stabilization. Supplemental support, such as temporary shoring, may be required to prevent collapse. Photo: Travis C. McDonald, Jr._
+![Braces supporting the corner of a portico composed of an arched base with columns above it. Photo: Travis C. McDonald, Jr.](https://www.nps.gov/tps/images/briefs/35-temporary-shoring.jpg){: .align-right}
+Investigation frequently identifies urgent needs of stabilization. Supplemental support, such as temporary shoring, may be required to prevent collapse.
+{: .notice--info}
 
 Architectural survey and comparative fieldwork provides a crucial database for studying regional variations in historic buildings. For example, construction practices can reflect shared experiences of widely diverse backgrounds and traditions within a small geographical area. Contemporary construction practice in an urban area might vary dramatically from that of rural areas in the same region. Neighbors or builders within the same small geographical area often practice different techniques of constructing similar types of structures contemporaneously. Reliable dating clues for a certain brick bond used in one state might be unreliable for the same period in a different state. Regional variation holds true for building materials as well as construction.
 
@@ -134,9 +139,9 @@ Changes to architectural form over time are generally attributable to material d
 
 Although brick or wood frame buildings are the most common in this country, similar sets of characteristics and questions can be established for examining log, adobe, steel, or any other material.
 
-![Close-up of bricks in a masonry wall.](https://www.nps.gov/tps/images/briefs/35-bricks-mortar.jpg){: .align-right}
-
-_Careful examination of the masonry reveals different periods of construction and repair through the composition and detailing of bricks and mortar. Depending on location, the vertical open joints may indicate the location of nailing blocks for decorative trim or weeps for drainage. Photo: Travis C. McDonald, Jr._
+![Close-up of bricks in a masonry wall.  Photo: Travis C. McDonald, Jr.](https://www.nps.gov/tps/images/briefs/35-bricks-mortar.jpg){: .align-right}
+Careful examination of the masonry reveals different periods of construction and repair through the composition and detailing of bricks and mortar. Depending on location, the vertical open joints may indicate the location of nailing blocks for decorative trim or weeps for drainage.
+{: .notice--info}
 
 ## Masonry
 
@@ -157,9 +162,9 @@ The same types of questions related to production and construction characteristi
 
 ## Wood
 
-![Close-up of ends of two boards with nail heads.](https://www.nps.gov/tps/images/briefs/35-nail-technology.jpg){: .align-right}
-
-_Analyzing the nail technology can help establish the period of construction and provide other important information. Photo: Travis C. McDonald, Jr._
+![Close-up of ends of two boards with nail heads. Photo: Travis C. McDonald, Jr.](https://www.nps.gov/tps/images/briefs/35-nail-technology.jpg){: .align-right}
+Analyzing the nail technology can help establish the period of construction and provide other important information.
+{: .notice--info}
 
 Buildings constructed with wood have a very different set of characteristics, requiring a different line of questioning:
 
@@ -168,8 +173,8 @@ Buildings constructed with wood have a very different set of characteristics, re
 - Finally, does some of the wood appear to be reused or recycled? Reused and reproduction materials used in early restoration projects have confused many investigators. When no identification record was kept, it can be a problem distinguishing between materials original to the house and later replacement materials.
 
 ![Section of a standing seam metal roof, with remains of a shingle roof above it.](https://www.nps.gov/tps/images/briefs/35-standing-seam.jpg){: .align-right}
-
-_In many cases, new materials or coverings are placed directly over existing exterior features, preserving the original materials underneath. Here, the removal of a modern shingle roof and its underlayment revealed an historic standing seam metal roof. Photo: Courtesy, Phillips and Opperman, P.A._
+In many cases, new materials or coverings are placed directly over existing exterior features, preserving the original materials underneath. Here, the removal of a modern shingle roof and its underlayment revealed an historic standing seam metal roof. Photo: Courtesy, Phillips and Opperman, P.A.
+{: .notice--info}
 
 ## Roofs
 
@@ -189,9 +194,9 @@ Beyond the mid-nineteenth century, and into the twentieth, the range and choice 
 
 In addition to production and construction clues, floors reveal other information about the interior, such as circulation patterns, furniture placement, the use of carpets, floor cloths, and applied floor finishes. Is there a pattern of tack holes? Tacks or tack holes often indicate the position and even the type of a floor covering. A thorough understanding of the seasonal uses of floor coverings and the technological history of their manufacture provide the background for identifying this type of evidence.
 
-![Plaster wall with small sections of the plaster removed to examine underlying materials.](https://www.nps.gov/tps/images/briefs/35-destructive-investigation.jpg){: .align-right}
-
-_Destructive investigation can be limited to small areas where evidence can be predicted, such as walls being re-built in a different location. Photo: Travis C. McDonald, Jr._
+![Plaster wall with small sections of the plaster removed to examine underlying materials. Photo: Travis C. McDonald, Jr.](https://www.nps.gov/tps/images/briefs/35-destructive-investigation.jpg){: .align-right}
+Destructive investigation can be limited to small areas where evidence can be predicted, such as walls being re-built in a different location.
+{: .notice--info}
 
 ## Walls
 
@@ -211,9 +216,9 @@ Stylistic upgrading often resulted in the re-use of outdated trim for blocking o
 
 Attics and basements have been known as collection points for out-of-date, out-of-style and cast-off pieces such as mechanical systems, furnishings, family records and architectural fragments. These and other out-of-the-way places of a structure provide an excellent opportunity for non-destructive investigation. Not only are these areas where structural and framing members might be exposed to view, they are also areas which may have escaped the frequent alteration campaigns that occur in the more lived-in parts of a building.
 
-![Molding and other lengths of wood piled in an attic.](https://www.nps.gov/tps/images/briefs/35-discarded-items.jpg){: .align-right}
-
-_Discarded items are routinely stored within attics, then forgotten only to be discovered during a later investigation. Seemingly worthless debris may help answer many questions. Photo: Travis C. McDonald, Jr._
+![Molding and other lengths of wood piled in an attic. Photo: Travis C. McDonald, Jr.](https://www.nps.gov/tps/images/briefs/35-discarded-items.jpg){: .align-right}
+Discarded items are routinely stored within attics, then forgotten only to be discovered during a later investigation. Seemingly worthless debris may help answer many questions.
+{: .notice--info}
 
 If a building has been raised or lowered in height, evidence of change would be found in the attic as well as on the exterior. Evidence of additions might also be detected in both the attic and the basement. Attics frequently provide a "top-side" view at the ceiling below, revealing its material, manner of production and method of attachment. A "bottom-side" view of the roof sheathing or roof covering can be seen from the attic as well.
 
@@ -254,9 +259,9 @@ All projects should begin with the simplest, non-destructive processes and proce
 
 An initial reconnaissance trip through a structure-or visual overview-provides the most limited type of investigation. But experienced investigators accustomed to observation and analysis can resolve many questions in a two to four hour preliminary site visit. They may be able to determine the consistency of the building's original form and details as well as major changes made over time.
 
-![Imperfections revealed in a raking light across a plaster wall.](https://www.nps.gov/tps/images/briefs/35-raking-light.jpg){: .align-right}
-
-_Raking light is used to show irregularities on flat surfaces. Patches, repairs, and alterations can then be mapped by the shadows or ghosts they cast. Photo: Travis C. McDonald, Jr._
+![Imperfections revealed in a raking light across a plaster wall. Photo: Travis C. McDonald, Jr.](https://www.nps.gov/tps/images/briefs/35-raking-light.jpg){: .align-right}
+Raking light is used to show irregularities on flat surfaces. Patches, repairs, and alterations can then be mapped by the shadows or ghosts they cast.
+{: .notice--info}
 
 ## Surface Mapping
 
@@ -284,8 +289,8 @@ The most advanced technology combines the boroscope with video cameras using fib
 Small material samples of wood, plaster, mortar, or paint can also be taken for laboratory analysis at this stage of investigation. For instance, a surface examination of a plaster wall using a raking light may show clear evidence of patching which corresponds to a shelf design. Were the shelves original or a later addition? A small sample of plaster from the patched area is analyzed in the laboratory and matches plaster already dated to a third period of construction. A probe further reveals an absence of first period plaster on the wall underneath. The investigator might conclude from this evidence that the shelves were an original feature and that the plaster fill dates their removal and patching to a third period of construction.
 
 ![Holes carefully cut in a plaster wall to reveal brick elements beneath.](https://www.nps.gov/tps/images/briefs/35-exploratory-testing.jpg){: .align-right}
-
-_Exploratory testing was used to verify the location of an abandoned fireplace. Plaster and brick were carefully documented and removed to determine the fireplace's type, size, and location. Photo: Travis C. McDonald, Jr._
+Exploratory testing was used to verify the location of an abandoned fireplace. Plaster and brick were carefully documented and removed to determine the fireplace's type, size, and location. Photo: Travis C. McDonald, Jr.
+{: .notice--info}
 
 ## Destructive Testing
 

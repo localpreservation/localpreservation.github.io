@@ -1,14 +1,71 @@
-# main links links
+# Main navigation
 main:
-
   - title: "About"
     url: /about/
-
   - title: "Resources"
     url: /resources/
-
   - title: "Learn"
     url: /learn/
-
   - title: "Teach"
     url: /teach/
+
+# Resource navigation menus
+
+maintaining-exteriors:
+  - title: Getting Started
+    url: /#getting-started/
+  - title: Maintenance
+    url: /#maintenance-plans-schedules-and-inspections/
+    children:
+      - title: Creating a plan
+        url: /#creating-a-maitenance-plan/
+      - title: Scheduling maintenance
+        url: /#exterior-walls/
+      - title: Inspecting exteriors
+        url: /#inspecting-building-exteriors/
+  - title: Building Components
+    url: /#building-components
+    children:
+      - title: Roofs/Chimneys
+        url: /#roofschimneys/
+      - title: Exterior Walls
+        url: /#exterior-walls/
+      - title: Openings
+        url: /#openings/
+      - title: Projections
+        url: /#projections/
+      - title: Foundations and Perimeter Grades
+        url: /#foundations-and-perimeter-grades/
+  - title: Additional Considerations
+    url: /#additional-considerations/
+    children:
+      - title: Cautions
+        url: /#cautions-during-maintenance-work/
+      - title: Sealants and Caulks
+        url: /#sealants-and-caulks/
+      - title: Contracting
+        url: /#contracting-maintenance-and-repair-work/
+  - title: Summary
+    url: /#summary
+  - title: References
+    url: /#references
+
+architectural-investigation:
+  - title: Determining the Purpose of Investigation
+    url: /#determining-the-purpose-of-investigation/
+  - title: Investigators and Investigative Skills
+    url: /#investigators-and-investigative-skills/
+  - title: Studying the Fabric
+    url: /#architectural-evidence-studying-the-fabric-of-the-historic-building/
+  - title: Historic Building Materials and Features
+    url: /#looking-more-closely-at-historic-building-materials-and-features/
+  - title: Conducting the Architectural Investigation
+    url: /#conducting-the-architectural-investigation/
+  - title: Weighing the Evidence
+    url: /#after-architectural-investigation-weighing-the-evidence/
+  - title: Keeping a Responsible Record
+    url: /#keeping-a-responsible-record-for-future-investigators/
+  - title: Summary
+    url: /#summary/
+  - title: Reading List
+    url: /#reading-list/

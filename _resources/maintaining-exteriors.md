@@ -24,13 +24,13 @@ header:
   overlay_image: /assets/images/2001-08-15-brown-v-board-nps.jpg
   overlay_filter: .5
   caption: "Workers re-pointing a brick wall at the Brown v. Board of Education National Historic Site, 2001 August 15. Courtesy [National Park Service](https://www.nps.gov/media/photo/view.htm?id=5A41A790-155D-4519-3EA3B6591FD74B8B)."
+sidebar:
+  nav: "maintaining-exteriors"
 ---
 
 Preservation is defined as "the act or process of applying measures necessary to sustain the existing form, integrity, and materials of an historic property. Work, including preliminary measures to protect and stabilize the property, generally focuses upon the ongoing maintenance and repair of historic materials and features rather than extensive replacement and new construction."
 
 Maintenance helps preserve the integrity of historic structures. If existing materials are regularly maintained and deterioration is significantly reduced or prevented, the integrity of materials and workmanship of the building is protected.
-
-{% include toc icon="columns" title="Contents" %}
 
 Proper maintenance is the most cost effective method of extending the life of a building. As soon as a building is constructed, restored, or rehabilitated, physical care is needed to slow the natural process of deterioration. An older building has already experienced years of normal weathering and may have suffered from neglect or inappropriate work as well.
 
@@ -597,31 +597,19 @@ A well-maintained property is a more valuable property and one that will survive
 
 The author wishes to thank Mike Seibert of the National Park Service for research on the project and the development of the charts; and Lauren Burge, AIA, of the firm of Chambers, Murphy & Burge, and Michael Emerick, AIA, for sharing their expertise on maintenance and providing early guidance. Thanks go to Deborah Slaton of the firm of Wiss, Janney, Elstner Associates, Inc., for her insightful contributions and also to Rebecca Stevens of the National Park Service, Dominque Hawkins, AIA, of Preservation Design Partnership, J. Bryan Blundell of Dell Corporation, and Michael Scheffler and Kenneth Itle of Wiss, Janney, Elstner Associates, Inc. Also gratefully acknowledge for their assistance in the technical review and editing of this publication are Charles E. Fisher, Anne E. Grimmer, and Chad Randl of the National Park Service's Technical Preservation Services, and former staff Kay D. Weeks. Numerous other National Park Service staff and partners commented on the manuscript and made substantial contributions.
 
-# References
+# Reading List
 
-Chambers, J. Henry. _[Cyclical Maintenance for Historic Buildings](https://archive.org/details/cyclicalmaintena00chab)_. Washington, D.C.: National Park Service, 1976,
+- Chambers, J. Henry. _[Cyclical Maintenance for Historic Buildings](https://archive.org/details/cyclicalmaintena00chab)_. Washington, D.C.: National Park Service, 1976,
+- Fisher, Charles E. and Hugh C. Miller, eds. _Caring For Your Historic House_. New York, NY: Harry N. Abrams, Inc., 1998.
+- Fisher, Charles E., Deborah Slaton, and Rebecca Shiffer, eds. _[Window Rehabilitation Guide for Historic Buildings](https://www.hpef.us/windows/)_. Washington, D.C.: Historic Preservation Education Foundation, 1997.
+- Fram, Mark. _Well-Preserved: The Ontario Heritage Foundation's Manual of Principles and Practice for Architectural Conservation_. Erin, Ontario: The Boston Mills Press, 1988.
+- Gayle, Margot, David W. Look, AIA, and John G. Waite, FAIA. _[Metals in America's Historic Buildings: Use and Preservation Treatments](https://www.nps.gov/tps/how-to-preserve/preservedocs/Metals-Historic-Buildings.pdf)_. Washington, D.C.: National Park Service, 1992.
+- Grimmer, Anne E. _[Keeping It Clean: Removing Exterior Dirt, Paint, Stains & Graffiti from Historic Masonry Buildings](https://www.nps.gov/tps/how-to-preserve/preservedocs/Keeping-It-Clean.pdf)_. Washington, D.C.: National Park Service, 1988.
+- Jester, Thomas C., ed. _[Twentieth Century Building Materials: History and Conservation](http://www.getty.edu/conservation/publications_resources/books/20th_cent_building_materials.html)_. New York, NY: McGraw-Hill, 1995.
+- Leeke, John C. _Practical Restoration Reports Compendium_. Portland, ME: Historic HomeWorks, 2005.
+- London, Mark. _Masonry: How to Care for Old and Historic Brick and Stone_. Washington, D.C.: The Preservation Press, 1988.
+- _[Preservation Briefs](https://www.nps.gov/tps/how-to-preserve/briefs.htm)_. Washington, D.C.: National Park Service. The collection of Preservation Briefs assist owners and developers of historic buildings in recognizing and resolving common preservation, maintenance and repair problems.
+- _[Preservation Tech Notes](https://www.nps.gov/tps/how-to-preserve/tech-notes.htm)_. Washington, D.C.: National Park Service. The collection of Preservation Tech Notes provides guidance and case studies on the care and maintenance of historic structures.
+- Yapp, Bob and Rich Binsacca. _About Your House with Bob Yapp_. San Francisco, CA: KQED Books & Tapes, 1997.
 
-Fisher, Charles E. and Hugh C. Miller, eds. _Caring For Your Historic House_. New York, NY: Harry N. Abrams, Inc., 1998.
-
-Fisher, Charles E., Deborah Slaton, and Rebecca Shiffer, eds. _[Window Rehabilitation Guide for Historic Buildings](https://www.hpef.us/windows/)_. Washington, D.C.: Historic Preservation Education Foundation, 1997.
-
-Fram, Mark. _Well-Preserved: The Ontario Heritage Foundation's Manual of Principles and Practice for Architectural Conservation_. Erin, Ontario: The Boston Mills Press, 1988.
-
-Gayle, Margot, David W. Look, AIA, and John G. Waite, FAIA. _[Metals in America's Historic Buildings: Use and Preservation Treatments](https://www.nps.gov/tps/how-to-preserve/preservedocs/Metals-Historic-Buildings.pdf)_. Washington, D.C.: National Park Service, 1992.
-
-Grimmer, Anne E. _[Keeping It Clean: Removing Exterior Dirt, Paint, Stains & Graffiti from Historic Masonry Buildings](https://www.nps.gov/tps/how-to-preserve/preservedocs/Keeping-It-Clean.pdf)_. Washington, D.C.: National Park Service, 1988.
-
-Jester, Thomas C., ed. _[Twentieth Century Building Materials: History and Conservation](http://www.getty.edu/conservation/publications_resources/books/20th_cent_building_materials.html)_. New York, NY: McGraw-Hill, 1995.
-
-Leeke, John C. _Practical Restoration Reports Compendium_. Portland, ME: Historic HomeWorks, 2005.
-
-London, Mark. _Masonry: How to Care for Old and Historic Brick and Stone_. Washington, D.C.: The Preservation Press, 1988.
-
-_[Preservation Briefs](https://www.nps.gov/tps/how-to-preserve/briefs.htm)_. Washington, D.C.: National Park Service. The collection of Preservation Briefs assist owners and developers of historic buildings in recognizing and resolving common preservation, maintenance and repair problems.
-
-_[Preservation Tech Notes](https://www.nps.gov/tps/how-to-preserve/tech-notes.htm)_. Washington, D.C.: National Park Service. The collection of Preservation Tech Notes provides guidance and case studies on the care and maintenance of historic structures.
-
-Yapp, Bob and Rich Binsacca. _About Your House with Bob Yapp_. San Francisco, CA: KQED Books & Tapes, 1997.
-
-
-_[Download the PDF](https://www.nps.gov/tps/how-to-preserve/preservedocs/preservation-briefs/47Preserve-Brief-SmallMediumExteriors.pdf)_
+_[Download the PDF version of this resource.](https://www.nps.gov/tps/how-to-preserve/preservedocs/preservation-briefs/47Preserve-Brief-SmallMediumExteriors.pdf)_
