@@ -34,6 +34,8 @@ _The Secretary of the Interior's Standards for the Treatment of Historic Propert
 
 Every old building is unique, with its own identity and its own distinctive character. Character refers to all those visual aspects and physical features that comprise the appearance of every historic building. Character-defining elements include the overall shape of the building, its materials, craftsmanship, decorative details, interior spaces and features, as well as the various aspects of its site and environment.
 
+{% include toc icon="columns" title="Contents" %}
+
 The purpose of this Brief is to help the owner or the architect identify those features or elements that give the building its visual character and that should be taken into account in order to preserve them to the maximum extent possible.
 
 There are different ways of understanding old buildings. They can be seen as examples of specific building types, which are usually related to a building's function, such as schools, courthouses or churches.
