@@ -47,7 +47,7 @@ This Preservation Brief is designed for those responsible for the care of small 
 # Getting Started
 
 ![Two men on ladders painting woodwork on the exterior of a brick house.](https://www.nps.gov/tps/images/briefs/47-ladders.jpg){: .align-right}
-Understanding how building materials and construction details function will help avoid treatments that are made in an attempt to simplify maintenance but which may also result in long-term damage. It is enticing to read about "maintenance free" products and systems, particularly waterproof sealers, rubberized paints, and synthetic siding, but there is no such thing as maintenance free when it comes to caring for historic buildings. Some approaches that initially seem to reduce maintenance requirements may over time actually accelerate deterioration.
+Understanding how building materials and construction details function will help avoid treatments that are made in an attempt to simplify maintenance but which may also result in long-term damage. It is enticing to read about "maintenance free" products and systems, particularly waterproof sealers, rubberized paints, and synthetic siding, but there is no such thing as "maintenance free" when it comes to caring for historic buildings. Some approaches that initially seem to reduce maintenance requirements may over time actually accelerate deterioration.
 
 Exterior building components, such as roofs, walls, openings, projections, and foundations, were often constructed with a variety of functional features, such as overhangs, trim pieces, drip edges, ventilated cavities, and painted surfaces, to protect against water infiltration, ultraviolet deterioration, air infiltration, and pest infestation. Construction assemblies and joints between materials allow for expansion and contraction and the diffusion of moisture vapor, while keeping water from penetrating the building envelope. Older buildings use such features effectively and care must be taken to retain them, avoiding the temptation to reduce air infiltration or otherwise alter them.
 
@@ -55,7 +55,7 @@ Monitoring, inspections, and maintenance should all be undertaken with safety in
 
 Original building features and examples of special craftsmanship should be afforded extra care. The patina or aging of historic materials is often part of the charm and character of historic buildings. In such cases, maintenance should avoid attempts to make finishes look new by over-cleaning or cladding existing materials. As with any product that has the potential to harm historic materials, the selection of a cleaning procedure should always involve testing in a discreet location on the building to ensure that it will not abrade, fade, streak, or otherwise damage the substrate.
 
-![Hand polishing a brass doorknocker that is surrounded with blue painters’ tape.](https://www.nps.gov/tps/images/briefs/47-door-knockers.jpg){: .align-center}
+![Hand polishing a brass door knocker surrounded with blue painters' tape.](https://www.nps.gov/tps/images/briefs/47-door-knockers.jpg){: .align-center}
 Maintenance involves selecting the proper treatment and protecting adjacent surfaces. Using painter's tape to mask around a brass door knocker protects the painted door surface from damage when polishing with chemical compounds. On the other hand, hardware with a patinated finish was not intended to be polished and should simply be cleaned with a damp cloth.
 {: .notice--info}
 
@@ -99,13 +99,12 @@ A segment of a cyclic building inspection checklist showing the roof elements of
 |   | Downspouts |  | Downspouts OK | Flush out downspouts | 5/04/2005 |
 |   | Chimneys | No masonry chimney | N/A | N/A | N/A |
 |   | Attachments/Penetrations | Metal vent stack and weathervane | Vent hood has some peeling paint; vane OK | Sand and repaint vent stack | 6/07/2005 |
-{: .full}
 
 ## Scheduling maintenance work
 
 Proper maintenance depends on an organized plan with work prescribed in manageable components. Regular maintenance needs to be considered a priority both in terms of time allotted for inspections and for allocation of funding.
 
-Maintenance work scheduling is generally based on a variety of factors, including
+Maintenance work scheduling is generally based on a variety of factors, including:
 
 - the seriousness of the problem,
 - type of work involved,
