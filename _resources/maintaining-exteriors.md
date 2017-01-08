@@ -132,7 +132,7 @@ Survey observations can be recorded on a standardized report form and photograph
 ### Inspection Frequency Table
 
 |  Feature | Minimum Inspection Frequency | Season |
-|  ------: | :------: | ------ |
+|  ------: | ------ | ------ |
 |  Roof | Annually | Spring or Fall; every 5 years by roofer |
 |  Chimneys | Annually | Annually, prior to heating season; every 5 years by mason |
 |  Roof Drainage | 6 months; more frequently as needed | Before and after wet season, during heavy rain |
@@ -152,11 +152,11 @@ Survey observations can be recorded on a standardized report form and photograph
 
 For purposes of this discussion, the principal exterior surface areas have been divided into five components and are presented in order from the roof down to grade:
 
-1. Roofs/Chimneys
-2. Exterior Walls
-3. Openings
-4. Projections
-5. Foundations and Perimeter Grades
+1. [Roofs/Chimneys](#roofschimneys)
+2. [Exterior Walls](#exterior-walls)
+3. [Openings](#openings)
+4. [Projections](#projections)
+5. [Foundations and Perimeter Grades](#foundations-and-perimeter-grades)
 
 While guidance for inspection and maintenance is provided for each component, this information is very general in nature and is not indeed to be comprehensive in scope. Examples have been selected to address some typical maintenance needs and to help the reader avoid common mistakes.
 
@@ -166,7 +166,7 @@ The roof is designed to keep water out of a building. Thus one of the principal 
 
 Some buildings were designed without gutters and thus assessments must be made as to whether rain water is being properly addressed at the foundation and perimeter grade.
 
-Keeping gutters and downspouts cleared of debris is usually high on the list of regular maintenance activities. Flashing around chimneys, parapets, dormers, and other appendages to the roof also merit regular inspection and appropriate maintenance when needed. The material covering the roof-wood shingles, slate, tile, asphalt, sheet metal, rolled roofing-requires maintenance both to ensure a watertight seal and to lengthen its service life; the type and frequency of maintenance varies with the roofing material. Older chimneys and parapets also require inspection and maintenance.
+Keeping gutters and downspouts cleared of debris is usually high on the list of regular maintenance activities. Flashing around chimneys, parapets, dormers, and other appendages to the roof also merit regular inspection and appropriate maintenance when needed. The material covering the roof—wood shingles, slate, tile, asphalt, sheet metal, rolled roofing—requires maintenance both to ensure a watertight seal and to lengthen its service life; the type and frequency of maintenance varies with the roofing material. Older chimneys and parapets also require inspection and maintenance.
 
 ![Man on a ladder using a hose to clean out gutters on a brick building with a slate roof. Photo: Bryan Blundell.](https://www.nps.gov/tps/images/briefs/47-clean-gutters.jpg){: .align-right}
 Keeping gutters clean of debris can be one of the most important cyclical maintenance activities. On this small one-story addition, a garden hose is being used to flush out the trough to ensure that the gutter and downspouts are unobstructed. Gutters on most small and medium size buildings can be reached with an extension ladder and a garden hose.
@@ -188,8 +188,8 @@ Depending on the nature of the roof, some common conditions of concern to look f
 - deteriorated flashing and failing connections at any intersection of roof areas or of roof and adjacent wall;
 - bubbled surfaces and moisture ponding on flat or low sloped roofs;
 - evidence of water leaks in the attic;
-- misaligned or damaged elements, such as decorative cresting, lightning rods, or antennas; and
-- cracked masonry or dislodged chimney caps.
+- misaligned or damaged elements, such as decorative cresting, lightning rods, or antennas;
+- and cracked masonry or dislodged chimney caps.
 
 ### Maintaining roofs and chimneys
 
@@ -215,7 +215,7 @@ Properly re-bed all step flashing. Use appropriate non-ferrous flashing metal or
 
 Repoint joints in chimneys, parapet, or balustrade capping stones using a hydraulic lime mortar or other suitable mortar where the existing mortar has eroded or cracked, allowing moisture penetration. In general, a mortar that is slightly weaker than the adjacent masonry should be used. This allows trapped moisture in the masonry to migrate out through the mortar and not the masonry. Spalled masonry is often evidence of the previous use of a mortar mix that was too hard.
 
-Use professional services to repair chimneys and caps. Repoint masonry with a durable mortar that is slightly weaker than the adjacent masonry. Slope the masonry mortar cap to insure drainage away from the flue. If a chimney rain cap is installed, ensure adequate venting and exhaust.
+Use professional services to repair chimneys and caps (See the section on [contracting repair work](#contracting-maintenance-and-repair-work)). Repoint masonry with a durable mortar that is slightly weaker than the adjacent masonry. Slope the masonry mortar cap to insure drainage away from the flue. If a chimney rain cap is installed, ensure adequate venting and exhaust.
 
 **Note:** Avoid the use of mortar washes on masonry since they tend to crack, allowing moisture to penetrate and promoting masonry spalling.
 {: .notice--warning}
@@ -249,10 +249,6 @@ Stucco applied to an exterior wall or foundation was intended to function as a w
 
 Depending on the materials and construction methods, walls should have an even appearance, free from unwanted cracks, and should be able to shed excess moisture. Where surfaces are significantly misaligned or where there are bulging wall sections or cracks indicative of potential structural problems, seek professional guidance as to the cause of distress and appropriate corrective measures. Wood-frame construction generally will require more frequent maintenance than buildings constructed of brick, stone, or terra cotta.
 
-![Corner of a building with wood shingles that have not been stained to match the surrounding shingles.](https://www.nps.gov/tps/images/briefs/47-wood-shingles.jpg){: .align-right}
-One of the advantages of wood shingles as a wall covering is that individual shingles that are damaged can easily be replaced. On this highly exposed corner, worn shingles have been selectively replaced to help safeguard against water damage. The new shingles will be stained to match the existing shingles.
-{: .notice--info}
-
 ### Inspecting exterior walls
 
 It is best to inspect walls during dry as well as wet weather. Look for moisture patterns that may appear on the walls after a heavy or sustained rainfall or snow, recording any patterns on elevation drawings or standard recording forms. Monitoring the interior wall for moisture or other potential problems is important as well. Look for movement in cracks, joints, and around windows and doors and try to establish whether movement is seasonal in nature (such as related to shrinkage of wood during dry weather) or signs of an ongoing problem.
@@ -281,10 +277,6 @@ Trim tree branches away from walls. Remove ivy and tendrils of climbing plants b
 
 Wash exterior wall surfaces if dirt or other deposits are causing damage or hiding deterioration; extend scheduled times for cleaning for cosmetic purposes to reduce frequency. When cleaning, use the gentlest means possible; start with natural bristle brushes and water and only add a mild phosphate-free detergent if necessary. Use non-abrasive cleaning methods and low-pressure water from a garden hose.
 
-![Man using a brush to remove debris from a paneled wood door and door surround.](https://www.nps.gov/tps/images/briefs/47-clean-surface.jpg){: .align-right}
-To help extend a repainting cycle, dirt and spider webs should be removed before permanent staining occurs. In this case, a natural bristle brush and a soft damp cloth are being used to remove insect debris and refresh the surface appearance.
-{: .notice--info}
-
 **Note:** For most building materials, such as wood and brick, avoid abrasive methods such as mechanical scrapers and high-pressure water or air and such additives as sand, natural soda, ice crystals, or rubber products. All abrasives remove some portion of the surface and power-washing drives excessive moisture into wall materials and even into wall cavities and interior walls.
 {: .notice--warning}
 
@@ -305,14 +297,23 @@ When patching is required, select a compatible patch material. Prepare substrate
 
 Where a damaged area is too large to patch, consider replacing the section with in-kind material. For stucco and adobe materials, traditional patching formulas are recommended.
 
+![Corner of a building with wood shingles that have not been stained to match the surrounding shingles.](https://www.nps.gov/tps/images/briefs/47-wood-shingles.jpg){: .align-right}
+One of the advantages of wood shingles as a wall covering is that individual shingles that are damaged can easily be replaced. On this highly exposed corner, worn shingles have been selectively replaced to help safeguard against water damage. The new shingles will be stained to match the existing shingles.
+{: .notice--info}
+
 When temporarily removing wood siding to repair framing or to tighten corner boards and loose trim, reuse the existing siding where possible. Consider using stainless steel or high strength aluminum nails as appropriate. Putty or fill nail holes flush with siding prior to repainting. Back-prime any installed wood with one coat of primer and coat end grain that might be exposed with two coats of primer.
 
-Prepare, prime, and spot paint areas needing repainting. Remember that preparation is the key to a successful long lasting paint job.
+Prepare, prime, and spot paint areas needing repainting. Remember that preparation is the key to a successful long-lasting paint job.
+
 - Ensure beforehand the compatibility of new and existing paints to avoid premature paint failure.
 - Remove loose paint to a sound substrate; sand or gently rough surface if needed for a good paint bond; wipe clean; and repaint with appropriate primer and topcoats.
 - Follow manufacturer's recommendations for application of coatings, including temperature parameters for paint application.
 - Use top quality coating materials.
 - Generally paint when sun is not shining directly onto surfaces to be painted.
+
+![Man using a brush to remove debris from a paneled wood door and door surround.](https://www.nps.gov/tps/images/briefs/47-clean-surface.jpg){: .align-right}
+To help extend a repainting cycle, dirt and spider webs should be removed before permanent staining occurs. In this case, a natural bristle brush and a soft damp cloth are being used to remove insect debris and refresh the surface appearance.
+{: .notice--info}
 
 Remove deteriorated caulks and sealants, clean, and reapply appropriate caulks and sealants using backer rods as necessary. Follow manufacturer's instructions regarding preparation and installation.
 
