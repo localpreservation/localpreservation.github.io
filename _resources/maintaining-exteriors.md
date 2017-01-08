@@ -51,7 +51,7 @@ Understanding how building materials and construction details function will help
 
 Exterior building components, such as roofs, walls, openings, projections, and foundations, were often constructed with a variety of functional features, such as overhangs, trim pieces, drip edges, ventilated cavities, and painted surfaces, to protect against water infiltration, ultraviolet deterioration, air infiltration, and pest infestation. Construction assemblies and joints between materials allow for expansion and contraction and the diffusion of moisture vapor, while keeping water from penetrating the building envelope. Older buildings use such features effectively and care must be taken to retain them, avoiding the temptation to reduce air infiltration or otherwise alter them.
 
-Monitoring, inspections, and maintenance should all be undertaken with safety in mind. Besides normal safety procedures, it is important to be cognizant of health issues more commonly encountered with older buildings, such as lead-based paint, asbestos, and bird droppings, and to know when it is necessary to seek professional services (see ["Contracting Maintenance and Repair Work"](#contracting)).
+Monitoring, inspections, and maintenance should all be undertaken with safety in mind. Besides normal safety procedures, it is important to be cognizant of health issues more commonly encountered with older buildings, such as lead-based paint, asbestos, and bird droppings, and to know when it is necessary to seek professional services (see the section of this resource on [contracting maintenance and repair work](#contracting-maintenance-and-repair-work)).
 
 Original building features and examples of special craftsmanship should be afforded extra care. The patina or aging of historic materials is often part of the charm and character of historic buildings. In such cases, maintenance should avoid attempts to make finishes look new by over-cleaning or cladding existing materials. As with any product that has the potential to harm historic materials, the selection of a cleaning procedure should always involve testing in a discreet location on the building to ensure that it will not abrade, fade, streak, or otherwise damage the substrate.
 
@@ -86,7 +86,7 @@ This information can be kept in one or more formats, such as a three-ring binder
 
 All personnel associated with a historic structure need to become acquainted with how existing building features should appear and during their daily or weekly routines look for changes that may occur. This will help augment the regular maintenance inspection that will occur at specified intervals based on seasonal changes, use, and other factors.
 
-A segment of an inspection form showing the roof elements of a horse stable is shown. The inspection report should be kept along with the maintenance plan and other material in notebook, file or electronic form.
+A segment of a cyclic building inspection checklist showing the roof elements of a horse stable is shown below. The inspection report should be kept along with the maintenance plan and other material in notebook, file or electronic form.
 
 **Cyclic Building Inspection Checklist: Horse Stable (Example)**
 
@@ -115,13 +115,15 @@ Maintenance work scheduling is generally based on a variety of factors, includin
 
  There are other variables as well. For example, building materials and finishes on southern and western exposures will often weather faster than those on northern or eastern exposures. Horizontal surfaces facing skyward usually require greater maintenance than vertical ones; in regions with moderate or heavy rainfall, wood and other materials in prolonged shadow are subject to more rapid decay.
 
-Maintenance costs can be controlled, in part, through careful planning, identification of the amount of labor required, and thoughtful scheduling of work. Maintenance schedules should take into account daily and seasonal activities of the property in order to maximize the uninterrupted time necessary to complete the work. Institutions generally need to budget annually between 2 and 4 percent of the replacement value of the building to underwrite the expense of full building maintenance. Use of trained volunteers to undertake maintenance can help reduce costs.
+Maintenance costs can be controlled, in part, through careful planning, identification of the amount of labor required, and thoughtful scheduling of work. Maintenance schedules should take into account daily and seasonal activities of the property in order to maximize the uninterrupted time necessary to complete the work.
+
+Institutions generally need to budget annually between 2 and 4 percent of the replacement value of the building to underwrite the expense of full building maintenance. Use of trained volunteers to undertake maintenance can help reduce costs.
 
 ## Inspecting building exteriors
 
 Exterior inspections usually proceed from the roof down to the foundation, working on one elevation at a time, moving around the building in a consistent direction. On the interior, the attic, inside surfaces of exterior walls, and crawlspaces or basements should be examined for signs of potential or existing problems with the building envelope.
 
-The **inspection frequency table** lists suggested inspection frequencies for major features associated with the building's exterior, based on a temperate four-season climate and moderate levels of annual rainfall.
+The **inspection frequency table** suggests inspection frequencies for major features associated with the building's exterior, based on a temperate four-season climate and moderate levels of annual rainfall.
 
 For areas of different climate conditions and rainfall, such as in the more arid southwest, the nature of building decay and frequency of inspections will vary. For buildings with certain inherent conditions, heavy use patterns, or locations with more extreme weather conditions, the frequency of inspections should be altered accordingly.
 
@@ -144,7 +146,7 @@ Survey observations can be recorded on a standardized report form and photograph
 |  Basement/Crawlspace | 4 months, or after a major storm | Before, during, and after rain season |
 
 **Note:** All building features should be inspected after any significant weather event such as a severe rainstorm or unusually high winds.
-{: .notice }
+{: .notice--warning}
 
 # Building Components
 
@@ -235,14 +237,14 @@ Scrape and repaint selected areas of coated ferrous metal roofing as needed; rep
 The use of a sealant to close an exposed joint is not always an effective long-term solution. Where this decorative wood element connects to the slate roof, the sealant has failed within a short time and a proper metal flashing collar is being fitted instead.
 {: .notice--info}
 
-Re-secure loose decorative elements, such as finials and weathervanes. Seek professional advice if decorative elements exhibit considerable corrosion, wood rot, or structural instability. Small surface cracks may benefit from a flexible sealant to keep moisture out; sealants have a limited life and require careful inspection and periodic replacement.
+Re-secure loose decorative elements, such as finials and weathervanes. Seek professional advice if decorative elements exhibit considerable corrosion, wood rot, or structural instability. Small surface cracks may benefit from a flexible sealant to keep moisture out; sealants have a limited life and require careful inspection and periodic replacement (See the section of this resource on [sealants and caulks](#sealants-and-caulks) for more information).
 
 ## Exterior Walls
 
 Exterior walls are designed to help prevent water infiltration, control air infiltration, and serve as a barrier for unwanted animals, birds and insects. The primary maintenance objective is to keep walls in sound condition and to prevent water penetration, insect infestation, and needless decay.
 
 ![Man using a wooden mallet to test the stucco on the foundation of a building. Photo: Bryan Blundell.](https://www.nps.gov/tps/images/briefs/47-stucco-foundation.jpg){: .align-right}
-Stucco applied to an exterior wall or foundation was intended to function as a watertight surface. Unless maintained, rainwater will penetrate open joints and cracks that may occur over time. A spa lied section of stucco indicates some damage has occurred and a wooden mallet is being used to tap the surface to determine whether the immediate stucco has lost adhesion.
+Stucco applied to an exterior wall or foundation was intended to function as a watertight surface. Unless maintained, rainwater will penetrate open joints and cracks that may occur over time. A spalled section of stucco indicates some damage has occurred and a wooden mallet is being used to tap the surface to determine whether the immediate stucco has lost adhesion.
 {: .notice--info}
 
 Depending on the materials and construction methods, walls should have an even appearance, free from unwanted cracks, and should be able to shed excess moisture. Where surfaces are significantly misaligned or where there are bulging wall sections or cracks indicative of potential structural problems, seek professional guidance as to the cause of distress and appropriate corrective measures. Wood-frame construction generally will require more frequent maintenance than buildings constructed of brick, stone, or terra cotta.
@@ -531,9 +533,8 @@ Care should be taken when working with historic materials containing lead-based 
 Materials encountered during maintenance work, such as droppings from pigeons and mice, can cause serious illnesses. Appropriate safety precautions need to be followed. Services of a licensed contractor should be obtained to remove large deposits from attics and crawlspaces.
 
 Heat removal of paint involves several potential safety concerns:
-
-  - First, heating of lead-containing paint requires special safety precautions for workers.
-  - Second, even at low temperature levels, heat removal of paint runs the risk of igniting debris in walls.
+ - First, heating of lead-containing paint requires special safety precautions for workers.
+ - Second, even at low temperature levels, heat removal of paint runs the risk of igniting debris in walls.
 
 Heat should be used only with great caution with sufficient coverage by smoke detectors in work areas. Work periods need to be timed to allow monitoring after completion of paint removal each day, since debris will most often smolder for a length of time before breaking out into open flame. The use of torches, open flames, or high heat should be avoided.
 
