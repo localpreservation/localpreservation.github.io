@@ -52,13 +52,21 @@ A building's character can be irreversibly damaged or changed in many ways, for 
 
 This Brief outlines a three-step approach that can be used by anyone to identify those materials, features and spaces that contribute to the visual character of a building. This approach involves:
 
-1. first examining the building from afar to understand its overall setting and architectural context;
-2. then moving up very close to appreciate its materials and the craftsmanship and surface finishes evident in these materials;
-3. and then going into and through the building to perceive those spaces, rooms and details that comprise its interior visual character.
+1. first [examining the building from afar](#step-1-identify-the-overall-visual-aspects) to understand its overall setting and architectural context;
+2. then [moving up very close](#step-2-visual-character-at-close-range) to appreciate its materials and the craftsmanship and surface finishes evident in these materials;
+3. and then [going into and through the building](#step-3-identify-the-visual-character-of-interior-spaces-features-and-finishes) to perceive those spaces, rooms and details that comprise its interior visual character.
 
 # Step 1: Identify the Overall Visual Aspects
 
-Identifying the overall visual character of a building is nothing more than looking at its distinguishing physical aspects without focusing on its details. The major contributors to a building's overall character are embodied in the general aspects of its setting; the shape of the building; its roof and roof features, such as chimneys or cupolas; the various projections on the building, such as porches or bay windows; the recesses or voids in a building, such as open galleries, arcades, or recessed balconies; the openings for windows and doorways; and finally the various exterior materials that contribute to the building's character.
+Identifying the overall visual character of a building is nothing more than looking at its distinguishing physical aspects without focusing on its details. The major contributors to a building's overall character are embodied in:
+
+- the general aspects of its setting;
+- the shape of the building;
+- its roof and roof features, such as chimneys or cupolas;
+- the various projections on the building, such as porches or bay windows;
+- the recesses or voids in a building, such as open galleries, arcades, or recessed balconies;
+- the openings for windows and doorways;
+- and finally the various exterior materials that contribute to the building's character.
 
 Step one involves looking at the building from a distance to understand the character of its site and setting, and it involves walking around the building where that is possible. Some buildings will have one or more sides that are more important than the others because they are more highly visible. This does not mean that the rear of the building is of no value whatever but it simply means that it is less important to the overall character. On the other hand, the rear may have an interesting back porch or offer a private garden space or some other aspect that may contribute to the visual character.
 
@@ -78,13 +86,15 @@ The **opening** illustrated here dominates the visual character of this building
 
 ## Overall Visual Character: Roof and Related Features
 
-![Steeply-pitched roof with three dormers and red and black slate, House with patterned tin roof and six dormers.](https://www.nps.gov/tps/images/briefs/17-slate-roof-and-tin-roof.jpg){: .align-left}
+![Steeply-pitched roof with three dormers and red and black slate, House with patterned tin roof and six dormers.](https://www.nps.gov/tps/images/briefs/17-slate-roof-and-tin-roof.jpg){: .align-center}
 
-This building pictured on the left has a number of character-defining aspects which include the windows and the decorative stonework, but certainly the roof and its related features are visually important to its overall visual character. The **roof** is not only highly visible, it has elaborate stone dormers, and it also has decorative metalwork and slatework. The red and black slates of differing sizes and shapes are laid in patterns that extend around the roof of this large and freestanding building. Any changes to this patterned slatework, or to the other roofing details would damage the visual character of the building.
+This building pictured on the left has a number of character-defining aspects which include the windows and the decorative stonework, but certainly the **roof** and its related features are visually important to its overall visual character.
 
-## Overall Visual Character: Roof and Related Features
+The roof is not only highly visible, it has elaborate stone dormers, and it also has decorative metalwork and slatework. The red and black slates of differing sizes and shapes are laid in patterns that extend around the roof of this large and freestanding building. Any changes to this patterned slatework, or to the other roofing details would damage the visual character of the building.
 
-On this building pictured on the right, the most important visual aspects of its character are the **roof and its related features**, such as the dormers and chimneys. The roof is important to the visual character because its steepness makes it highly visible, and its prominence is reinforced by the patterned tinwork, the six dormers and the two chimneys. Changes to the roof or its features, such as removal or alterations to the dormers, for example, would certainly change the character of this building. This does not discount the importance of its other aspects, such as the porch, the windows, the brickwork, or its setting; but the roof is clearly crucial to understanding the overall visual character of this building as seen from a distance.
+On this building pictured on the right, the most important visual aspects of its character are the roof and its related features, such as the dormers and chimneys. The roof is important to the visual character because its steepness makes it highly visible, and its prominence is reinforced by the patterned tinwork, the six dormers and the two chimneys.
+
+Changes to the roof or its features, such as removal or alterations to the dormers, for example, would certainly change the character of this building. This does not discount the importance of its other aspects, such as the porch, the windows, the brickwork, or its setting; but the roof is clearly crucial to understanding the overall visual character of this building as seen from a distance.
 
 ## Overall Visual Character: Projections
 
@@ -106,7 +116,9 @@ Even architecturally modest buildings frequently will have a **setting** that co
 
 # Step 2: Visual Character at Close Range
 
-Step two involves looking at the building at close range or arm's length, where it is possible to see all the surface qualities of the materials, such as their color and texture, or surface evidence of craftsmanship or age. In some instances, the visual character is the result of the juxtaposition of materials that are contrastingly different in their color and texture. The surface qualities of the materials may be important because they impart the very sense of craftsmanship and age that distinguishes historic buildings from other buildings. Furthermore, many of these close up qualities can be easily damaged or obscured by work that affects those surfaces. Examples of this could include painting previously unpainted masonry, rotary disk sanding of smooth wood siding to remove paint, abrasive cleaning of tooled stonework, or repointing reddish mortar joints with gray portland cement.
+Step two involves looking at the building at close range or arm's length, where it is possible to see all the surface qualities of the materials, such as their color and texture, or surface evidence of craftsmanship or age. In some instances, the visual character is the result of the juxtaposition of materials that are contrastingly different in their color and texture.
+
+The surface qualities of the materials may be important because they impart the very sense of craftsmanship and age that distinguishes historic buildings from other buildings. Furthermore, many of these close up qualities can be easily damaged or obscured by work that affects those surfaces. Examples of this could include painting previously unpainted masonry, rotary disk sanding of smooth wood siding to remove paint, abrasive cleaning of tooled stonework, or repointing reddish mortar joints with gray portland cement.
 
 There is an almost infinite variety of surface materials, textures and finishes that are part of a building's character which are fragile and easily lost.
 
@@ -191,9 +203,9 @@ These qualities could be easily damaged by painting the brick, by raking out the
 
 This checklist can be taken to the building and used to identify those aspects that give the building and setting its essential visual qualities and character. This checklist consists of a series of questions that are designed to help in identifying those things that contribute to a building's character. The use of this checklist involves the three step process of looking for:
 
-1. the overall visual aspects,
-2. the visual character at close range, and
-3. the visual character of interior spaces, features and finishes.
+1. [the overall visual aspects](#step-one-overall-visual-aspects),
+2. [the visual character at close range](#step-two-visual-character-at-close-range), and
+3. [the visual character of interior spaces, features and finishes](#step-three-visual-character-of-interiors-features-and-finishes).
 
 Because this is a process to identify architectural character, it does not address those intangible qualities that give a property or building or its contents its historic significance, instead this checklist is organized on the assumption that historic significance is embodied in those tangible aspects that include the building's setting, its form and fabric.
 
@@ -240,7 +252,7 @@ Because this is a process to identify architectural character, it does not addre
 
 ### 6. Materials
 
-- Do the materials or combination of materials contribute to the overall character of the building as seen from a distance because of their color or patterning, such as
+- Do the materials or combination of materials contribute to the overall character of the building as seen from a distance because of their color or patterning, such as:
   - broken faced stone,
   - scalloped wall shingling,
   - rounded rock foundation walls,
@@ -314,7 +326,7 @@ Almost any evidence of craft details, whether handmade or machine-made, will con
 
 This concludes the three-step process of identifying the visual aspects of historic buildings and is intended as an aid in preserving their character and other distinguishing qualities. It is not intended as a means of understanding the significance of historical properties or districts, nor of the events or people associated with them. That can only be done through other kinds of research and investigation.
 
-# Summary and References
+# Summary
 
 Using this three-step approach, it is possible to conduct a walk through and identify all those elements and features that help define the visual character of the building. In most cases, there are a number of aspects about the exterior and interior that are important to the character of an historic building. The visual emphasis of this brief will make it possible to ascertain those things that should be preserved because their loss or alteration would diminish or destroy aspects of the historic character whether on the outside, or on the inside of the building.
 
