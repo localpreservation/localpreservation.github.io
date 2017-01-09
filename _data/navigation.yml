@@ -20,7 +20,7 @@ maintaining-exteriors:
       - title: Creating a plan
         url: /resources/maintaining-exteriors/#creating-a-maintenance-plan
       - title: Scheduling maintenance
-        url: /resources/maintaining-exteriors/#exterior-walls
+        url: /resources/maintaining-exteriors/#scheduling-maintenance-work
       - title: Inspecting exteriors
         url: /resources/maintaining-exteriors/#inspecting-building-exteriors
   - title: Building Components
@@ -47,8 +47,8 @@ maintaining-exteriors:
         url: /resources/maintaining-exteriors/#contracting-maintenance-and-repair-work
   - title: Summary
     url: /resources/maintaining-exteriors/#summary
-  - title: References
-    url: /resources/maintaining-exteriors/#references
+  - title: Reading List
+    url: /resources/maintaining-exteriors/#reading-list
 
 architectural-investigation:
   - title: Determining the Purpose of Investigation
