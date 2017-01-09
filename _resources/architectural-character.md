@@ -50,7 +50,11 @@ A building's character can be irreversibly damaged or changed in many ways, for 
 
 # Three-Step Process to Identify the Visual Character
 
-This Brief outlines a three-step approach that can be used by anyone to identify those materials, features and spaces that contribute to the visual character of a building. This approach involves first examining the building from afar to understand its overall setting and architectural context; then moving up very close to appreciate its materials and the craftsmanship and surface finishes evident in these materials; and then going into and through the building to perceive those spaces, rooms and details that comprise its interior visual character.
+This Brief outlines a three-step approach that can be used by anyone to identify those materials, features and spaces that contribute to the visual character of a building. This approach involves:
+
+1. first examining the building from afar to understand its overall setting and architectural context;
+2. then moving up very close to appreciate its materials and the craftsmanship and surface finishes evident in these materials;
+3. and then going into and through the building to perceive those spaces, rooms and details that comprise its interior visual character.
 
 # Step 1: Identify the Overall Visual Aspects
 
