@@ -1,0 +1,34 @@
+- name: Historic England
+  url: https://historicengland.org.uk/
+  description: Historic England is the public body that looks after England's historic environment. They champion and protect historic places, helping people understand, value and care for them.
+  wiki_url: https://en.wikipedia.org/wiki/Historic_England
+  coverage: England, United Kingdom
+  coverage_type:
+    - national
+
+- name: National Park Service
+  url: https://www.nps.gov/index.htm
+  description: The National Park Service (NPS) is an agency of the United States federal government that manages all U.S. national parks, many American national monuments, and other conservation and historical properties with various title designations.
+  wiki_url: https://en.wikipedia.org/wiki/National_Park_Service
+  coverage: United States of America
+  coverage_type:
+    - national
+
+- name: City Lore
+  url: http://citylore.org/
+  description: Founded in 1986, City Lore’s mission is to foster New York City – and America’s – living cultural heritage through education and public programs. City Lore works to document, present, and advocate for New York City’s grassroots cultures to ensure their living legacy in stories and histories, places and traditions. 
+  coverage: New York City, New York, USA
+  coverage_type:
+    - citywide
+
+- name: National Trust for Historic Preservation
+  url: https://savingplaces.org/
+  coverage: United States of America
+  coverage_type:
+    - national
+
+- name: Preservation Alliance for Greater Philadelphia
+  url: http://www.preservationalliance.com/
+  coverage: Philadelphia, Pennsylvania, USA and the surrounding region.
+  coverage_type:
+    - regional
