@@ -1,14 +1,14 @@
 - name: "brainstorming"
-  badge: https://img.shields.io/badge/status-brainstorming-lightgrey.svg
+  badge: https://img.shields.io/badge/status-brainstorming-lightgrey.svg?style=flat
 
 - name: "needs work"
-  badge: https://img.shields.io/badge/status-needs%20work-red.svg
+  badge: https://img.shields.io/badge/status-needs%20work-red.svg?style=flat
 
 - name: "building/designing"
-  badge: https://img.shields.io/badge/status-building%2fdesigning-orange.svg
+  badge: https://img.shields.io/badge/status-building%2fdesigning-orange.svg?style=flat
 
 - name: "experimental"
-  badge: https://img.shields.io/badge/status-experimental-yellow.svg
+  badge: https://img.shields.io/badge/status-experimental-yellow.svg?style=flat
 
 - name: "ready"
-  badge: https://img.shields.io/badge/status-ready-brightgreen.svg
+  badge: https://img.shields.io/badge/status-ready-brightgreen.svg?style=flat
