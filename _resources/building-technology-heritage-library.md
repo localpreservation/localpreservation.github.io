@@ -27,3 +27,5 @@ topic:
   - Design
   - Education
 ---
+
+Learn more about the Building Technology Heritage Library in [this profile in Architect Magazine](http://www.architectmagazine.com/technology/products/scroll-through-this-online-trove-of-old-trade-catalogs_o) or in [a series of posts](http://www.architectmagazine.com/author/mike-jackson?offset=0) by Mike Jackson, FAIA profiling the history of [bathrooms](http://www.architectmagazine.com/technology/products/bathrooms-from-bare-bones-to-personal-sanctuaries_o), [paint](http://www.architectmagazine.com/technology/products/a-colorful-history-of-paint_o), [flooring](http://www.architectmagazine.com/technology/products/step-on-it-a-catalog-history-of-flooring-products_o) and more.
