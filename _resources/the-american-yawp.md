@@ -17,7 +17,7 @@ educational_use:
   - Classroom
 interactivity: "Expository"
 resource_type: "Online textbook"
-resource_url: &cta_url "http://www.americanyawp.com/"
+url: &cta_url "http://www.americanyawp.com/"
 header:
   teaser: /assets/images/the-american-yawp.png
   overlay_image: /assets/images/the-american-yawp.png

@@ -4,7 +4,7 @@ excerpt: "This course provides a beginner-friendly introduction on how to use ar
 date: 2015-1-1
 modified: 2016-7-13
 repository: "baltimoreheritage/explore-101"
-resource_url: &cta_url "https://baltimoreheritage.github.io/explore-101/"
+url: &cta_url "https://baltimoreheritage.github.io/explore-101/"
 license: CC-BY-4.0
 difficulty: Beginner
 state: "building/designing"

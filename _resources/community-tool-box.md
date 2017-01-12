@@ -1,6 +1,6 @@
 ---
 title: "Community Tool Box"
-resource_url: &cta_url "http://ctb.ku.edu/en"
+url: &cta_url "http://ctb.ku.edu/en"
 license: CC-BY-NC-SA-3.0
 excerpt: "The Community Tool Box is a free, online resource for those working to build healthier communities and bring about social change."
 publisher:

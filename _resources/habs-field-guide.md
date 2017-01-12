@@ -10,7 +10,7 @@ publisher:
   - National Park Service
 interactivity: "Expository"
 resource_type: "Online resource guide"
-resource_url: &cta_url "https://www.nps.gov/history/hdp/standards/HABSGuideFieldDoc.pdf"
+url: &cta_url "https://www.nps.gov/history/hdp/standards/HABSGuideFieldDoc.pdf"
 header:
   teaser: /assets/images/1990-07-31-warwood-tool-company-wheeling-wv.jpg
   overlay_image: /assets/images/1990-07-31-warwood-tool-company-wheeling-wv.jpg

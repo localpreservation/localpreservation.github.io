@@ -16,7 +16,7 @@ educational_use:
 interactivity:
 resource_type:
 based_url:
-resource_url: &cta_url "https://localpreservation.github.io/about/" # Only requred for resources that are not published on the main website.
+url: &cta_url "https://localpreservation.github.io/about/" # Only requred for resources that are not published on the main website.
 header:
   teaser: /assets/images/2016-10-31-localpast-timeline-screenshot.png #Required
   overlay_image: /assets/images/4a31635u-1280-square.jpg # Optional but encouraged. Caption required.

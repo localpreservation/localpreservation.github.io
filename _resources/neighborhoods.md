@@ -7,7 +7,7 @@ date: 2011-09-28
 modified: 2016-10-16
 license: CC-BY-4.0
 repository: "localpreservation/neighborhoods"
-resource_url: &cta_url "https://localpreservation.github.io/neighborhoods/"
+url: &cta_url "https://localpreservation.github.io/neighborhoods/"
 state: "building/designing"
 publisher:
   - Preservation Alliance for Greater Philadelphia

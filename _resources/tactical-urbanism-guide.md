@@ -18,7 +18,7 @@ creator:
   - Charlie Simpson, Project Intern
 interactivity: "Expository"
 resource_type: "Online resource guide"
-resource_url: &cta_url "http://tacticalurbanismguide.com/"
+url: &cta_url "http://tacticalurbanismguide.com/"
 header:
   teaser: /assets/images/2016-12-12-tactical-urbanist-guide.jpg
   overlay_image: /assets/images/2016-12-12-tactical-urbanist-guide.jpg

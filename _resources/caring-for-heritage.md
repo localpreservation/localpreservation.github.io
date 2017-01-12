@@ -2,7 +2,7 @@
 title: "Caring for Heritage"
 excerpt: "If you are involved in caring for a place of worship, such as a church or a synagogue, are responsible for looking after a war memorial or you want to find out how to de-clutter your street, you will find helpful advice here."
 date: 2017-1-1
-resource_url: &cta_url "https://historicengland.org.uk/advice/caring-for-heritage/"
+url: &cta_url "https://historicengland.org.uk/advice/caring-for-heritage/"
 difficulty: Intermediate
 state: "ready"
 publisher:

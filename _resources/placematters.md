@@ -4,7 +4,7 @@ excerpt: "The Place Matters Toolkit is a guidebook to help you identify, promote
 date: 2011-1-1
 modified: 2016-9-11
 repository: "localpreservation/placematters"
-resource_url: &cta_url "https://localpreservation.github.io/placematters/"
+url: &cta_url "https://localpreservation.github.io/placematters/"
 difficulty: Beginner
 state: "ready"
 license: CC-BY-4.0

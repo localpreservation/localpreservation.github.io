@@ -9,7 +9,7 @@ publisher:
   - Environmental Design Library, University of California Berkeley
 interactivity: "Expository"
 resource_type: "Online resource guide"
-resource_url: &cta_url "http://guides.lib.berkeley.edu/environmental-design-library"
+url: &cta_url "http://guides.lib.berkeley.edu/environmental-design-library"
 header:
   teaser: http://ced.berkeley.edu/images/uploads/content/wurster_library.jpg
   overlay_image: http://ced.berkeley.edu/images/uploads/content/wurster_library.jpg

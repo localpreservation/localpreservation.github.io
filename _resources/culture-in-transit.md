@@ -1,6 +1,6 @@
 ---
 title: "Culture in Transit Toolkit"
-resource_url: &cta_url "https://mnylc.github.io/cit-toolkit/"
+url: &cta_url "https://mnylc.github.io/cit-toolkit/"
 license: "CC0-1.0"
 repository: "mnylc/cit-toolkit"
 difficulty: Intermediate

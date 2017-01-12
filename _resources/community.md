@@ -13,7 +13,7 @@ creator:
   - Renee Viers Kuhlman
   - Martha Vail
 repository: "localpreservation/community"
-resource_url: &cta_url https://localpreservation.github.io/community/
+url: &cta_url https://localpreservation.github.io/community/
 state: "building/designing"
 header:
   teaser: /assets/images/2010-04-06-edmund-pettus-bridge.jpg

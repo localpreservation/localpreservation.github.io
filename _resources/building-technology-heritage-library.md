@@ -15,7 +15,7 @@ funder:
   - Illinois Historic Preservation Agency
 interactivity: "Expository"
 resource_type: "Online resource guide"
-resource_url: &cta_url "https://archive.org/details/buildingtechnologyheritagelibrary"
+url: &cta_url "https://archive.org/details/buildingtechnologyheritagelibrary"
 header:
   teaser: /assets/images/ModernHomePlans-cover.jpg
   overlay_image: /assets/images/ModernHomePlans-cover.jpg

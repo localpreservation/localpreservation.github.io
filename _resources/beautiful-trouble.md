@@ -13,7 +13,7 @@ educational_use:
   - Workshop
 interactivity: Mixed
 resource_type: "Book, web toolbox, and activist community."
-resource_url: &cta_url "http://beautifultrouble.org/"
+url: &cta_url "http://beautifultrouble.org/"
 license: CC-BY-NC-SA-3.0
 topic:
   - Advocacy
