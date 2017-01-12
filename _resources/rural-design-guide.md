@@ -22,6 +22,7 @@ header:
   teaser: /assets/images/fhwahep17024-8-square.jpg
   overlay_image: /assets/images/fhwahep17024-8-square.jpg
   overlay_filter: .5
+  caption: "Crosswalk in Allendale, South Carolina. Courtesy the FHWA Small Town and Rural Multimodal Networks Final Report."
   cta_label: Read the guide
   cta_url: *cta_url
 topic:
