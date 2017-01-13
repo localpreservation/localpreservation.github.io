@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Resources"
     url: /resources/
+  - title: "Tools"
+    url: /tools/
   - title: "Learn"
     url: /learn/
   - title: "Teach"
