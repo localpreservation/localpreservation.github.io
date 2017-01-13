@@ -16,7 +16,7 @@ CC-BY-4.0:
 
 CC-BY-SA-4.0:
   license: "CC-BY-SA-4.0"
-  title: Attribution-ShareAlike 4.0 International
+  title: "Attribution-ShareAlike 4.0 International"
   spdx-id: CC-BY-SA-4.0
   nickname: CC BY SA
   url: https://creativecommons.org/licenses/by-sa/4.0/
@@ -30,14 +30,16 @@ CC-BY-NC-SA-3.0:
   image-url: http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc-sa.svg
 
 CC-BY-2.0:
-  license: "CC-BY 2.0"
+  license: "CC-BY-2.0"
+  title: "Attribution 2.0 Generic"
   spdx-id: CC-BY-2.0
   url: https://creativecommons.org/licenses/by/2.0/
   image-url: http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg
 
 CC-BY-NC-ND-3.0-US:
-  license: "CC-BY-NC-ND-3.0 US"
+  license: "CC-BY-NC-ND-3.0-US"
   spdx-id: CC-BY-NC-ND-3.0-US
+  title: "Attribution-NonCommercial-NoDerivs 3.0 United States"
   url: https://creativecommons.org/licenses/by-nc-nd/3.0/us/
   image-url: http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc-nd.svg
 
@@ -46,3 +48,15 @@ PD:
   title: "Public Domain"
   url: https://creativecommons.org/publicdomain/mark/1.0/
   image-url: http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/publicdomain.svg
+
+MPL-2.0:
+  license: "MPL-2.0"
+  spdx-id: MPL-2.0
+  title: "Mozilla Public License 2.0"
+  url: https://www.mozilla.org/en-US/MPL/2.0/
+
+AGPL-3.0:
+  license: AGPL-3.0
+  spdx-id: AGPL-3.0
+  title: "GNU Affero General Public License v3.0"
+  url: https://www.gnu.org/licenses/agpl-3.0.html
