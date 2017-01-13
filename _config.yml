@@ -213,6 +213,9 @@ tag_archive:
 resource_tag_archive:
   type: liquid
   path: /resources/tag/
+tool_tag_archive:
+  type: liquid
+  path: /tools/tag/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -239,7 +242,9 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
-
+  tools:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -266,7 +271,17 @@ defaults:
       path: ""
       type: resources
     values:
-      layout: resource-single
+      layout: single-resource
+      read_time: false
+      author_profile: false
+      share: true
+      comments: false
+  # _tools
+  - scope:
+      path: ""
+      type: tools
+    values:
+      layout: single-tool
       read_time: false
       author_profile: false
       share: true
