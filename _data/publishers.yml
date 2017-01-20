@@ -16,13 +16,14 @@
 
 - name: City Lore
   url: http://citylore.org/
-  description: Founded in 1986, City Lore’s mission is to foster New York City – and America’s – living cultural heritage through education and public programs. City Lore works to document, present, and advocate for New York City’s grassroots cultures to ensure their living legacy in stories and histories, places and traditions. 
+  description: Founded in 1986, City Lore’s mission is to foster New York City – and America’s – living cultural heritage through education and public programs. City Lore works to document, present, and advocate for New York City’s grassroots cultures to ensure their living legacy in stories and histories, places and traditions.
   coverage: New York City, New York, USA
   coverage_type:
     - citywide
 
 - name: National Trust for Historic Preservation
   url: https://savingplaces.org/
+  wiki_url: https://en.wikipedia.org/wiki/National_Trust_for_Historic_Preservation
   coverage: United States of America
   coverage_type:
     - national
@@ -32,3 +33,16 @@
   coverage: Philadelphia, Pennsylvania, USA and the surrounding region.
   coverage_type:
     - regional
+
+- name: Code for America
+  url: https://savingplaces.org/
+  wiki_url: https://en.wikipedia.org/wiki/Code_for_America
+  github: codeforamerica
+  coverage: United States of America
+
+- name: Street Plans Collaborative
+  url: http://www.street-plans.com/
+
+- name: Northwestern University Knight Lab
+  url: http://knightlab.northwestern.edu/
+  description: "The Northwestern University Knight Lab is a team of technologists and journalists working at advancing news media innovation through exploration and experimentation. A joint initiative of the Robert R. McCormick School of Engineering and Applied Science and the Medill School of Journalism, Media, Integrated Marketing Communications."
