@@ -26,6 +26,8 @@ header:
   caption: "Workers re-pointing a brick wall at the Brown v. Board of Education National Historic Site, 2001 August 15. Courtesy [National Park Service](https://www.nps.gov/media/photo/view.htm?id=5A41A790-155D-4519-3EA3B6591FD74B8B)."
 sidebar:
   nav: "maintaining-exteriors"
+anchor: true
+annotate: true
 ---
 
 Preservation is defined as "the act or process of applying measures necessary to sustain the existing form, integrity, and materials of an historic property. Work, including preliminary measures to protect and stabilize the property, generally focuses upon the ongoing maintenance and repair of historic materials and features rather than extensive replacement and new construction."

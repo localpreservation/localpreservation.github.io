@@ -26,6 +26,8 @@ topic:
   - History
 sidebar:
   nav: "architectural-investigation"
+anchor: true
+annotate: true
 ---
 
 If you have ever felt a sense of excitement and mystery going inside an old building—whether occupied or vacant—it is probably because its materials and features resonate with the spirit of past people and events. Yet excitement about the unknown is heightened when a historic structure is examined architecturally, and its evolution over time emerges with increasing clarity to reveal the lives of its occupants. Architectural investigation is the critical first step in planning an appropriate treatment—understanding how a building has changed over time and assessing levels of deterioration.

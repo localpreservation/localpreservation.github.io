@@ -42,8 +42,7 @@ layout: default
             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
           {% endif %}
           {% if page.difficulty %}
-            <p class="page__date"><strong><i class="fa fa-graduation-cap" aria-hidden="true"></i> Difficulty</strong>: {{ page.difficulty }} &nbsp;<a href="{{ '/resources/about/#difficulty' | absolute_url }}"><i class="fa fa-info-circle"></i></a>
-</p>
+            <p class="page__date"><strong><i class="fa fa-graduation-cap" aria-hidden="true"></i> Difficulty</strong>: {{ page.difficulty }}&nbsp;<a href="{{ '/resources/about/#difficulty' | absolute_url }}"><i class="fa fa-info-circle"></i></a></p>
           {% endif %}
           {% if page.license %}
           <p class="page__date"><strong><i class="fa fa-fw fa-creative-commons" aria-hidden="true"></i> License:</strong>
@@ -93,4 +92,22 @@ layout: default
       </div>
     </div>
   {% endif %}
+
+  {% if page.anchor %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.2.2/anchor.min.js"></script>
+    <script>
+      anchors.options = {
+        placement: 'left'
+      };
+      anchors.add('h1,h2,h3').remove('.page__title');
+    </script>
+  {% endif %}
+
+  {% if page.annotate %}
+    <script type="application/json" class="js-hypothesis-config">
+      {"showHighlights": false}
+    </script>
+    <script src="https://hypothes.is/embed.js" async></script>
+  {% endif %}
+
 </div>

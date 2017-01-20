@@ -25,6 +25,8 @@ header:
   overlay_caption: "View of the dining room at the Laird-Dunlop-Lincoln House, 3014 N Street NW, Washington, D.C. by Jack E. Boucher, 2000. Courtesy [Library of Congress/HABS](http://www.loc.gov/pictures/item/dc0709.color.376611c/)."
 topic:
   - Design
+anchor: true
+annotate: true
 ---
 
 _The Secretary of the Interior's Standards for the Treatment of Historic Properties_ embody two important goals:
