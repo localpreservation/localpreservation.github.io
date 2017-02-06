@@ -27,4 +27,7 @@ resource_type: "Online toolkit."
 topic:
   - History
   - Education
+tags:
+  - archives
+  - digitization
 ---

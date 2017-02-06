@@ -19,6 +19,9 @@ based_url: https://www.nps.gov/tps/how-to-preserve/briefs/47-maintaining-exterio
 topic:
   - Design
   - Planning
+tags:
+  - checklist
+  - maintenance
 header:
   teaser: /assets/images/2001-08-15-brown-v-board-nps.jpg
   overlay_image: /assets/images/2001-08-15-brown-v-board-nps.jpg

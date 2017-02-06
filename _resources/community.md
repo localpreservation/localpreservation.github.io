@@ -25,6 +25,9 @@ header:
 topic:
   - Community
   - Advocacy
+tags:
+  - coalitions
+  - networks
 ---
 
 The Community Preservation Guide is an educational resource for people interested in learning how local preservationists can build more inclusive programs, advocacy campaigns, and organizations.
