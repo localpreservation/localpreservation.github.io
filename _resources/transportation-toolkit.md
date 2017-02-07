@@ -3,7 +3,6 @@ title: "Every Place Counts Leadership Academy: Transportation Toolkit"
 excerpt: "This Toolkit is a plain language explanation of the transportation decision-making process for educational and informational purposes."
 url: &cta_url "https://www.transportation.gov/sites/dot.gov/files/docs/Toolkit-Final-4_508.pdf"
 based_url: https://www.transportation.gov/policy-initiatives/leadership-academy/transportation-toolkit
-license: "PD"
 date: 2016-12-13
 difficulty: Beginner
 state: "ready"
