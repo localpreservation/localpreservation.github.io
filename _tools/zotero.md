@@ -6,6 +6,8 @@ date: 2006-10-01
 modified: 2016-10-03
 repository: "zotero/zotero"
 state: ready
+license: "AGPL-3.0"
+difficulty: Beginner
 creator:
   -  Roy Rosenzweig Center for History and New Media at George Mason University
   - Corporation for Digital Scholarship
