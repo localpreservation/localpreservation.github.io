@@ -60,3 +60,15 @@ AGPL-3.0:
   spdx-id: AGPL-3.0
   title: "GNU Affero General Public License v3.0"
   url: https://www.gnu.org/licenses/agpl-3.0.html
+
+CR:
+  license: "CR"
+  title: "© Copyright, All rights reserved"
+  url: https://www.copyright.gov/title17/
+  OSIApproved: false
+
+GPL-3.0:
+  license: "GPL-3.0"
+  title: "GNU General Public License v3.0"
+  OSIApproved: true
+  url: https://www.gnu.org/licenses/gpl-3.0.html
