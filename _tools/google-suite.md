@@ -5,7 +5,7 @@ url: &cta_url "https://gsuite.google.com/"
 header:
   teaser: /assets/images/2012-google-hq-mountain-view-ca.jpg
   overlay_image: /assets/images/2012-google-hq-mountain-view-ca.jpg
-  caption: "Google Headquarters, Mountain View, California by Carol M. Highsmith, 2012. Courtesy [Library of Congress](http://www.loc.gov/pictures/item/2013630579/) (PD)."
+  caption: "Google Headquarters, Mountain View, California by Carol M. Highsmith, 2012. Courtesy [Library of Congress](http://www.loc.gov/pictures/item/2013630579/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))."
   overlay_filter: .5
   cta_label: Try G Suite
   cta_url: *cta_url
