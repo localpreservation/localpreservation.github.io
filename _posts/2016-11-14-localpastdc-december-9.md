@@ -6,7 +6,7 @@ excerpt: "We want to learn how local preservationists can build more inclusive p
 header:
   overlay_image: /assets/images/13248u-1280-square.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
-  caption: "Charles Sumner School, Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2011631442/) (PD)"
+  caption: "Charles Sumner School, Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2011631442/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))"
 ---
 
 Please join the [DC Preservation League](http://www.dcpreservation.org/), [National Trust for Historic Preservation](https://savingplaces.org/), and [Baltimore Heritage](https://baltimoreheritage.org/) next month for our latest workshop on open education and preservation. We want to learn how local preservationists can build more inclusive programs, advocacy campaigns, and organizations and how we can teach those skills to volunteer advocates.
