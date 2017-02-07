@@ -32,9 +32,9 @@ annotate: true
 
 If you have ever felt a sense of excitement and mystery going inside an old building—whether occupied or vacant—it is probably because its materials and features resonate with the spirit of past people and events. Yet excitement about the unknown is heightened when a historic structure is examined architecturally, and its evolution over time emerges with increasing clarity to reveal the lives of its occupants. Architectural investigation is the critical first step in planning an appropriate treatment—understanding how a building has changed over time and assessing levels of deterioration.
 
-Whether as a home owner making sympathetic repairs, a craftsman or contractor replacing damaged or missing features, or a conservator reconstituting wood or restoring decorative finishes, some type of investigative skill was used to recognize and solve an architectural question or explain a difficult aspect of the work itself.
+Whether as a home owner making sympathetic repairs, a craftsperson or contractor replacing damaged or missing features, or a conservator reconstituting wood or restoring decorative finishes, some type of investigative skill was used to recognize and solve an architectural question or explain a difficult aspect of the work itself.
 
-To date, very little has been written for anyone other than preservation professionals on the subject of architectural investigation. This Preservation Brief thus addresses the often complex investigative process in broad, easy-to-understand terminology. The logical sequence of planning, investigation and analysis presented in this resource is applicable to all buildings, geographic locations, periods, and construction types. It is neither a "how to" nor an exhaustive study on techniques or methodologies; rather, it serves to underscore the need for meticulous planning prior to work on our irreplaceable cultural resources.
+Very little has been written on the subject of architectural investigation for anyone other than preservation professionals. This resource addresses the often complex investigative process in broad, easy-to-understand terminology. The logical sequence of planning, investigation and analysis presented in this resource can be applied to all buildings, geographic locations, periods, and construction types. It is not a "how to" and it is not an exhaustive study on techniques or methodologies. Instead, it emphasizes the need for meticulous planning prior to work on our irreplaceable cultural resources.
 
 # Determining the Purpose of Investigation
 
@@ -44,7 +44,7 @@ Architectural investigator at work. Photo: Courtesy, Valentine Museum.
 
 Both the purpose and scope of investigation need to be determined before formulating a particular approach. For example, investigation strictly for research purposes could produce information for an architectural survey or for an historic designation application at the local, state or national level.
 
-Within the framework of _The Secretary of the Interior's Standards for the Treatment of Historic Properties_, investigation is crucial for "identifying, retaining, and preserving the form and detailing of those architectural materials and features that are important in defining the historic character" of a property, whether for repair or replacement.
+Within the framework of _[The Secretary of the Interior's Standards for the Treatment of Historic Properties](https://www.nps.gov/tps/standards.htm)_, investigation is crucial for "identifying, retaining, and preserving the form and detailing of those architectural materials and features that are important in defining the historic character" of a property, whether for repair or replacement.
 
 - A rehabilitation project, for instance, might require an investigation to determine the historic configuration of interior spaces prior to partitioning a room to meet a compatible new use.
 - Investigation for preservation work can entail more detailed information about an entire building, such as determining the physical sequence of construction to aid in interpretation.

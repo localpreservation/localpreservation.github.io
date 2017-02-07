@@ -1,6 +1,6 @@
 ---
 title: "Architectural Character: Identifying the Visual Aspects of Historic Buildings as an Aid to Preserving their Character"
-excerpt: "The purpose of this Brief is to help the owner or the architect identify those features or elements that give the building its visual character and that should be taken into account in order to preserve them to the maximum extent possible."
+excerpt: "The purpose of this resource is to help the owner or the architect identify those features or elements that give the building its visual character and that should be taken into account in order to preserve them to the maximum extent possible."
 date: 1988-09-01
 modified: 2017-01-06
 difficulty: Intermediate
@@ -29,7 +29,7 @@ anchor: true
 annotate: true
 ---
 
-_The Secretary of the Interior's Standards for the Treatment of Historic Properties_ embody two important goals:
+_[The Secretary of the Interior's Standards for the Treatment of Historic Properties](https://www.nps.gov/tps/standards.htm)_ embody two important goals:
 
 1. the preservation of historic materials and,
 2. the preservation of a building's distinguishing character.
@@ -38,7 +38,7 @@ Every old building is unique, with its own identity and its own distinctive char
 
 {% include toc icon="columns" title="Contents" %}
 
-The purpose of this Brief is to help the owner or the architect identify those features or elements that give the building its visual character and that should be taken into account in order to preserve them to the maximum extent possible.
+The purpose of this resource is to help the owner or the architect identify those features or elements that give the building its visual character and that should be taken into account in order to preserve them to the maximum extent possible.
 
 There are different ways of understanding old buildings. They can be seen as examples of specific building types, which are usually related to a building's function, such as schools, courthouses or churches.
 
@@ -46,13 +46,13 @@ Buildings can be studied as examples of using specific materials such as concret
 
 There are many other facets of an historic building besides its functional type, its materials or construction or style that contribute to its historic qualities or significance. Some of these qualities are feelings conveyed by the sense of time and place or in buildings associated with events or people. A complete understanding of any property may require documentary research about its style, construction, function, its furnishings or contents; knowledge about the original builder, owners, and later occupants; and knowledge about the evolutionary history of the building. Even though buildings may be of historic, rather than architectural significance, it is their tangible elements that embody its significance for association with specific events or persons and it is those tangible elements both on the exterior and interior that should be preserved.
 
-Therefore, the approach taken in this Brief is limited to **identifying those visual and tangible aspects of the historic building**. While this may aid in the planning process for carrying out any ongoing or new use or restoration of the building, this approach is not a substitute for developing an understanding about the significance of an historic building and the district in which it is located. If the various materials, features and spaces that give a building its visual character are not recognized and preserved, then essential aspects of its character may be damaged in the process of change.
+Therefore, the approach taken in this resource is limited to **identifying those visual and tangible aspects of the historic building**. While this may aid in the planning process for carrying out any ongoing or new use or restoration of the building, this approach is not a substitute for developing an understanding about the significance of an historic building and the district in which it is located. If the various materials, features and spaces that give a building its visual character are not recognized and preserved, then essential aspects of its character may be damaged in the process of change.
 
 A building's character can be irreversibly damaged or changed in many ways, for example, by inappropriate repointing of the brickwork, by removal of a distinctive side porch, by changes to the window sash, by changes to the setting around the building, by changes to the major room arrangements, by the introduction of an atrium, by painting previously unpainted woodwork, etc.
 
 # Three-Step Process to Identify the Visual Character
 
-This Brief outlines a three-step approach that can be used by anyone to identify those materials, features and spaces that contribute to the visual character of a building. This approach involves:
+This resource outlines a three-step approach that anyone can use to identify those materials, features and spaces that contribute to the visual character of a building. This approach involves:
 
 1. first [examining the building from afar](#step-1-identify-the-overall-visual-aspects) to understand its overall setting and architectural context;
 2. then [moving up very close](#step-2-visual-character-at-close-range) to appreciate its materials and the craftsmanship and surface finishes evident in these materials;
@@ -330,11 +330,11 @@ This concludes the three-step process of identifying the visual aspects of histo
 
 # Summary
 
-Using this three-step approach, it is possible to conduct a walk through and identify all those elements and features that help define the visual character of the building. In most cases, there are a number of aspects about the exterior and interior that are important to the character of an historic building. The visual emphasis of this brief will make it possible to ascertain those things that should be preserved because their loss or alteration would diminish or destroy aspects of the historic character whether on the outside, or on the inside of the building.
+Using this three-step approach, it is possible to conduct a walk through and identify all those elements and features that help define the visual character of the building. In most cases, there are a number of aspects about the exterior and interior that are important to the character of an historic building. The visual emphasis of this resource should make it possible to ascertain those things that should be preserved because their loss or alteration would diminish or destroy aspects of the historic character whether on the outside, or on the inside of the building.
 
 # Acknowledgements
 
-This Preservation Brief was originally developed as a slide talk/methodology in 1982 to discuss the use of the Secretary of the Interior's Standards for Rehabilitation in relation to preserving historic character; and it was amplified and modified in succeeding years to help guide preservation decision making, initially for maintenance personnel in the National Park Service.
+This resource was originally developed as a slide talk/methodology in 1982 to discuss the use of the Secretary of the Interior's Standards for Rehabilitation in relation to preserving historic character; and it was amplified and modified in succeeding years to help guide preservation decision making, initially for maintenance personnel in the National Park Service.
 
 A number of people contributed to the evolution of the ideas presented here. Special thanks go to Emogene Bevitt and Gary Hume, primarily for the many and frequent discussions relating to this approach in its evolutionary stages; to Mark Fram, Ontario Heritage Foundation, Toronto, for suggesting several additions to the Checklist; and more recently, to my coworkers, both in Washington and in our regional offices, especially Ward Jandl, Sara Blumenthal, Charles Fisher, Sharon Park, AIA, Jean Travers, Camille Martone, Susan Dynes, Michael Auer, Anne E. Grimmer, Kay Weeks, Betsy Chittenden, Patrick Andrus, Carol Shull, Hugh Miller, FAIA, Jerry Rogers, Paul Alley, David Look, AIA, Margaret Pepin-Donat, Bonnie Halda, Keith Everett, Thomas Keohan, the Preservation Services Division, MidAtlantic Region, and several reviewers in state preservation offices, especially Ann Haaker, Illinois; and Stan Graves, AIA, Texas; for providing very critical and constructive review of the manuscript.
 
