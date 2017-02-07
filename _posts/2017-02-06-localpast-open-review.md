@@ -16,7 +16,7 @@ We are excited to share an update on our brand-new [resource directory](https://
   - [Maintaining the Exterior of Small and Medium Size Historic Buildings](https://localpreservation.github.io/resources/maintaining-exteriors/)
   - [Understanding Old Buildings: The Process of Architectural Investigation](https://localpreservation.github.io/resources/architectural-investigation/)
 - Guides and toolkits by local and national preservation advocacy organizations:
-  - [Place Matters Toolkit](https://localpreservation.github.io/resources/placematters/) from CityLore
+  - [Place Matters Toolkit](https://localpreservation.github.io/resources/placematters/) from CityLore in New York City
   - [Community Preservation Guide](https://localpreservation.github.io/resources/community/) based on publications from the National Trust for Historic Preservation
 - Essential links and resources from related fields such as urban design, place-making, community archiving, and more:
   - [How to Do Creative Placemaking](https://localpreservation.github.io/resources/how-to-creative-placemaking/)
