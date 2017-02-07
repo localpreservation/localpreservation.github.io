@@ -2,6 +2,9 @@
 title: "G Suite (Google Apps)"
 excerpt: "A package of web applications including Gmail, Google Calendar, Google Drive, and more."
 url: &cta_url "https://gsuite.google.com/"
+difficulty: Beginner
+date: 2006-08-01
+license: "CR"
 header:
   teaser: /assets/images/2012-google-hq-mountain-view-ca.jpg
   overlay_image: /assets/images/2012-google-hq-mountain-view-ca.jpg

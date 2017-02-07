@@ -8,6 +8,7 @@ publisher:
   - Transom
 tool_type:
   - Tool recommendations
+license: "CR"
 creator:
   - Samantha Broun
   - Barrett Golding

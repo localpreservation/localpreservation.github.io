@@ -5,6 +5,8 @@ excerpt: "Create complex narratives and share rich collections, adhering to Dubl
 creator:
   - "Roy Rosenzweig Center for History and New Media, George Mason University"
 repository: "omeka/Omeka"
+difficulty: Intermediate
+license: "GPL-3.0"
 state: "ready"
 header:
   teaser: /assets/images/2017-02-07-omeka-screenshot.png
