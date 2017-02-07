@@ -8,6 +8,7 @@ tool_type:
 publisher:
   - Northwestern University Knight Lab
 difficulty: Beginner
+repository: "NUKnightLab/TimelineJS3"
 state: "ready"
 header:
   teaser: /assets/images/2017-02-07-timelinejs-screenshot.png
