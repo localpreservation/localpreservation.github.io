@@ -1,5 +1,5 @@
 ---
-title: "Timeline History"
+title: "Historic Preservation, Public History & Archaeology: A Timeline History"
 excerpt: "This interactive timeline helps you explore the history of historic preservation, archaeology, and public history in the United States of America."
 date: 2015-10-13
 modified: 2015-10-15
@@ -20,7 +20,7 @@ topic:
   - History
 ---
 
-Understanding the history of historic preservation along with related fields including public history,  archaeology, folklore, and community development, helps us understand how local preservation efforts are shaped by the history of the field and the United State of America more broadly.  
+Understanding the history of historic preservation along with related fields including public history,  archaeology, folklore, and community development, helps us understand how local preservation efforts are shaped by the history of the field and the United States of America more broadly.  
 
 <div class="full">
 <iframe src='//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1l2d4wjWhKNHvbJPllk9PyTBKKvbXr0XXFoh6jFGLsOs&font=Lustria-Lato&lang=en&initial_zoom=1&height=650' width='100%' height='650' frameborder='0'></iframe>
