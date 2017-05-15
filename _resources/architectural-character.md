@@ -22,7 +22,7 @@ header:
   teaser: /assets/images/2000-laird-dunlop-lincoln-house-376611cu-square.jpg
   overlay_image: /assets/images/2000-laird-dunlop-lincoln-house-376611cu-square.jpg
   overlay_filter: .5
-  overlay_caption: "View of the dining room at the Laird-Dunlop-Lincoln House, 3014 N Street NW, Washington, D.C. by Jack E. Boucher, 2000. Courtesy [Library of Congress/HABS](http://www.loc.gov/pictures/item/dc0709.color.376611c/)."
+  caption: "View of the dining room at the Laird-Dunlop-Lincoln House, 3014 N Street NW, Washington, D.C. by Jack E. Boucher, 2000. Courtesy [Library of Congress/HABS](http://www.loc.gov/pictures/item/dc0709.color.376611c/)."
 topic:
   - Design
 anchor: true
