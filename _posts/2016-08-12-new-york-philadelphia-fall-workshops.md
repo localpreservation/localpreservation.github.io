@@ -3,6 +3,7 @@ layout: single
 title: Local Preservation School workshops in New York City and Philadelphia this fall!
 date: 2016-08-12
 header:
+  teaser: /assets/images/2015-02-25-ps-40.jpg
   overlay_image: /assets/images/2015-02-25-ps-40.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   caption: "Photo: [Public School 40, Jeffrey Zeldman](https://www.flickr.com/photos/zeldman/16648053932) ([CC-BY](https://creativecommons.org/licenses/by/2.0/))"

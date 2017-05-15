@@ -2,6 +2,8 @@
 layout: single
 title: What is the Local Preservation School?
 date: 2015-10-01
+header:
+  teaser: /assets/images/12881v.jpg
 ---
 The Local Preservation School is free resource to teach people how to save and sustain historic places — and we want you to be part of it. [Sign up for our newsletter](https://tinyletter.com/localpreservation) to learn more.
 
