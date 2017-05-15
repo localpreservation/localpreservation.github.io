@@ -32,3 +32,7 @@ tags:
 ---
 
 Learn more about the Building Technology Heritage Library in [this profile in Architect Magazine](http://www.architectmagazine.com/technology/products/scroll-through-this-online-trove-of-old-trade-catalogs_o) or in [a series of posts](http://www.architectmagazine.com/author/mike-jackson?offset=0) by Mike Jackson, FAIA profiling the history of [bathrooms](http://www.architectmagazine.com/technology/products/bathrooms-from-bare-bones-to-personal-sanctuaries_o), [paint](http://www.architectmagazine.com/technology/products/a-colorful-history-of-paint_o), [flooring](http://www.architectmagazine.com/technology/products/step-on-it-a-catalog-history-of-flooring-products_o) and more.
+
+Other useful collections of primary sources available through the Internet Archive include:
+
+- [Winterthur Museum Library](https://archive.org/details/winterthurlibrary): The library at the Henry Francis du Pont Winterthur Museum is a research center that contains a wide variety of written and visual materials that promote the interdisciplinary study of American art, material culture, and everyday life in America into the 20th century. It includes books, periodicals, archival material, printed ephemera, and both historical and modern photographs. Special strengths include manufacturers' and retailers' catalogs, resources that describe craft techniques, advice literature, design and pattern books, original craftspeoples' account books, handwritten diaries, and imagery of decorative arts objects.
