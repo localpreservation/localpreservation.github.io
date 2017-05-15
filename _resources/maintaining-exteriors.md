@@ -26,7 +26,7 @@ header:
   teaser: /assets/images/2001-08-15-brown-v-board-nps.jpg
   overlay_image: /assets/images/2001-08-15-brown-v-board-nps.jpg
   overlay_filter: .5
-  caption: "Workers re-pointing a brick wall at the Brown v. Board of Education National Historic Site, 2001 August 15. Courtesy [National Park Service](https://www.nps.gov/media/photo/view.htm?id=5A41A790-155D-4519-3EA3B6591FD74B8B)."
+  caption: "Workers re-pointing a brick wall at the Brown v. Board of Education National Historic Site, 2001 August 15. Courtesy [National Park Service](https://www.nps.gov/media/photo/view.htm?id=5A41A790-155D-4519-3EA3B6591FD74B8B) (PD)."
 sidebar:
   nav: "maintaining-exteriors"
 anchor: true
