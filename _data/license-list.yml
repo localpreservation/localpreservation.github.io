@@ -78,3 +78,10 @@ GPL-2.0+:
   title: "GNU General Public License v2.0 or later"
   OSIApproved: true
   url: https://www.gnu.org/licenses/gpl-2.0.html
+
+BSD-3-Clause:
+  license: "BSD-3-Clause"
+  spdx-id: BSD-3-Clause
+  title: BSD 3-clause "New" or "Revised" License
+  OSIApproved: true
+  url: https://choosealicense.com/licenses/bsd-3-clause/
