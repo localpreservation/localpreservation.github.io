@@ -10,6 +10,9 @@ header:
   caption: "Desegregation landmark, Little Rock Central High School, Little Rock, Arkansas by Carol Highsmith. _Courtesy [Library of Congress](https://www.loc.gov/pictures/highsm.12881/resource/)._"
 ---
 
+The Local Preservation School project is taking a break from active development with the conclusion of our funding from the National Park Service and National Conference of State Historic Preservation Officers in February 2017. We are still accepting [comments and feedback](https://localpreservation.github.io/localpast-open-review/) on our [resource directory](https://localpreservation.github.io/resources/) and [tool library](https://localpreservation.github.io/tools/). You are also welcome to [create a new issue on GitHub](https://github.com/localpreservation/localpreservation.github.io/issues/) or suggest changes with a [pull request](https://github.com/localpreservation/localpreservation.github.io/pulls). Please read and comment on our [draft summary report](https://docs.google.com/document/d/1-ZDXRF2SDic85YNvoZXEeN-NZjJxDmlbukLwB_ZQM3I/edit?usp=sharing) and [sign up for future updates](http://tinyletter.com/localpreservation/) about the project.
+{: .notice--info}
+
 {% include toc icon="columns" title="About" %}
 
 The Local Preservation School is an **open learning environment** where preservation advocates and volunteers share with people how to save and sustain historic places in their communities. Our goal is to teach you how to get involved with historic preservation in your community through free online courses, easy-to-use tutorials and fun projects. **Beginners are welcome!**
@@ -49,3 +52,11 @@ The Local Preservation School is a work-in-progress. We are seeking assistance f
 This project is led by [Baltimore Heritage](https://baltimoreheritage.org/) with support from the [National Park Service](https://www.nps.gov/index.htm) and [National Conference of State Historic Preservation Officers](http://ncshpo.org/).
 
 The lead organizer for the Local Preservation School is [Eli Pousson](https://baltimoreheritage.org/about/staff), Director of Preservation & Outreach for Baltimore Heritage.
+
+## What is the history of the Local Preservation School?
+
+<div class="full">
+<iframe src='//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1f3g84ZXRDUCuQIwGtJkpWJj5vKRewp2bCEPxJnvl-GA&font=Lustria-Lato&lang=en&initial_zoom=1&height=650' width='100%' height='650' frameborder='0'></iframe>
+</div>
+
+Our project timeline is made with [Google Sheets](https://www.google.com/sheets/about/) and the free, open-source [Timeline JS](http://timeline.knightlab.com/) timeline builder from the [KnightLab Publisher's Toolbox](https://projects.knightlab.com/#toolbox). If you have suggestions for this timeline, please consider sharing your comments on the [source Google Spreadsheet](https://docs.google.com/spreadsheets/d/1f3g84ZXRDUCuQIwGtJkpWJj5vKRewp2bCEPxJnvl-GA/edit?usp=sharing) or reaching out on Twitter to [@localpast](https://twitter.com/localpast/).
