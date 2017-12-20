@@ -17,11 +17,11 @@ feature_row:
     url: "/about/"
     btn_label: "Learn More"
   - image_path: /assets/images/18659u.jpg
-    alt: "teach"
-    title: "Educators"
-    excerpt: "We encourage educators to reuse our resources and share feedback we can use to improve."
-    url: "/teach/"
-    btn_label: "Learn More"
+    alt: "resources"
+    title: "Resources"
+    excerpt: "Explore our collection of open educational resources for local historians and advocates."
+    url: "/resources/"
+    btn_label: "Explore"
   - image_path: /assets/images/11929u.jpg
     alt: "100% free"
     title: "Open Education"

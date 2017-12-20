@@ -5,6 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+remote_theme             : "mmistakes/minimal-mistakes"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Local Preservation School"
@@ -177,13 +181,14 @@ timezone: "America/New_York" # http://en.wikipedia.org/wiki/List_of_tz_database_
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-redirect-from
+  - jekyll-remote-theme
+#  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -192,7 +197,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-redirect-from
+  - jekyll-remote-theme
+#  - jekyll-redirect-from
 
 # Archives
 #  Type
