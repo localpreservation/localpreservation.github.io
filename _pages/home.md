@@ -5,8 +5,8 @@ date:
 header:
   overlay_color: "#838383"
   overlay_image: /assets/images/571995cu-dark.jpg
-  cta_label: "<i class='fa bell-o'></i> Subscribe for updates"
-  cta_url: "http://tinyletter.com/localpreservation"
+  cta_label: "Explore our resource directory <i class='fas fa-chevron-circle-right'></i> "
+  cta_url: "https://localpreservation.github.io/resources/"
   caption:
 excerpt: 'The Local Preservation School is an open learning environment where preservation advocates and volunteers share how we can work together to save and sustain historic places in our communities.'
 feature_row:
@@ -29,7 +29,7 @@ feature_row:
     url: "/open-education/"
     btn_label: "Learn More"
 intro:
-  - excerpt: 'Follow for updates on the school &nbsp; [<i class="fa fa-twitter"></i> @localpast](https://twitter.com/localpast){: .btn .btn--twitter}'
+  - excerpt: 'Follow for updates on the school &nbsp; [<i class="fab fa-twitter"></i> @localpast](https://twitter.com/localpast){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}

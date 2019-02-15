@@ -30,23 +30,23 @@ layout: default
       <section class="page__content" itemprop="text">
         <div class="notice--primary">
           {% if page.creator %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-pencil-square-o" aria-hidden="true"></i> Creator:</strong> {{ page.creator | array_to_sentence_string }}</p>
+          <p class="page__date"><strong><i class="fas fa-pencil-square-o" aria-hidden="true"></i> Creator:</strong> {{ page.creator | array_to_sentence_string }}</p>
           {% endif %}
           {% if page.publisher %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-bullhorn" aria-hidden="true"></i> Publisher:</strong> {{ page.publisher | array_to_sentence_string }}</p>
+          <p class="page__date"><strong><i class="fas fa-bullhorn" aria-hidden="true"></i> Publisher:</strong> {{ page.publisher | array_to_sentence_string }}</p>
           {% endif %}
           {% if page.date %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Publication Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+            <p class="page__date"><strong><i class="fas fa-calendar" aria-hidden="true"></i> Publication Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
           {% endif %}
           {% if page.modified %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+            <p class="page__date"><strong><i class="fas fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
           {% endif %}
           {% if page.difficulty %}
-            <p class="page__date"><strong><i class="fa fa-graduation-cap" aria-hidden="true"></i> Difficulty</strong>: {{ page.difficulty }} &nbsp;<a href="{{ '/resources/about/#difficulty' | absolute_url }}"><i class="fa fa-info-circle"></i></a>
+            <p class="page__date"><strong><i class="fas fa-graduation-cap" aria-hidden="true"></i> Difficulty</strong>: {{ page.difficulty }} &nbsp;<a href="{{ '/resources/about/#difficulty' | absolute_url }}"><i class="fas fa-info-circle"></i></a>
 </p>
           {% endif %}
           {% if page.license %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-creative-commons" aria-hidden="true"></i> License:</strong>
+          <p class="page__date"><strong><i class="fas fa-creative-commons" aria-hidden="true"></i> License:</strong>
             {% assign license = site.data.license-list[page.license] %}
             <a rel="license" href="{{ license.url }}">
               <img src="{{ license.image-url }}" style="border-style: none;" alt="{{ license.nickname }}" />
@@ -54,10 +54,10 @@ layout: default
           </p>
           {% endif %}
           {% if page.state %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-code-fork" aria-hidden="true"></i> Project State:</strong> {% include state.html %}</p>
+            <p class="page__date"><strong><i class="fas fa-code-branch" aria-hidden="true"></i> Project State:</strong> {% include state.html %}</p>
           {% endif %}
           {% if page.repository %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-github" aria-hidden="true"></i> Repository:</strong> <a href="https://github.com/{{ page.repository }}">{{ page.repository }}</a></p>
+            <p class="page__date"><strong><i class="fab fa-github" aria-hidden="true"></i> Repository:</strong> <a href="https://github.com/{{ page.repository }}">{{ page.repository }}</a></p>
           {% endif %}
         </div>
         {{ content }}
