@@ -16,8 +16,8 @@ funder:
   - Andrew W. Mellon Foundation
   - Alfred P. Sloan Foundation.
 header:
-  teaser: http://cdn.loc.gov/service/pnp/highsm/41000/41076v.jpg
-  overlay_image: http://cdn.loc.gov/service/pnp/highsm/41000/41076v.jpg
+  teaser: /assets/images/41076u-1280-square.jpg
+  overlay_image: /assets/images/41076u-1280-square.jpg
   caption: "Books and family heirlooms, Miller House (1957, Eero Saarinen), Columbus, Indiana, 2016 September 20 by Carol M. Highsmith. Courtesy [Library of Congress](http://www.loc.gov/pictures/item/2016631894/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))."
   overlay_filter: .5
   cta_label: Download Zotero
