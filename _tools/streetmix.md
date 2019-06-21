@@ -20,8 +20,8 @@ creator:
   - Shaunak Kashyap,  rear end engineering
 url: &cta_url "http://streetmix.net/"
 header:
-  teaser: https://raw.githubusercontent.com/codeforamerica/streetmix/master/doc/images/screenshot-beta.jpg
-  overlay_image: https://raw.githubusercontent.com/codeforamerica/streetmix/master/doc/images/screenshot-beta.jpg
+  teaser: /assets/images/streetmix-screenshot-beta.jpg
+  overlay_image: /assets/images/streetmix-screenshot-beta.jpg
   caption: "Courtesy Streetmix ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))."
   overlay_filter: .5
   cta_label: Design your street
