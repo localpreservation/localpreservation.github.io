@@ -30,7 +30,7 @@ layout: default
       <section class="page__content" itemprop="text">
         <div class="notice--primary">
           {% if page.creator %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-pencil-square-o" aria-hidden="true"></i> Creator:</strong> {{ page.creator | array_to_sentence_string }}</p>
+          <p class="page__date"><strong><i class="fas fa-edit" aria-hidden="true"></i> Creator:</strong> {{ page.creator | array_to_sentence_string }}</p>
           {% endif %}
           {% if page.publisher %}
           <p class="page__date"><strong><i class="fas fa-bullhorn" aria-hidden="true"></i> Publisher:</strong> {{ page.publisher | array_to_sentence_string }}</p>
@@ -45,7 +45,7 @@ layout: default
             <p class="page__date"><strong><i class="fas fa-graduation-cap" aria-hidden="true"></i> Difficulty</strong>: {{ page.difficulty }}&nbsp;<a href="{{ '/resources/about/#difficulty' | absolute_url }}"><i class="fas fa-info-circle"></i></a></p>
           {% endif %}
           {% if page.license %}
-          <p class="page__date"><strong><i class="fas fa-creative-commons" aria-hidden="true"></i> License:</strong>
+          <p class="page__date"><strong><i class="fab fa-creative-commons" aria-hidden="true"></i> License:</strong>
             {% assign license = site.data.license-list[page.license] %}
             <a rel="license" href="{{ license.url }}">
               <img src="{{ license.image-url }}" style="border-style: none;" alt="{{ license.nickname }}" />
